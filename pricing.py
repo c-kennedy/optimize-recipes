@@ -11,7 +11,7 @@ from utils import SimilarityCalculator
 import pickle
 
 
-with open('sc_version2.pickle', 'rb') as f:
+with open('smaller_sc.pickle', 'rb') as f:
     sc = pickle.load(f)
 
 prices = pd.read_csv('GE_prices_061819.csv', index_col='Unnamed: 0')

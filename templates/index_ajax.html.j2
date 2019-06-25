@@ -1,0 +1,220 @@
+{% extends "layout.html.j2" %}
+
+{% block title %} optimize dot recipes {% endblock %}
+
+{% block scripts %}
+<script>
+	function searchForRecipes(container, i) {
+		if (i=='1') {
+			var value = $("#recipe_search").val();
+			} else {
+			var value = $("#recipe_search2").val();
+			}
+		$.post("/search", {
+			text: value
+		}).done(function(response) {
+			while (container.hasChildNodes()) {
+				container.removeChild(container.lastChild);
+			}
+			var form = document.createElement("form");
+			form.name="choices"+i;
+			form.action="/get_similar";
+			form.method="POST";
+			form.id="choices"+i;
+			container.appendChild(form);
+			var selector = document.createElement("select");
+			selector.size = response['size'];
+			selector.style="width:350px;"
+			selector.id = "selector"+i;
+			selector.multiple = "yes";
+			selector.form = "choices"+i;
+			selector.className = "selector";
+			container.appendChild(selector);
+			for (x in response['recipes']) {
+				var input = document.createElement("option");
+				input.value = x;
+				input.name = i+"recipe"+x;
+				input.text = response['recipes'][x];
+				input.form = "choices"+i;
+				selector.appendChild(input);
+				}
+		}).fail(function (xhr, ajaxOptions, thrownError) {
+           console.log(xhr.status);
+           console.log(xhr.responseText);
+           console.log(thrownError);
+       });
+	}
+	
+	function generateShoppingList(container) {
+		var selectors = $(".selector");
+		var n_servings = $("#servings").val();
+		var recipes = {servings:n_servings};
+		selectors.each(function () {
+			recipes[$(this).attr('id')] = $(this).val();
+			})
+		$.post("/generate", JSON.stringify(recipes)).done(function(response) {
+			var table = document.getElementById("grocery_list");
+			while (table.hasChildNodes()) {
+				table.removeChild(table.lastChild);
+			}
+			var title_row = document.createElement("tr");
+			var title_cell = document.createElement("td");
+			title_cell.innerHTML = "<h3>"+response.title+"</h3>";
+			title_row.appendChild(title_cell);
+			table.appendChild(title_row);
+			var label_row = document.createElement("tr");
+			var label_cell0 = document.createElement("td");
+			label_cell0.innerHTML = "<b>Ingredient (as listed in recipe)</b>";
+			var label_cell1 = document.createElement("td");
+			label_cell1.innerHTML = "<b>Item to Buy</b>";
+			var label_cell2 = document.createElement("td");
+			label_cell2.innerHTML = "<b>Price for "+n_servings+" Servings</b>";
+			label_row.appendChild(label_cell0);
+			label_row.appendChild(label_cell1);
+			label_row.appendChild(label_cell2);
+			table.appendChild(label_row);
+			response.ingredients.forEach(function (item, index) {
+				var tr = document.createElement("tr");
+				var td1 = document.createElement("td");
+				td1.innerHTML = item.original_name;
+				tr.appendChild(td1);
+				var td2 = document.createElement("td");
+				td2.textContent = item.tobuy;
+				tr.appendChild(td2);
+				var td3 = document.createElement("td");
+				td3.innerHTML = item.price;
+				tr.appendChild(td3);
+				table.appendChild(tr);
+				});
+			var totalPriceRow = document.createElement("tr");
+			totalPriceRow.appendChild(document.createElement("td"));
+			totalPriceRow.appendChild(document.createElement("td"));
+			var totalPriceCell = document.createElement("td");
+			totalPriceCell.innerHTML = response.price;
+			totalPriceRow.appendChild(totalPriceCell);
+			table.appendChild(totalPriceRow);
+			document.getElementById("list_container").style.display="block";
+			}).fail(function (xhr, ajaxOptions, thrownError) {
+           		console.log(xhr.status);
+           		console.log(xhr.responseText);
+           		console.log(thrownError);
+       });
+	}	 
+</script>
+{% endblock %}
+
+{% block body %}
+
+<h1><font color="blue">optimize</font>&centerdot;<font color='green'>recipes</font>! </h1>
+
+<h3>An app for optimizing your recipe selections based on prices and sales at local grocery stores.</h3>
+
+<p>How to get started:</p>
+<ol>
+    <li>Choose nearby grocery stores that you might want to shop at.</li>
+    <li>Search for recipes, then choose from the list which recipes you might be interested in.</li>
+    <li>Click "Generate Recipes" below to see an optimal recipe similar to what you chose.</li>
+</ol>
+
+<div><h3>Grocery Stores:</h3></div>
+<div>
+	<form name="stores" action="/" method="POST" id="stores">
+	{% for store in stores %}
+		<input type="checkbox" name="{{store}}" id="{{store}}" /> {{store}} <br />
+	{% endfor %}
+	</form>
+</div>
+<br />
+<br />
+<div>
+<b>Servings:</b> I want to make 
+
+<select size=1 id="servings">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+</select>
+servings of this recipe.
+
+</div>
+<br />
+<div>
+	<h3>Recipe Search:</h3>
+</div>
+
+
+<table>
+<tr>
+<td style="width:350px">
+<div>
+	<form name="recipe_suggest" action="#">
+	<input type="text" name="recipe_search" id="recipe_search"> <br />
+	<button id="recipe_submit" type="button" form="recipe_suggest" onclick="javascript:searchForRecipes(document.getElementById('recipe_selector'),1)">Search</button>
+	</form>
+</div>
+</td>
+<td style="width:350px">
+<div>
+	<form name="recipe_suggest2" action="#">
+	<input type="text" name="recipe_search2" id="recipe_search2"> <br />
+	<button id="recipe_submit2" type="button" form="recipe_suggest" onclick="javascript:searchForRecipes(document.getElementById('recipe_selector2'),2)">Search</button>
+	</form>
+</div></td></tr>
+<tr>
+<td>
+<div id="recipe_selector">
+</div>
+</td>
+<td>
+<div id="recipe_selector2">
+</div>
+</td>
+</tr>
+<tr>
+<td style="width:700px">
+<div>
+	<form name="generate" action="#">
+	<button id="find_ingredients" type="button" form="generate" onclick="javascript:generateShoppingList(document.getElementById('list_container'))">Generate Shopping List</button>
+	</form>
+</div></td></tr>
+<tr>
+<div id="list_container" style="display:none">
+<table id="grocery_list">
+<tr>
+<td><h3 id="recipe_title"> </h3></td>
+</tr>
+</table>
+
+
+
+
+<br />
+<br />
+
+{% if similar_recipes|length != 0 %}
+<!--	<table>
+    <tr>
+        {% for header in headers %}
+            <th>{{ header }}</th>
+        {% endfor %}
+    </tr>
+    {% for row in similar_recipes.transpose() %}
+        <tr>
+            {% for header in headers %}
+                <td> {{ similar_recipes.loc[header] }} </td>
+            {% endfor %}
+        </tr>
+    {% endfor %} -->
+    {{similar_recipes.transpose()|safe}}
+{% endif %}
+
+
+
+
+
+
+
+{% endblock %}

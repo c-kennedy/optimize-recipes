@@ -1,0 +1,77 @@
+{% extends "layout.html.j2" %}
+
+{% block title %} Grocerizer {% endblock %}
+
+{% block body %}
+
+<h1>Welcome to <font color='green'>Grocerizer</font>! </h1>
+
+<h3>An app for optimizing your recipe selections based on sales at local grocery stores.</h3>
+
+<p>How to get started:</p>
+<ol>
+    <li>Choose up to 4 nearby grocery stores that you might want to shop at.</li>
+    <li>Choose some cuisines or types of food you want to try. Or, <a href="/create">create your own recipes!</a></li>
+    <li>Click "Generate Recipes" below to choose your groceries for the week.</li>
+</ol>
+
+<div><h3>Grocery Stores:</h3></div>
+<div>
+	<form name="stores" action="/" method="POST" id="stores">
+	{% for store in stores %}
+		<input type="checkbox" name="{{store}}" id="{{store}}" /> {{store}} <br />
+	{% endfor %}
+	</form>
+</div>
+<br />
+<br />
+<div>
+	<h3>Recipe Search:</h3>
+</div>
+
+<div>
+	<form name="recipe_suggest" action="/" method="POST">
+	<input type="text" name="recipe_search" id="recipe_search"> <br />
+	<input id="recipe_submit" type="submit">
+	</form>
+</div>
+
+{% if box_length != 0 %}
+<form id="recipe_select" name="recipe_select" action="/" method="POST">
+<select size="{{box_length}}" name="recipe_select" multiple="yes" form="recipe_select">
+	{% for recipe_name, recipe_id in recipes %}
+		<option value="{{recipe_id}}" form="recipe_select">{{recipe_name}}</option>
+	{% endfor %}
+</select>
+<br />
+<input type="submit" id="recipe_select" form="recipe_select">
+</form>
+{% endif %}
+
+<br />
+<br />
+
+{% if similar_recipes|length != 0 %}
+<!--	<table>
+    <tr>
+        {% for header in headers %}
+            <th>{{ header }}</th>
+        {% endfor %}
+    </tr>
+    {% for row in similar_recipes.transpose() %}
+        <tr>
+            {% for header in headers %}
+                <td> {{ similar_recipes.loc[header] }} </td>
+            {% endfor %}
+        </tr>
+    {% endfor %} -->
+    {{similar_recipes.transpose()|safe}}
+{% endif %}
+
+
+
+
+
+
+
+{% endblock %}

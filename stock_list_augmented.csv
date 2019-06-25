@@ -1,0 +1,1001 @@
+ingredient,stocked,freq
+olive oil,1,1730.0
+salt,1,1586.0
+"garlic cloves, minced",1,1099.0
+cloves garlic,1,1015.0
+chopped onion,0,840.0
+water,1,804.0
+black pepper,1,707.0
+vegetable oil,1,622.0
+tomatoes,0,620.0
+salt and pepper to taste,1,619.0
+chicken,0,584.0
+sour cream,0,536.0
+chili powder,1,534.0
+parmesan cheese,0,504.0
+soy sauce,1,502.0
+ground cumin,1,502.0
+fresh cilantro,0,485.0
+chicken breasts,0,463.0
+butter,1,438.0
+extra-virgin olive oil,1,432.0
+all-purpose flour,1,428.0
+chicken broth,1,420.0
+kosher salt,1,416.0
+pepper,1,404.0
+salt and pepper,1,401.0
+dried oregano,1,400.0
+cheese,0,383.0
+eggs,0,380.0
+cheddar cheese,0,361.0
+mozzarella cheese,0,354.0
+corn tortillas,0,353.0
+carrots,0,350.0
+sauce,0,340.0
+sugar,1,326.0
+salt to taste,1,321.0
+tomato sauce,0,313.0
+red bell pepper,0,308.0
+pasta,0,306.0
+salsa,0,292.0
+red pepper,0,289.0
+unsalted butter,1,284.0
+onion,0,281.0
+bay leaf,0,279.0
+tomato paste,0,269.0
+shrimp,0,262.0
+black beans,0,256.0
+mushrooms,0,253.0
+coarse salt and pepper,1,253.0
+chopped fresh parsley,0,248.0
+red pepper flakes,1,247.0
+dry white wine,1,247.0
+finely chopped onion,0,247.0
+ground beef,0,245.0
+chicken breast halves,0,240.0
+garlic powder,1,239.0
+cornstarch,1,236.0
+milk,0,230.0
+large eggs,0,229.0
+flour tortillas,0,227.0
+cayenne pepper,1,224.0
+basil,0,223.0
+fresh basil,0,223.0
+minced garlic,1,218.0
+ground black pepper,1,217.0
+fresh lemon juice,1,216.0
+flour,1,214.0
+canola oil,1,207.0
+brown sugar,1,205.0
+bacon,0,204.0
+medium onion,0,202.0
+cumin,1,202.0
+green bell pepper,0,201.0
+noodles,0,199.0
+sesame oil,1,199.0
+beef,0,199.0
+dijon mustard,1,195.0
+chiles,0,193.0
+fresh ginger,0,192.0
+lime juice,0,192.0
+salt and freshly ground pepper,1,190.0
+green onions,0,184.0
+corn,0,183.0
+ricotta cheese,0,182.0
+avocado,0,181.0
+monterey jack cheese,0,180.0
+"medium onion, chopped",0,180.0
+shallots,0,179.0
+chicken stock,1,178.0
+chopped flat-leaf parsley,0,177.0
+turkey,0,175.0
+honey,1,174.0
+paprika,1,173.0
+extra virgin olive oil,1,169.0
+chopped tomatoes,0,168.0
+fresh lime juice,0,166.0
+lean beef,0,159.0
+italian sausage,0,156.0
+dried thyme,1,154.0
+chopped cilantro,0,151.0
+fresh basil leaves,0,150.0
+chicken thighs,0,149.0
+worcestershire sauce,1,147.0
+spaghetti,0,147.0
+large onion,0,146.0
+minced fresh ginger,-1,145.0
+salt and freshly ground pepper to taste,-1,140.0
+green chiles,-1,139.0
+oil,1,139.0
+lemon juice,0,136.0
+lemon,0,135.0
+green pepper,0,133.0
+garam masala,-1,132.0
+plum tomatoes,0,124.0
+coconut milk,-1,124.0
+coarse salt,-1,124.0
+heavy cream,0,123.0
+fresh thyme,-1,122.0
+zucchini,0,122.0
+freshly ground pepper,-1,122.0
+chicken fat,-1,122.0
+whole milk,0,121.0
+celery stalk,-1,120.0
+pork,0,120.0
+mayonnaise,1,120.0
+curry powder,1,119.0
+ketchup,-1,115.0
+large garlic cloves,-1,115.0
+balsamic vinegar,1,114.0
+thyme sprigs,-1,113.0
+cilantro,0,112.0
+fresh sage,-1,110.0
+spinach,0,110.0
+white onion,-1,109.0
+salmon fillet,-1,109.0
+minced onion,-1,109.0
+garlic,1,109.0
+lime,0,108.0
+corn kernels,-1,108.0
+yellow onion,-1,107.0
+capers,0,105.0
+greens,-1,104.0
+parsley,0,104.0
+red onion,0,104.0
+sea salt,1,104.0
+bread crumbs,0,103.0
+mozzarella,-1,103.0
+beans,-1,103.0
+potatoes,0,102.0
+eggplant,0,102.0
+ginger,0,101.0
+ground coriander,-1,101.0
+tomato juice,-1,101.0
+peanut oil,0,99.0
+oregano,1,98.0
+chopped fresh rosemary,-1,96.0
+baby spinach,-1,96.0
+tortillas,-1,96.0
+mustard,1,96.0
+breadcrumbs,-1,95.0
+small onion,-1,94.0
+hot sauce,-1,94.0
+penne,-1,93.0
+scallions,0,93.0
+jalapeno pepper,0,91.0
+fish sauce,0,90.0
+jalapeno,-1,89.0
+rice vinegar,1,89.0
+marinara sauce,-1,88.0
+cherry tomatoes,-1,88.0
+freshly ground black pepper,-1,87.0
+onion powder,-1,84.0
+orange juice,0,84.0
+lime wedges,-1,84.0
+beef broth,-1,83.0
+white pepper,1,83.0
+fresh parsley,-1,83.0
+flank steak,-1,82.0
+pork tenderloin,-1,82.0
+dry red wine,1,82.0
+celery,0,82.0
+salt and ground black pepper,-1,81.0
+chopped parsley,-1,81.0
+vegetable broth,-1,80.0
+turmeric,1,79.0
+freshly grated parmesan cheese,-1,79.0
+white wine,1,79.0
+dry bread crumbs,-1,78.0
+fresh rosemary,-1,77.0
+rice,0,77.0
+kidney beans,-1,76.0
+dry sherry,-1,76.0
+fresh thyme leaves,-1,76.0
+leeks,0,75.0
+brown rice,-1,74.0
+parmigiano-reggiano cheese,-1,74.0
+ground ginger,-1,74.0
+green chilies,-1,73.0
+oyster sauce,-1,73.0
+ground pork,-1,73.0
+red wine vinegar,1,72.0
+fresh oregano,-1,72.0
+meat,-1,72.0
+tomatillos,-1,71.0
+cider vinegar,1,70.0
+minced shallots,-1,70.0
+ground turmeric,-1,70.0
+ham,-1,69.0
+ground pepper,-1,69.0
+parmesan,0,68.0
+black peppercorns,1,68.0
+white sugar,-1,67.0
+frozen peas,-1,67.0
+sesame seeds,0,66.0
+ground cinnamon,-1,65.0
+bread,1,65.0
+cumin seeds,1,65.0
+white rice,-1,64.0
+hot peppers,-1,64.0
+long-grain rice,-1,64.0
+egg whites,-1,64.0
+lemon zest,-1,64.0
+red wine,1,64.0
+chickpeas,-1,62.0
+pork shoulder,-1,62.0
+flat-leaf parsley leaves,-1,61.0
+pizza dough,-1,61.0
+yellow bell pepper,-1,60.0
+pork loin,-1,60.0
+pecorino cheese,-1,60.0
+fennel seeds,0,60.0
+sirloin,-1,60.0
+asparagus,0,59.0
+jalapeño pepper,-1,59.0
+cayenne,1,59.0
+chili sauce,-1,58.0
+basil leaves,0,58.0
+hoisin sauce,-1,57.0
+light soy sauce,-1,57.0
+sausage,-1,56.0
+pinto beans,-1,56.0
+beef chuck,-1,55.0
+shiitake mushrooms,-1,55.0
+black olives,-1,55.0
+chopped fresh mint,-1,55.0
+dark soy sauce,-1,55.0
+wine,-1,54.0
+red potatoes,-1,53.0
+chopped chives,-1,53.0
+vegetables,-1,53.0
+coarse kosher salt,-1,52.0
+rosemary,1,52.0
+fresh tarragon,-1,52.0
+arborio rice,-1,52.0
+kosher salt and freshly ground black pepper,-1,51.0
+orange,0,51.0
+plain yogurt,-1,51.0
+linguine,-1,51.0
+peanuts,-1,50.0
+white bread,-1,50.0
+white vinegar,1,50.0
+fettuccine,-1,50.0
+sweet italian sausage,-1,50.0
+firm tofu,-1,49.0
+chopped scallions,-1,49.0
+pork chops,-1,49.0
+warm water,-1,48.0
+light brown sugar,-1,48.0
+prosciutto,-1,48.0
+salt and freshly ground black pepper,-1,48.0
+smoked paprika,-1,47.0
+beer,-1,47.0
+scallion greens,-1,47.0
+celery rib,0,47.0
+cilantro leaves,0,46.0
+bell peppers,-1,46.0
+queso fresco,-1,46.0
+basmati rice,-1,46.0
+coriander,1,45.0
+kale,-1,45.0
+pine nuts,0,45.0
+kalamata olives,-1,45.0
+minced ginger,-1,44.0
+almonds,0,44.0
+hamburger buns,-1,44.0
+melted butter,-1,44.0
+cream,-1,43.0
+green beans,-1,43.0
+broccoli florets,-1,43.0
+pancetta,-1,43.0
+ground nutmeg,-1,43.0
+cucumber,0,43.0
+button mushrooms,-1,43.0
+tomato puree,-1,43.0
+ginger root,-1,43.0
+parmigiano-reggiano,-1,42.0
+crumbled feta,-1,42.0
+cooked rice,-1,41.0
+small red onion,-1,41.0
+rice wine,-1,41.0
+barbecue sauce,-1,41.0
+pepper sauce,-1,41.0
+cashews,-1,41.0
+lemon wedges,-1,41.0
+green peas,-1,40.0
+veal,-1,40.0
+ripe tomatoes,-1,40.0
+kosher salt and black pepper,-1,40.0
+half and half,-1,40.0
+cold water,-1,40.0
+chile powder,-1,40.0
+buttermilk,0,40.0
+chili,-1,39.0
+sage,1,39.0
+cream cheese,-1,39.0
+turkey breast,-1,39.0
+margarine,-1,39.0
+mango,-1,39.0
+ricotta,-1,39.0
+cremini mushrooms,-1,39.0
+poblano peppers,-1,39.0
+egg noodles,-1,38.0
+white wine vinegar,-1,38.0
+halibut fillets,-1,38.0
+apple cider vinegar,-1,38.0
+artichoke hearts,-1,38.0
+dry mustard,-1,37.0
+cornmeal,1,37.0
+sea scallops,-1,37.0
+yukon gold potatoes,-1,37.0
+chopped garlic,-1,37.0
+beef stock,-1,37.0
+sun-dried tomatoes,-1,36.0
+rice noodles,-1,36.0
+ground cloves,-1,36.0
+olives,-1,36.0
+broccoli,-1,36.0
+fine sea salt,-1,36.0
+maple syrup,1,35.0
+quinoa,-1,35.0
+serrano chiles,-1,35.0
+"garlic, minced",-1,34.0
+half-and-half,-1,34.0
+goat cheese,-1,34.0
+romaine lettuce,-1,33.0
+portobello mushrooms,-1,33.0
+fennel bulb,-1,33.0
+lemon peel,-1,33.0
+whole cloves,-1,33.0
+pineapple,-1,33.0
+lettuce,-1,32.0
+arugula,-1,32.0
+sweet potatoes,-1,32.0
+elbow macaroni,-1,32.0
+freshly grated nutmeg,-1,32.0
+lamb,-1,31.0
+coriander seeds,1,31.0
+lettuce leaves,-1,31.0
+pesto,-1,31.0
+coconut,-1,31.0
+chuck,-1,31.0
+fish,-1,30.0
+dill,0,30.0
+cauliflower,-1,30.0
+cabbage,-1,30.0
+chilies,-1,30.0
+rice wine vinegar,-1,30.0
+freshly ground pepper to taste,-1,30.0
+dark sesame oil,-1,30.0
+butternut squash,-1,30.0
+chopped fresh dill,-1,29.0
+polenta,-1,29.0
+fontina cheese,-1,29.0
+dark brown sugar,-1,29.0
+active dry yeast,-1,29.0
+apple cider,-1,29.0
+olive oil spray,-1,29.0
+italian tomatoes,-1,29.0
+jalapeño,-1,28.0
+bean sprouts,-1,28.0
+horseradish,-1,28.0
+salmon,0,28.0
+white beans,-1,28.0
+cannellini beans,-1,27.0
+peaches,-1,27.0
+mustard seeds,-1,27.0
+large egg yolks,-1,27.0
+snow peas,-1,27.0
+cinnamon,0,26.0
+marjoram,-1,26.0
+roma tomatoes,-1,26.0
+peanut butter,-1,26.0
+chicken legs,-1,26.0
+cottage cheese,-1,26.0
+grapes,-1,25.0
+french bread,-1,25.0
+anchovy fillets,-1,25.0
+lime zest,-1,25.0
+juice of 1 lemon,-1,25.0
+red chile,-1,25.0
+ground allspice,-1,25.0
+vinegar,1,25.0
+green olives,-1,24.0
+mussels,-1,24.0
+radishes,-1,24.0
+plain greek yogurt,-1,24.0
+cinnamon stick,-1,24.0
+grated parmesan,-1,24.0
+crabmeat,-1,24.0
+herbs,-1,23.0
+green chili,-1,23.0
+yellow squash,-1,23.0
+apples,0,23.0
+skirt steak,-1,23.0
+coconut oil,-1,23.0
+baby carrots,-1,23.0
+bok choy,-1,23.0
+pineapple juice,-1,23.0
+cardamom pods,-1,23.0
+saffron threads,-1,22.0
+chili paste,-1,22.0
+sweet onion,-1,22.0
+molasses,-1,22.0
+watercress,-1,22.0
+panko,-1,22.0
+boiling water,-1,22.0
+cooking oil,-1,22.0
+pearl onions,-1,22.0
+leg of lamb,-1,22.0
+cod fillets,-1,22.0
+yellow cornmeal,-1,22.0
+napa cabbage,-1,21.0
+sriracha,-1,21.0
+five-spice powder,-1,21.0
+sweet paprika,-1,21.0
+baby arugula,-1,21.0
+head garlic,-1,21.0
+spinach leaves,-1,21.0
+thyme,1,21.0
+swiss chard,-1,21.0
+peas,0,20.0
+nutmeg,1,20.0
+blue cheese,-1,20.0
+russet potatoes,-1,20.0
+swiss cheese,-1,20.0
+gruyere cheese,-1,20.0
+water chestnuts,-1,20.0
+red-pepper flakes,-1,20.0
+white mushrooms,-1,20.0
+parsnips,-1,20.0
+jalapeños,-1,20.0
+lemon rind,-1,20.0
+green tomatoes,-1,19.0
+clam juice,-1,19.0
+black-eyed peas,-1,19.0
+cloves,1,19.0
+cilantro sprigs,-1,19.0
+asian sesame oil,-1,18.0
+raisins,0,18.0
+star anise,-1,18.0
+chives,0,18.0
+skim milk,-1,18.0
+couscous,-1,18.0
+pie crust,-1,18.0
+mint leaves,0,18.0
+hot red pepper flakes,-1,18.0
+granny smith apples,-1,18.0
+freshly squeezed lemon juice,-1,18.0
+golden raisins,-1,17.0
+evaporated milk,-1,17.0
+crème fraîche,-1,17.0
+pears,-1,17.0
+puff pastry,-1,17.0
+red lentils,-1,17.0
+salt and black pepper,1,17.0
+marsala wine,-1,17.0
+sweet red pepper,-1,17.0
+red chili flakes,-1,17.0
+fish fillets,-1,17.0
+chicken or vegetable stock,-1,17.0
+greek yogurt,-1,16.0
+jumbo shrimp,-1,16.0
+asian fish sauce,-1,16.0
+chili pepper,-1,16.0
+ground cardamom,-1,16.0
+lentils,-1,16.0
+farfalle,-1,16.0
+okra,-1,16.0
+parmigiano reggiano,-1,16.0
+red-wine vinegar,1,16.0
+freshly squeezed lime juice,-1,16.0
+porcini mushrooms,-1,16.0
+sake,-1,16.0
+italian parsley leaves,-1,15.0
+smoked bacon,-1,15.0
+sweet corn,-1,15.0
+broccoli rabe,-1,15.0
+freshly ground black pepper to taste,-1,15.0
+pecorino romano,-1,15.0
+bread flour,-1,15.0
+pecans,0,15.0
+iceberg lettuce,-1,15.0
+bourbon,-1,14.0
+chorizo,-1,14.0
+anchovy,0,14.0
+coarse sea salt,-1,14.0
+brandy,-1,14.0
+thai fish sauce,-1,14.0
+tofu,-1,14.0
+grated lemon zest,-1,14.0
+finely chopped parsley,-1,14.0
+nonstick cooking spray,-1,14.0
+tequila,-1,14.0
+cornish hens,-1,14.0
+fusilli,-1,14.0
+fresh mint,-1,14.0
+chili flakes,-1,14.0
+red snapper,-1,14.0
+salad greens,-1,14.0
+sea bass,-1,13.0
+whole wheat flour,-1,13.0
+granulated sugar,1,13.0
+sea salt and black pepper,-1,13.0
+broth,-1,13.0
+serrano pepper,-1,13.0
+edamame,-1,13.0
+crusty bread,-1,13.0
+cumin powder,-1,13.0
+jasmine rice,-1,13.0
+dried cranberries,-1,13.0
+minced chives,-1,13.0
+fennel fronds,-1,13.0
+celery leaves,-1,13.0
+red cabbage,-1,13.0
+cranberries,-1,13.0
+tarragon,1,13.0
+turnips,-1,13.0
+mustard powder,-1,12.0
+arugula leaves,-1,12.0
+sage leaves,-1,12.0
+yeast,-1,12.0
+sherry vinegar,0,12.0
+grape seed oil,-1,12.0
+cardamom,-1,12.0
+lobsters,-1,12.0
+ham hocks,-1,12.0
+bass,-1,12.0
+chorizo sausage,-1,12.0
+tabasco sauce,-1,12.0
+potato starch,-1,12.0
+mint,0,12.0
+gruyère cheese,-1,12.0
+egg yolks,0,12.0
+stock,1,12.0
+green cabbage,-1,12.0
+finely minced garlic,-1,12.0
+red chili pepper,-1,12.0
+sugar snap peas,-1,12.0
+baguette,-1,12.0
+poultry seasoning,-1,11.0
+coarse salt and freshly ground pepper to taste,-1,11.0
+lima beans,-1,11.0
+freshly grated parmesan,-1,11.0
+pumpkin seeds,-1,11.0
+ghee,-1,11.0
+plums,-1,11.0
+masa harina,-1,11.0
+apple juice,-1,11.0
+serrano chili,-1,11.0
+clams,-1,11.0
+halibut,-1,11.0
+celery salt,-1,10.0
+beef short ribs,-1,10.0
+sea salt and pepper,-1,10.0
+orecchiette,-1,10.0
+trout,-1,10.0
+juice,-1,10.0
+walnuts,0,10.0
+orzo,-1,10.0
+yogurt,0,10.0
+swordfish,-1,10.0
+bay,-1,10.0
+vodka,-1,10.0
+lamb shoulder,-1,10.0
+whipped cream,-1,10.0
+pistachios,-1,10.0
+corn oil,-1,10.0
+lemon grass,-1,10.0
+orange peel,-1,10.0
+pumpkin,-1,10.0
+littleneck clams,-1,10.0
+lemongrass,-1,10.0
+vegetable stock,-1,10.0
+plain low-fat yogurt,-1,10.0
+country bread,-1,9.0
+serrano chilies,-1,9.0
+white-wine vinegar,-1,9.0
+red chili,-1,9.0
+fennel,0,9.0
+wild rice,-1,9.0
+slab bacon,-1,9.0
+duck legs,-1,9.0
+summer squash,-1,9.0
+squid,-1,9.0
+crabs,-1,9.0
+collard greens,-1,9.0
+duck breasts,-1,9.0
+peppercorns,1,9.0
+artichokes,-1,9.0
+low-fat milk,-1,9.0
+oysters,-1,9.0
+chopped walnuts,-1,8.0
+oats,-1,8.0
+currants,-1,8.0
+pork butt,-1,8.0
+dried apricots,-1,8.0
+salted butter,-1,8.0
+allspice,1,8.0
+tuna,-1,8.0
+boston lettuce,-1,8.0
+cherries,-1,8.0
+herbes de provence,-1,8.0
+anchovy paste,-1,8.0
+navy beans,-1,8.0
+vegetable shortening,-1,8.0
+grapefruit,-1,8.0
+asparagus spears,-1,8.0
+wild mushrooms,-1,8.0
+baking potatoes,-1,8.0
+soba noodles,-1,8.0
+live lobsters,-1,8.0
+red chilies,-1,8.0
+curry leaves,-1,8.0
+chestnuts,-1,8.0
+green lentils,-1,7.0
+yellow pepper,-1,7.0
+orange marmalade,-1,7.0
+baking powder,1,7.0
+cognac,-1,7.0
+ricotta salata,-1,7.0
+duck,-1,7.0
+italian plum tomatoes,-1,7.0
+agave nectar,-1,7.0
+dijon-style mustard,-1,7.0
+arborio or carnaroli rice,-1,7.0
+hazelnuts,-1,7.0
+brussels sprouts,-1,7.0
+italian parsley,0,7.0
+apricot preserves,-1,7.0
+apricots,-1,7.0
+seasoned rice vinegar,-1,7.0
+ice water,-1,7.0
+leaves,-1,7.0
+port,-1,7.0
+creme fraiche,-1,7.0
+apricot jam,-1,7.0
+pork belly,-1,7.0
+juice of 1/2 lemon,-1,7.0
+orange zest,-1,7.0
+juniper berries,-1,7.0
+navel oranges,-1,7.0
+lard,-1,7.0
+saffron,0,7.0
+blackberries,-1,7.0
+hot red-pepper flakes,-1,6.0
+orange rind,-1,6.0
+red chile flakes,-1,6.0
+figs,-1,6.0
+dry vermouth,-1,6.0
+prunes,-1,6.0
+wine vinegar,-1,6.0
+duck fat,-1,6.0
+cardamom seeds,-1,6.0
+jicama,-1,6.0
+sherry,-1,6.0
+tamarind paste,-1,6.0
+beets,-1,6.0
+soft-shell crabs,-1,6.0
+baby artichokes,-1,6.0
+mirin,-1,6.0
+marsala,-1,6.0
+rice flour,-1,6.0
+feta cheese,-1,6.0
+green chili pepper,-1,6.0
+lamb shanks,-1,6.0
+fresh dill,-1,6.0
+hot red pepper,-1,6.0
+tabasco,-1,6.0
+semolina flour,-1,6.0
+salt and white pepper,1,5.0
+crab meat,-1,5.0
+tarragon leaves,-1,5.0
+celery seeds,-1,5.0
+grapeseed oil,-1,5.0
+parsley leaves,0,5.0
+radicchio,-1,5.0
+flounder,-1,5.0
+bay scallops,-1,5.0
+cod,-1,5.0
+lukewarm water,-1,5.0
+pecorino,-1,5.0
+fava beans,-1,5.0
+allspice berries,-1,5.0
+instant yeast,-1,5.0
+chocolate,0,5.0
+whole-wheat flour,-1,5.0
+tapioca,-1,5.0
+sauerkraut,-1,5.0
+chicken wings,-1,5.0
+smoked salmon,-1,5.0
+spring onions,-1,5.0
+savoy cabbage,-1,5.0
+sichuan peppercorns,-1,5.0
+light cream,-1,5.0
+mung bean sprouts,-1,5.0
+gruyère,-1,5.0
+kaffir lime leaves,-1,5.0
+spaghetti squash,-1,5.0
+black mustard seeds,-1,5.0
+rolled oats,-1,4.0
+mild honey,-1,4.0
+calamata olives,-1,4.0
+bananas,-1,4.0
+rutabaga,-1,4.0
+pearl barley,-1,4.0
+unbleached all-purpose flour,-1,4.0
+grated nutmeg,-1,4.0
+chickpea flour,-1,4.0
+mascarpone cheese,-1,4.0
+celery root,-1,4.0
+bluefish,-1,4.0
+thyme leaves,1,4.0
+haricots verts,-1,4.0
+sour cherries,-1,4.0
+pernod,-1,4.0
+acorn squash,-1,4.0
+cantaloupe,-1,4.0
+squash,-1,4.0
+shao hsing rice wine or dry sherry,-1,4.0
+serrano,-1,4.0
+pomegranate juice,-1,4.0
+dry yeast,-1,4.0
+champagne vinegar,-1,4.0
+savory,-1,4.0
+strawberries,0,4.0
+chili oil,-1,4.0
+salt and freshly ground black pepper to taste,-1,4.0
+lobster meat,-1,4.0
+bamboo shoots,-1,4.0
+grated ginger,-1,4.0
+tuna steaks,-1,4.0
+mustard greens,-1,4.0
+white peppercorns,-1,4.0
+nectarines,-1,3.0
+truffle,-1,3.0
+cake flour,-1,3.0
+white miso,-1,3.0
+feta,-1,3.0
+fish stock,-1,3.0
+grapefruit juice,-1,3.0
+coriander leaves,-1,3.0
+fruit,-1,3.0
+hot pepper flakes,-1,3.0
+fish broth,-1,3.0
+chervil,-1,3.0
+oyster mushrooms,-1,3.0
+kirby cucumbers,-1,3.0
+romaine,-1,3.0
+monkfish,-1,3.0
+raspberries,-1,3.0
+brisket,-1,3.0
+green apple,-1,3.0
+yellow mustard seeds,-1,3.0
+winter squash,-1,3.0
+brioche,-1,3.0
+pie shell,-1,3.0
+green peppercorns,-1,3.0
+escarole,-1,3.0
+unsweetened chocolate,-1,3.0
+croutons,-1,3.0
+rosemary leaves,-1,3.0
+spanish onion,-1,3.0
+mascarpone,-1,3.0
+pumpkin puree,-1,3.0
+berries,-1,3.0
+baking soda,1,3.0
+unsweetened cocoa powder,-1,3.0
+bacon fat,-1,3.0
+fingerling potatoes,-1,3.0
+arrowroot,-1,2.0
+matzo meal,-1,2.0
+pita breads,-1,2.0
+sweet peppers,-1,2.0
+bittersweet chocolate,-1,2.0
+bosc pears,-1,2.0
+scallops,-1,2.0
+waxy potatoes,-1,2.0
+chile flakes,-1,2.0
+coffee,-1,2.0
+syrup,-1,2.0
+safflower oil,-1,2.0
+raw brown sugar,-1,2.0
+tarragon vinegar,-1,2.0
+rice-wine vinegar,-1,2.0
+"salt to taste, if desired",-1,2.0
+sesame tahini,-1,2.0
+aleppo pepper,-1,2.0
+almond flour,-1,2.0
+cocoa powder,-1,2.0
+tahini,-1,2.0
+tangerine,-1,2.0
+ruby port,-1,2.0
+pomegranate,-1,2.0
+ancho chilies,-1,2.0
+port wine,-1,2.0
+poppy seeds,-1,2.0
+rhubarb,-1,2.0
+sole,-1,2.0
+white chocolate,-1,2.0
+neutral oil,-1,2.0
+applesauce,-1,2.0
+tamari,-1,2.0
+venison,-1,2.0
+light corn syrup,-1,2.0
+nigella seeds,-1,2.0
+pastry,-1,2.0
+red currant jelly,-1,2.0
+caviar,-1,2.0
+piquillo peppers,-1,2.0
+pink peppercorns,-1,2.0
+madeira wine,-1,2.0
+farro,-1,2.0
+broccoli crowns,-1,2.0
+green garlic,-1,2.0
+salt cod,-1,2.0
+bulgur,-1,2.0
+dates,-1,2.0
+idaho potatoes,-1,2.0
+salt pork,-1,2.0
+veal shanks,-1,2.0
+agave syrup,-1,2.0
+red wine vinegar or sherry vinegar,-1,2.0
+bouquet garni,-1,2.0
+belgian endive,-1,2.0
+liqueur,-1,2.0
+walnut oil,-1,2.0
+pecan halves,-1,2.0
+mesclun,-1,2.0
+virgin olive oil,-1,2.0
+blueberries,-1,1.0
+phyllo,-1,1.0
+bulgur wheat,-1,1.0
+sweetened condensed milk,-1,1.0
+fine cornmeal,-1,1.0
+meyer lemons,-1,1.0
+ginger juice,-1,1.0
+string beans,-1,1.0
+sesame paste,-1,1.0
+oat bran,-1,1.0
+chervil leaves,-1,1.0
+octopus,-1,1.0
+hot-pepper flakes,-1,1.0
+almond extract,-1,1.0
+hungarian paprika,-1,1.0
+smoked trout,-1,1.0
+walnut halves,-1,1.0
+vanilla extract,1,1.0
+dark rum,-1,1.0
+chicken livers,-1,1.0
+canola,-1,1.0
+pistachio nuts,-1,1.0
+orange liqueur,-1,1.0
+unflavored gelatin,-1,1.0
+shortening,-1,1.0
+anise seeds,-1,1.0
+sweet vermouth,-1,1.0
+bibb lettuce,-1,1.0
+demerara sugar,-1,1.0
+pepper flakes,-1,1.0
+watermelon,-1,1.0
+flaky sea salt,-1,1.0
+morels,-1,1.0
+pheasants,-1,1.0
+ice,-1,1.0
+beet greens,-1,1.0
+fleur de sel,-1,1.0
+quail,-1,1.0
+raspberry jam,-1,1.0
+marjoram leaves,-1,1.0
+pomegranate seeds,-1,1.0
+rose water,-1,1.0
+white flour,-1,1.0
+espresso,-1,1.0
+oregano leaves,-1,1.0
+ice cubes,-1,1.0
+barley,-1,1.0
+rabbit,-1,1.0
+mace,-1,1.0
+salt and cayenne pepper,-1,1.0
+blood oranges,-1,1.0
+graham crackers,-1,1.0
+kirsch,-1,1.0
+madeira,-1,1.0
+chanterelles,-1,1.0
+pink grapefruit,-1,1.0
+rum,-1,1.0
+jalapeno chili,-1,1.0
+phyllo dough,-1,1.0
+sardines,-1,1.0
+pomegranate molasses,-1,1.0
+champagne,-1,1.0
+sorrel leaves,-1,0.0
+flat-leaf parsley,-1,0.0
+raspberry vinegar,-1,0.0
+lime leaves,-1,0.0
+sumac,-1,0.0
+salt to taste if desired,-1,0.0
+white rum,-1,0.0
+gelatin,-1,0.0
+chocolate chips,-1,0.0
+korean red pepper paste,-1,0.0
+kohlrabi,-1,0.0
+campari,-1,0.0
+ginger beer,-1,0.0
+pure vanilla extract,-1,0.0
+salmon caviar,-1,0.0
+matzoh meal,-1,0.0
+black truffle,-1,0.0
+caraway seeds,-1,0.0
+nam pla,-1,0.0
+orange extract,-1,0.0
+wheat flour,-1,0.0
+club soda,-1,0.0
+cointreau,-1,0.0
+harissa,-1,0.0
+powdered sugar,-1,0.0
+confectioners' sugar,1,0.0
+cranberry beans,-1,0.0
+veal stock,-1,0.0
+semisweet chocolate,-1,0.0
+calvados,-1,0.0
+sorrel,-1,0.0
+"corn, peanut or vegetable oil",-1,0.0
+buckwheat flour,-1,0.0
+pumpkin purée,-1,0.0
+miso,-1,0.0
+rye whiskey,-1,0.0
+ice cream,-1,0.0
+vanilla,1,0.0
+porcini,-1,0.0
+tonic water,-1,0.0
+endive,-1,0.0
+jerusalem artichokes,-1,0.0
+sweet butter,-1,0.0
+confectioners’ sugar,-1,0.0
+triple sec,-1,0.0
+soda water,-1,0.0
+chia seeds,-1,0.0
+cream of tartar,-1,0.0
+corn syrup,-1,0.0
+bitters,-1,0.0
+sunflower seeds,-1,0.0
+chard,-1,0.0
+angostura bitters,-1,0.0
+pimentón,-1,0.0
+yams,-1,0.0
+lemon twist,-1,0.0
+lump crab meat,-1,0.0
+simple syrup,-1,0.0
+shad roe,-1,0.0
+créme fraîche,-1,0.0
+black rice,-1,0.0
+tart apples,-1,0.0
+herb bouquet,-1,0.0
+maraschino liqueur,-1,0.0
+superfine sugar,-1,0.0
+squabs,-1,0.0
+armagnac,-1,0.0
+white turnips,-1,0.0
+skate wing,-1,0.0
+absinthe,-1,0.0
+vanilla bean,0,0.0
+candied ginger,-1,0.0
+seltzer,-1,0.0
+daikon radish,-1,0.0
+whole-wheat pastry flour,-1,0.0
+rye flour,-1,0.0
+maraschino cherry,-1,0.0
+vanilla ice cream,-1,0.0
+shad,-1,0.0
+grand marnier,-1,0.0
+hazelnut oil,-1,0.0
+pimento,-1,0.0
+cocoa,-1,0.0
+condensed milk,-1,0.0
+apple-cider vinegar,-1,0.0
+gin,-1,0.0
+orange bitters,-1,0.0
+garlic cloves,0,0.0
+cornichons,-1,0.0
+oatmeal,-1,0.0
