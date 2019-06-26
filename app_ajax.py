@@ -19,7 +19,7 @@ sc.info_df['name_lower'] = sc.info_df.name.map(lambda name: name.lower())
 
 sc.info_df['has_price'] = sc.info_df.index.map(lambda ind: bool(get_GE_recipe_price(ind)))
     
-prices = pd.read_csv('GE_prices_061819.csv', index_col='Unnamed: 0')
+prices = pd.read_csv('GE_prices_062519.csv', index_col='Unnamed: 0')
 
 recipes = pd.read_csv('smaller_recipe_data_with_indices.csv', index_col='Unnamed: 0')
 
