@@ -33,14 +33,17 @@ exclude_list = ['sliced','chopped','diced','minced','fresh','finely','freshly','
 def get_GE_recipe_price(ind):
     """For recipe with index ind based on quantities in sc.info_df and 
        prices in prices, return a PricedRecipe object"""
+
+    # code-review: this wall of code desperately needs comments and blank lines
+    #   to help human readers. I can't even :) 
+
     row = sc.info_df.loc[ind]
     failed = False
     title = row['name']
     ingredients = []
     ingredient_items = dict()
     for n in range(row.number_of_ingredients):
-        ingredient_name = row['ingredient%d'%(n)]
-        cleaned_name = clean_name(ingredient_name)
+        ingredient_name = row['ingredient%d'%(n)] cleaned_name = clean_name(ingredient_name)
         ingredients.append(ingredient_name)
         if sc.stock_list.loc[ingredient_name,'stocked']==1:
             continue
@@ -76,7 +79,7 @@ def get_GE_recipe_price(ind):
         price = sum(p[1] for p in ingredient_items.values())
         return PricedRecipe(ind, title, ingredients, ingredient_items, price)
 
-class PricedRecipe(object):
+class PricedRecipe(object):  # code-review: if python 3, then class PricedRecipe: is all you need
     """Container class for recipes with priced ingredients
        The price itself is self.price"""
     def __init__(self, ind, title, ingredients, ingredient_items, price):
