@@ -1,6 +1,6 @@
 {% extends "layout.html.j2" %}
 
-{% block title %} optimize dot recipes {% endblock %}
+{% block title %} OptiMeal {% endblock %}
 
 {% block scripts %}
 <script>
@@ -105,14 +105,15 @@
 
 {% block body %}
 
-<h1><font color="blue">optimize</font>&centerdot;<font color='green'>recipes</font>! </h1>
+<h1><font color="blue">Opti</font>&centerdot;<font color='green'>Meal</font> </h1>
 
-<h3>An app for optimizing your recipe selections based on prices and sales at local grocery stores.</h3>
+<h3>An app for perfecting your meal planning based on price information at local grocery stores.</h3>
 
 <p>How to get started:</p>
 <ol>
     <li>Choose nearby grocery stores that you might want to shop at.</li>
-    <li>Search for recipes, then choose from the list which recipes you might be interested in.</li>
+    <li>Specify how many servings you want to make.</li>
+    <li>Search for recipes, then choose from the list which recipes you're interested in.</li>
     <li>Click "Generate Recipes" below to see an optimal recipe similar to what you chose.</li>
 </ol>
 
@@ -156,22 +157,23 @@ servings of this recipe.
 	</form>
 </div>
 </td>
-<td style="width:350px">
+<!--<td style="width:350px">
 <div>
 	<form name="recipe_suggest2" action="#">
 	<input type="text" name="recipe_search2" id="recipe_search2"> <br />
 	<button id="recipe_submit2" type="button" form="recipe_suggest" onclick="javascript:searchForRecipes(document.getElementById('recipe_selector2'),2)">Search</button>
 	</form>
-</div></td></tr>
+</div></td>-->
+</tr>
 <tr>
 <td>
 <div id="recipe_selector">
 </div>
 </td>
-<td>
+<!--<td>
 <div id="recipe_selector2">
 </div>
-</td>
+</td>-->
 </tr>
 <tr>
 <td style="width:700px">
