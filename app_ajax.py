@@ -2,21 +2,15 @@
 # -*- coding: utf-8 -*-
 
 from flask import Flask, render_template, request, jsonify
-#from flask_bootstrap import Bootstrap
-#from flask_wtf import FlaskForm
-#from wtforms import StringField
-#from wtforms.validators import DataRequired
-#import bokeh
 import pandas as pd
 import numpy as np
-import utils
 from utils import SimilarityCalculator
 import pickle
+import json
 from pricing import PricedRecipe, get_GE_recipe_price
-import spacy
-#import scraping
+#import spacy
 
-nlp = spacy.load('en_core_web_sm')
+#nlp = spacy.load('en_core_web_sm')
 
 with open('smaller_sc.pickle', 'rb') as f:
     sc = pickle.load(f)
@@ -27,7 +21,7 @@ sc.info_df['has_price'] = sc.info_df.index.map(lambda ind: bool(get_GE_recipe_pr
     
 prices = pd.read_csv('GE_prices_061819.csv', index_col='Unnamed: 0')
 
-recipes = pd.read_csv('small_recipe_data.csv', index_col='Unnamed: 0')
+recipes = pd.read_csv('smaller_recipe_data_with_indices.csv', index_col='Unnamed: 0')
 
 # sc is a SimilarityCalculator, and can return indices of similar recipes
 # it also has the recipe table baked in as .info_df
@@ -41,7 +35,7 @@ stores = ['Giant Eagle Victorian Village']
 @app.route("/", methods=['GET','POST'])
 def home():
     box_length=0
-    recipes=None
+    recipes_to_use=None
     similar_recipes = []
     headers=[]
     if request.method == 'POST':
@@ -52,7 +46,7 @@ def home():
             condition = sc.info_df.name_lower.str.contains(text_to_search)
             recipe_choices = list(sc.info_df.loc[condition].name)
             recipe_ids = list(sc.info_df.loc[condition].index)
-            recipes = zip(recipe_choices, recipe_ids)
+            recipes_to_use = zip(recipe_choices, recipe_ids)
             box_length = min(len(recipe_choices),8)
         recipe_selections = request.form.getlist('recipe_select')
         if recipe_selections:
@@ -64,7 +58,7 @@ def home():
                                             List in similar_recipes], index=headers)
             
     return render_template("index_ajax.html.j2", stores=stores, box_length=box_length,
-                           recipes=recipes, similar_recipes=similar_recipes,
+                           recipes=recipes_to_use, similar_recipes=similar_recipes,
                            headers=headers)
 
 @app.route('/search', methods=['POST'])
@@ -143,10 +137,10 @@ class FormattedPricedRecipe(object):
         ingredients_in_pantry = []
         for number, ingredient in enumerate(self.ingredients):
             raw_ingredient = recipes.loc[self.index, 'ingredient%d'%(number)]
+            indices_to_use = json.loads(recipes.loc[self.index, 'ingredient%dinds'%(number)])
             output = []
-            ingredient_lemmas = set([token.lemma_ for token in nlp(ingredient)])
-            for word in raw_ingredient.split(' '):
-                if nlp(word)[0].lemma_ in ingredient_lemmas:
+            for num, word in enumerate(raw_ingredient.split()):
+                if num in indices_to_use:
                     output.append(highlight_word(word))
                 else:
                     output.append(word)

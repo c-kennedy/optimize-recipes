@@ -88,7 +88,9 @@
 				});
 			var totalPriceRow = document.createElement("tr");
 			totalPriceRow.appendChild(document.createElement("td"));
-			totalPriceRow.appendChild(document.createElement("td"));
+			var totalPriceText = document.createElement("td");
+			totalPriceText.innerHTML = "<b><font color='blue'>Total Price: </font></b>";
+			totalPriceRow.appendChild(totalPriceText);
 			var totalPriceCell = document.createElement("td");
 			totalPriceCell.innerHTML = response.price;
 			totalPriceRow.appendChild(totalPriceCell);
