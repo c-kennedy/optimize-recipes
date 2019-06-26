@@ -17,9 +17,9 @@ with open('smaller_sc.pickle', 'rb') as f:
     
 sc.info_df['name_lower'] = sc.info_df.name.map(lambda name: name.lower())
 
-sc.info_df['has_price'] = sc.info_df.index.map(lambda ind: bool(get_GE_recipe_price(ind)))
+sc.info_df['has_price'] = pd.read_csv('nearby_price_list.csv', header=None, index_col=0)
     
-prices = pd.read_csv('GE_prices_062519.csv', index_col='Unnamed: 0')
+prices = pd.read_csv('GE_prices_062519.csv')
 
 recipes = pd.read_csv('smaller_recipe_data_with_indices.csv', index_col='Unnamed: 0')
 
@@ -87,7 +87,7 @@ def generate():
             recipe_selections = [int(n) for n in data['selector%d'%(i)]]
         except:
             continue
-        similar_recipes = sum(([x[1] for x in sc.get_similar_indices(ind) if x[0]>0.5] for
+        similar_recipes = sum(([x[1] for x in sc.get_similar_indices(ind) if x[0]>=0.5] for
                             ind in recipe_selections), [])
         potentials += [get_GE_recipe_price(ind) for ind in similar_recipes if
                        get_GE_recipe_price(ind)]

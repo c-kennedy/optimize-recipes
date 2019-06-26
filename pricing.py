@@ -14,7 +14,7 @@ import pickle
 with open('smaller_sc.pickle', 'rb') as f:
     sc = pickle.load(f)
 
-prices = pd.read_csv('GE_prices_062519.csv', index_col='Unnamed: 0')
+prices = pd.read_csv('GE_prices_062519.csv')
 prices['name_lower'] = prices['name'].map(lambda s:s.lower())
 
 #recipes = pd.read_csv('recipe_data.csv', index_col='Unnamed: 0')
@@ -28,7 +28,7 @@ def clean_name(ingredient, exclude=None):
     ingredient_name = ' '.join(word for word in ingredient.split() if word not in exclude_list)
     return ingredient_name
 
-exclude_list = ['sliced','chopped','diced','minced','fresh','finely','freshly','halves','ground','dried','to','taste']
+exclude_list = ['sliced','chopped','diced','minced','fresh','finely','freshly','halves','dried','to','taste']
 
 def get_GE_recipe_price(ind):
     """For recipe with index ind based on quantities in sc.info_df and 
@@ -54,7 +54,7 @@ def get_GE_recipe_price(ind):
             failed = True
             break
         ingredient_type_set = set(['wt','vol']) if ingredient_type in ['wt','vol'] else ('whole',)
-        condition = (prices.name==cleaned_name)
+        condition = (prices.ing_name==cleaned_name)
         condition = condition & (prices.norm_unit_price_type.isin(ingredient_type_set))
         if 'sauce' not in cleaned_name:
             condition = condition & ~(prices.name_lower.str.contains('sauce'))
