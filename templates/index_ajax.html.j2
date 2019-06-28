@@ -64,7 +64,7 @@
 			table.appendChild(title_row);
 			var label_row = document.createElement("tr");
 			var label_cell0 = document.createElement("td");
-			label_cell0.innerHTML = "<b>Ingredient (as listed in recipe)</b>";
+			label_cell0.innerHTML = "<b>Ingredients (as listed in recipe)</b>";
 			var label_cell1 = document.createElement("td");
 			label_cell1.innerHTML = "<b>Item to Buy</b>";
 			var label_cell2 = document.createElement("td");
@@ -73,6 +73,14 @@
 			label_row.appendChild(label_cell1);
 			label_row.appendChild(label_cell2);
 			table.appendChild(label_row);
+			var info_row = document.createElement("tr");
+			var info_cell0 = document.createElement("td");
+			info_cell0.innerHTML = "<b>Original yield: "+response.original_servings+" servings</b>";
+			var info_cell1 = document.createElement("td");
+			info_cell1.innerHTML = "<b>(All items available at: <font color='blue'>"+response.store+"</font>)</b>";
+			info_row.appendChild(info_cell0);
+			info_row.appendChild(info_cell1);
+			table.appendChild(info_row);
 			response.ingredients.forEach(function (item, index) {
 				var tr = document.createElement("tr");
 				var td1 = document.createElement("td");
@@ -115,7 +123,7 @@
 <ol>
     <li>Choose nearby grocery stores that you might want to shop at.</li>
     <li>Specify how many servings you want to make.</li>
-    <li>Search for recipes, then choose from the list which recipes you're interested in.</li>
+    <li>Search for recipes, then choose from the list which recipes you're interested in. Note that for now, just main dishes are included</li>
     <li>Click "Generate Recipes" below to see an optimal recipe similar to what you chose.</li>
 </ol>
 
@@ -139,6 +147,10 @@
 <option value="4">4</option>
 <option value="5">5</option>
 <option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
 </select>
 servings of this recipe.
 
@@ -181,15 +193,12 @@ servings of this recipe.
 <td style="width:700px">
 <div>
 	<form name="generate" action="#">
-	<button id="find_ingredients" type="button" form="generate" onclick="javascript:generateShoppingList(document.getElementById('list_container'))">Generate Shopping List</button>
+	<button id="find_ingredients" type="button" form="generate" onclick="javascript:generateShoppingList(document.getElementById('list_container'))">Generate Grocery List</button>
 	</form>
 </div></td></tr>
 <tr>
 <div id="list_container" style="display:none">
 <table id="grocery_list">
-<tr>
-<td><h3 id="recipe_title"> </h3></td>
-</tr>
 </table>
 
 

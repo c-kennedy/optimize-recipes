@@ -1,6 +1,10 @@
 OptiMeal
 ===============
 
+An app to perfect your meal planning using local grocery prices. Includes ingredient lists parsed from an archive of 27,000 Yummly recipes, scraped prices from Giant Eagle and (eventually) a Scraper class to get more, and an app built with Flask and AJAX to allow the user to select a recipe or recipes, then find the recipe that is cheapest per serving.
+
+This project is still very much in development, so don't be too surprised if you find a scandalous dearth of comments, some poor formatting, and various other chaos. 
+
 This repository includes:
 
 Python scripts
