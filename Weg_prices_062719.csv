@@ -1,0 +1,1498 @@
+,ing_name,name,size,price,on_sale,norm_unit_price,norm_unit_price_type
+0,onion,Green Onions,1 ea.,$1.29,False,1.29,whole
+1,onion,Yellow Onions,48 oz.,$3.99,False,0.0029320987654320985,wt
+2,onion,Red Onions,48 oz.,$4.99,False,0.0036669606114050554,wt
+3,onion,10 lb Cooking Onions,160 oz.,$5.99,False,0.001320546737213404,wt
+4,tomatoes,"Grape Tomatoes, FAMILY PACK",1 qt.,$3.99,False,0.004216199080678396,vol
+5,tomatoes,Grape Tomatoes,1 pt.,$3.99,False,0.008432309057863815,vol
+6,tomatoes,"Tomatoes Roma, FAMILY PACK",1.5 lb.,$2.99,False,0.004394473838918283,wt
+7,tomatoes,"Flavorful Medley Snacking Tomatoes, FAMILY PACK",1.5 lb.,$5.49,False,0.008068783068783067,wt
+8,chicken,Garlic Parmesan Chicken Breast,6 oz.,$7.00,False,0.04115226337448559,wt
+9,chicken,Chicken Caprese,8 oz.,$7.00,False,0.030864197530864196,wt
+10,chicken,"Brown Sugar Barbeque, Seasoned Bone-in Chicken",1 Package Approx. 2.5 lb.,$3.99/lb,False,0.008796296296296297,wt
+11,chicken,"Boneless & Skinless Chicken Breasts with Rib Meat, FAMILY PACK",1 Package Approx. 6 lb.,$1.79/lb*,True,0.0039462081128747795,wt
+12,sour cream,Sour Cream,16 oz.,$2.49,False,0.005489417989417989,wt
+13,sour cream,"Sour Cream, FAMILY PACK",48 oz.,$3.49,False,0.00256466784244562,wt
+14,sour cream,Sour Cream,16 oz.,$1.39*,True,0.0030643738977072306,wt
+15,sour cream,Sour Cream,8 oz.,$0.99,False,0.004365079365079365,wt
+16,parmesan cheese,Parmesan Grated Cheese,8 oz.,$2.99,False,0.01318342151675485,wt
+17,parmesan cheese,Parmesan Grated Cheese,16 oz.,$5.29,False,0.011662257495590828,wt
+18,parmesan cheese,Parmigiano Reggiano Love Bites,1 Each Approx. 0.5 lb.,$25.99/lb,False,0.05729717813051146,wt
+19,parmesan cheese,Parmesan & Romano Grated Cheese,8 oz.,$2.99,False,0.01318342151675485,wt
+20,cilantro,Fresh Cilantro (Corriander),1 ea.,$0.79,False,0.79,whole
+21,cilantro,"Chicken Sausage, Cilantro Lime",12 oz.,$6.59,False,0.019370958259847144,wt
+22,cilantro,"Cilantro Lime Marinated Boneless, Skinless Chicken Thighs",1 Package Approx. 1.5 lb.,$4.99/lb,False,0.011000881834215168,wt
+23,cilantro,Cilantro,0.25 oz.,$1.29,False,0.182010582010582,wt
+24,chicken breasts,Garlic Parmesan Chicken Breast,6 oz.,$7.00,False,0.04115226337448559,wt
+25,chicken breasts,"Boneless & Skinless Chicken Breasts with Rib Meat, FAMILY PACK",1 Package Approx. 6 lb.,$1.79/lb*,True,0.0039462081128747795,wt
+26,chicken breasts,"Lemon Garlic Chicken Breasts, FAMILY PACK",16 oz.,$16.00,False,0.03527336860670194,wt
+27,chicken breasts,Chicken Breast Teriyaki with Mushrooms,13 oz.,$9.00,False,0.02442002442002442,wt
+28,eggs,Large Brown Eggs,24 oz.,$3.99,False,0.005864197530864197,wt
+29,eggs,"Three Dozen Large Eggs, FAMILY PACK",72 oz.,$1.99,False,0.0009749167156574564,wt
+30,eggs,Extra Large Brown Eggs,27 oz.,$4.19,False,0.005473904239336338,wt
+31,eggs,Pasture Raised Large Brown Eggs,24 oz.,$5.99*,True,0.008803644914756025,wt
+32,cheddar cheese,"Extra Sharp Cheddar Cheese, White",32 oz.,$6.49,False,0.007153880070546737,wt
+33,cheddar cheese,"Sharp Cheddar Cheese, FAMILY PACK",32 oz.,$6.49,False,0.007153880070546737,wt
+34,cheddar cheese,"Sharp Cheddar Cheese, White",32 oz.,$6.49,False,0.007153880070546737,wt
+35,cheddar cheese,Sliced Mild Cheddar Cheese,5 oz.,$4.99,False,0.03520282186948854,wt
+36,mozzarella cheese,Part-Skim Mozzarella Fancy Shredded Cheese,6 oz.,$3.99,False,0.023456790123456788,wt
+37,mozzarella cheese,Fresh Mozzarella Cheese,32 oz.,$7.99,False,0.00880731922398589,wt
+38,mozzarella cheese,"Low-Moisture Part-Skim Shredded Mozzarella, FAMILY PACK",80 oz.,$11.49,False,0.005066137566137567,wt
+39,mozzarella cheese,Shredded Whole Milk Mozzarella Cheese,16 oz.,$3.19,False,0.007032627865961199,wt
+40,corn tortillas,Stoneground Yellow Corn Tortillas,12.69 oz.,$2.99,False,0.008311061633888006,wt
+41,corn tortillas,Blue Corn Tortilla Chips,16 oz.,$2.50*,True,0.005511463844797178,wt
+42,corn tortillas,White Corn Tortilla Chips,16 oz.,$2.50*,True,0.005511463844797178,wt
+43,corn tortillas,Yellow Corn Tortilla Chips,16 oz.,$2.50*,True,0.005511463844797178,wt
+44,carrots,Baby-Cut Carrots,16 oz.,$1.29,False,0.002843915343915344,wt
+45,carrots,Carrots,16 oz.,$1.29,False,0.002843915343915344,wt
+46,carrots,Carrots,32 oz.,$2.29,False,0.0025242504409171075,wt
+47,carrots,Matchstick Carrots,10 oz.,$1.99,False,0.007019400352733686,wt
+48,sauce,Coconut Shrimp with Sweet Chili Sauce,6.5 oz.,$6.50,False,0.03527336860670194,wt
+49,sauce,Scallops with Garlic Pesto Sauce,12 oz.,$10.00,False,0.02939447383891828,wt
+50,sauce,Salmon with Pesto Sauce,6 oz.,$9.00,False,0.0529100529100529,wt
+51,sauce,Cajun Salmon and Garlic Pepper Sauce,14 oz.,$12.00,False,0.03023431594860166,wt
+52,tomato sauce,Tomato Sauce,29 oz.,$2.29,False,0.0027853797968740495,wt
+53,tomato sauce,"Penne with Seasoned Tomato Sauce and Mozzarella, FAMILY PACK",32 oz.,$13.00,False,0.014329805996472662,wt
+54,tomato sauce,Penne with Seasoned Tomato Sauce & Mozzarella Pasta Bowl,12 oz.,$6.00,False,0.01763668430335097,wt
+55,tomato sauce,No Salt Added Tomato Sauce,8 oz.,$0.49,False,0.0021604938271604936,wt
+56,red bell pepper,"6 Pack Red Peppers, FAMILY PACK",2 lb.,$5.99,False,0.0066027336860670196,wt
+57,red bell pepper,Roasted Red Pepper Hummus,7 oz.,$2.49,False,0.01254724111866969,wt
+58,red bell pepper,"Roasted Red Pepper Hummus, FAMILY PACK",32 oz.,$5.99,False,0.0066027336860670196,wt
+59,red bell pepper,"Roasted Red Pepper Hummus Snack Packs, FAMILY PACK",24 oz.,$5.99,False,0.008803644914756025,wt
+60,pasta,"Potato Gnocchi, FAMILY PACK",32 oz.,$7.49,False,0.008256172839506172,wt
+61,pasta,Penne Rigate,16 oz.,$1.99,False,0.004387125220458554,wt
+62,pasta,Italian Classics Whole Wheat Penne Rigate,16 oz.,$1.99,False,0.004387125220458554,wt
+63,pasta,Italian Classics Whole Wheat Fusilli,16 oz.,$1.99,False,0.004387125220458554,wt
+64,salsa,Pico de Gallo Salsa,1 Each Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+65,salsa,Salsa Verde,16 oz.,$5.50,False,0.012125220458553791,wt
+66,salsa,Medium Salsa,15.5 oz.,$2.79,False,0.006349206349206349,wt
+67,salsa,Mild Salsa,15.5 oz.,$2.79,False,0.006349206349206349,wt
+68,red pepper,"6 Pack Red Peppers, FAMILY PACK",2 lb.,$5.99,False,0.0066027336860670196,wt
+69,red pepper,Greenhouse Grown Red Sweet Peppers,1 Each Approx. 0.5 lb.,$2.99/lb,False,0.006591710758377425,wt
+70,red pepper,Roasted Red Peppers,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+71,red pepper,"Bell Pepper, Organic, Red",1 ea.,$2.49,False,2.49,whole
+72,bay leaf,Bay Leaf,0.14 oz.,$5.99,False,1.5091962711010327,wt
+73,bay leaf,Organic Turkish Bay Leaves,0.18 oz.,$8.99,False,1.761708798745836,wt
+74,bay leaf,Bay Leaves,0.12 oz.,$4.99,False,1.4667842445620223,wt
+75,bay leaf,Bay Leaves,0.5 oz.,$1.99,False,0.14038800705467372,wt
+76,tomato paste,Tomato Paste,7 oz.,$1.99,False,0.01002771478961955,wt
+77,tomato paste,Tomato Paste,6 oz.,$1.29,False,0.007583774250440916,wt
+78,tomato paste,"Tomato Paste, Organic, Double Concentrated",4.56 oz.,$2.99,False,0.023128809678517284,wt
+79,tomato paste,Tomato Paste,6 oz.,$0.99,False,0.005820105820105819,wt
+80,shrimp,Coconut Shrimp with Sweet Chili Sauce,6.5 oz.,$6.50,False,0.03527336860670194,wt
+81,shrimp,Shrimp and Grits,14 oz.,$11.00,False,0.02771478961955152,wt
+82,shrimp,Low Country Shrimp Boil,30 oz.,$24.00,False,0.02821869488536155,wt
+83,shrimp,Shrimp with Vodka Blush Sauce,13 oz.,$10.00,False,0.0271333604666938,wt
+84,black beans,"Black Beans, FAMILY PACK",93 oz.,$2.99,False,0.0011340577648821376,wt
+85,black beans,"Black Beans, FAMILY PACK",60 oz.,$3.69,False,0.0021693121693121694,wt
+86,black beans,Black Beans,15.5 oz.,$0.49*,True,0.0011150935882118678,wt
+87,black beans,Black Beans,16 oz.,$2.99,False,0.006591710758377425,wt
+88,mushrooms,"Sliced Baby Bella Mushrooms, FAMILY PACK",20 oz.,$3.99,False,0.007037037037037038,wt
+89,mushrooms,"Whole Baby Bella Mushrooms, FAMILY PACK",24 oz.,$3.99,False,0.005864197530864197,wt
+90,mushrooms,"Sliced White Mushrooms, FAMILY PACK",20 oz.,$3.99,False,0.007037037037037038,wt
+91,mushrooms,"Mushrooms, Whole White",24 oz.,$3.99,False,0.005864197530864197,wt
+92,parsley,Organic Italian Parsley,1 ea.,$1.49,False,1.49,whole
+93,parsley,Italian Parsley,1 ea.,$1.49,False,1.49,whole
+94,parsley,Italian Parsley,0.25 oz.,$1.29,False,0.182010582010582,wt
+95,parsley,Curly Parsley,0.25 oz.,$1.29,False,0.182010582010582,wt
+96,ground beef,93/7 Grass Fed Ground Beef,16 oz.,$6.99,False,0.01541005291005291,wt
+97,ground beef,"93% Lean Ground Beef, FAMILY PACK",48 oz.,$17.67,False,0.012985008818342152,wt
+98,ground beef,80/20 Ground Beef Patties,16 oz.,$5.69,False,0.012544091710758378,wt
+99,ground beef,"80/20 Ground Beef, FAMILY PACK",48 oz.,$14.97,False,0.011000881834215166,wt
+100,milk,2% Reduced Fat Milk,1 gal.,$2.09,False,0.0005521796565389695,vol
+101,milk,1% Low Fat Milk,1 gal.,$1.89,False,0.0004993394980184941,vol
+102,milk,Fat Free Milk,1 gal.,$1.79,False,0.0004729194187582563,vol
+103,milk,Vitamin D Whole Milk,1 gal.,$2.09,False,0.0005521796565389695,vol
+104,large eggs,"Three Dozen Large Eggs, FAMILY PACK",72 oz.,$1.99,False,0.0009749167156574564,wt
+105,large eggs,Large Brown Eggs,24 oz.,$3.99,False,0.005864197530864197,wt
+106,large eggs,Extra Large Brown Eggs,27 oz.,$4.19,False,0.005473904239336338,wt
+107,large eggs,Pasture Raised Large Brown Eggs,24 oz.,$5.99*,True,0.008803644914756025,wt
+108,flour tortillas,"Tortillas, Flour, Ricas, Family Pack",22.5 oz.,$2.99,False,0.004687438761512836,wt
+109,flour tortillas,"Tortillas, Flour, Fajita Size, Twin Pack",45 oz.,$5.79,False,0.004538506760728983,wt
+110,flour tortillas,"Tortilla Chips, Coconut Flour, Organic, Himalayan Pink Salt",5.5 oz.,$3.99,False,0.02558922558922559,wt
+111,flour tortillas,"Tortilla Chips, Coconut Flour, Organic, Sea Salt & Vinegar",5.5 oz.,$3.99,False,0.02558922558922559,wt
+112,basil,Fresh Living Basil,1 ea.,$3.49,False,3.49,whole
+113,basil,Basil,2 oz.,$2.99,False,0.0527336860670194,wt
+114,basil,Basil,1 ea.,$1.99,False,1.99,whole
+115,basil,Tomato Basil with Orzo Soup,16 oz.,$4.99,False,0.011000881834215168,wt
+116,bacon,Uncured Turkey Bacon,10 oz.,$6.29,False,0.02218694885361552,wt
+117,bacon,"Uncured Bacon, Apple Wood Smoked",12 oz.,$7.99*,True,0.023486184597295706,wt
+118,bacon,"Center Cut Uncured Bacon Maple Smoked, Thick Sliced FAMILY PACK",48 oz.,$14.99,False,0.011015579071134625,wt
+119,bacon,Cherrywood Smoked Uncured Bacon,12 oz.,$7.99*,True,0.023486184597295706,wt
+120,green bell pepper,Extra Large Green Peppers,1 Each Approx. 0.55 lb.,$1.79/lb,False,0.0039462081128747795,wt
+121,green bell pepper,Long Hot Green Pepper,1 Each Approx. 0.15 lb.,$4.49/lb,False,0.009898589065255732,wt
+122,green bell pepper,Diced Green Peppers & Onions,7 oz.,2/$5.00,False,0.025195263290501382,wt
+123,green bell pepper,Diced Green Peppers,7 oz.,2/$5.00,False,0.025195263290501382,wt
+124,noodles,"Singapore Noodles with Chicken & Shrimp, FAMILY PACK",32 oz.,$16.00,False,0.01763668430335097,wt
+125,noodles,Chicken Noodle Soup,16 oz.,$5.99,False,0.013205467372134039,wt
+126,noodles,Organic Zucchini Noodles,1 Package Approx. 1 lb.,$8.49/lb,False,0.018716931216931215,wt
+127,noodles,Chicken Noodle Soup,32 oz.,$10.49,False,0.011563051146384479,wt
+128,beef,Cracked Pepper Beef Strip Steak,1 Package Approx. 0.75 lb.,$11.99/lb,False,0.026432980599647264,wt
+129,beef,Beef Ribeye Steak with Cracked Pepper Seasoning,1 Package Approx. 1 lb.,$14.79/lb,False,0.0326058201058201,wt
+130,beef,Beef Pizzaiola,12 oz.,$9.00,False,0.02645502645502645,wt
+131,beef,"80% Lean Ground Beef, FAMILY PACK",1 Package Approx. 6.1 lb.,$2.19/lb,False,0.004828042328042328,wt
+132,chiles,Red Fresno Pepper,1 Each Approx. 0.2 lb.,$4.49/lb,False,0.009898589065255732,wt
+133,chiles,"Green Chiles, Diced, Mild",4 oz.,$1.99,False,0.017548500881834215,wt
+134,chiles,"Green Chiles, Mild, Chopped",4.5 oz.,$1.49,False,0.011679404271996863,wt
+135,chiles,"Green Chiles, Diced, Fire Roasted, Mild",4 oz.,$1.49,False,0.013139329805996473,wt
+136,ginger,Fresh Ginger,1 Each Approx. 0.35 lb.,$2.99/lb,False,0.006591710758377425,wt
+137,ginger,Three Grain Ginger Salad,11.2 oz.,$5.99,False,0.018864953388762914,wt
+138,ginger,Lemon Ginger Cayenne Juice Blend,14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+139,ginger,Raspberry Lemon Ginger Kombucha,12 fl. oz.,$2.49,False,0.0070172472100101455,vol
+140,lime juice,Fresh Lime Juice,64 fl. oz.,$25.00,False,0.013210179235711871,vol
+141,lime juice,"Lime Juice, Reconstituted",4.5 fl. oz.,2/$3.00,False,0.02254537256228159,vol
+142,lime juice,"100% Juice, Pure Lime",16 fl. oz.,$4.49,False,0.009490192762935407,vol
+143,lime juice,"Lime Juice, Sweetened",12 fl. oz.,$3.99,False,0.011244504565437944,vol
+144,green onions,Green Onions,1 ea.,$1.29,False,1.29,whole
+145,green onions,Green Onions (Scallions),1 ea.,$0.99,False,0.99,whole
+146,green onions,Diced Green Peppers & Onions,7 oz.,2/$5.00,False,0.025195263290501382,wt
+147,corn,Sweet Corn,1 ea.,5/$2.00,False,2.0,whole
+148,corn,"Husked Bi-Color Corn, 5 ct",1 ea.,$5.00,False,5.0,whole
+149,corn,Microwaveable Cleaned and Cut Baby Corn,8 oz.,2/$5.00,False,0.02204585537918871,wt
+150,corn,Microwaveable Super Sweet Corn,12 oz.,$1.99,False,0.005849500293944738,wt
+151,ricotta cheese,Fat Free Ricotta Cheese,15 oz.,$2.29,False,0.00538506760728983,wt
+152,ricotta cheese,Part Skim Ricotta,15 oz.,$2.29,False,0.00538506760728983,wt
+153,ricotta cheese,Whole Milk Ricotta,32 oz.,$3.99,False,0.004398148148148148,wt
+154,ricotta cheese,Part Skim Ricotta,32 oz.,$3.99,False,0.004398148148148148,wt
+155,avocado,"Avocados, FAMILY PACK",4 ea.,$5.00,False,1.25,whole
+156,avocado,Bagged Avocados,3 ea.,$6.00,False,2.0,whole
+157,avocado,Avocado,1 ea.,$1.49,False,1.49,whole
+158,avocado,Florida Avocado,1 ea.,$2.99,False,2.99,whole
+159,monterey jack cheese,Monterey Jack Cheese,32 oz.,$6.49,False,0.007153880070546737,wt
+160,monterey jack cheese,Monterey Jack Cheese,8 oz.,$1.99,False,0.008774250440917107,wt
+161,monterey jack cheese,Thin Sliced Monterey Jack Cheese with Jalapeno & Habanero Peppers,8 oz.,$1.99,False,0.008774250440917107,wt
+162,monterey jack cheese,"Cheese, Monterey Jack Bar",8 oz.,$3.29,False,0.014506172839506172,wt
+163,shallots,Shallots,3 oz.,$2.99,False,0.035155790711346266,wt
+164,shallots,Shallots,3 oz.,$2.99,False,0.035155790711346266,wt
+165,shallots,Shallots,1 Each Approx. 0.15 lb.,$2.99/lb,False,0.006591710758377425,wt
+166,shallots,Cleaned and Cut Peeled Shallots,6 oz.,$3.99,False,0.023456790123456788,wt
+167,turkey,Fresh Premium Turkey,1 Package Approx. 12 lb.,$5.99/lb,False,0.013205467372134039,wt
+168,turkey,Turkey Breast,1 Each Approx. 4.6 lb.,$1.79/lb,False,0.0039462081128747795,wt
+169,lean beef,"80% Lean Ground Beef, FAMILY PACK",1 Package Approx. 6.1 lb.,$2.19/lb,False,0.004828042328042328,wt
+170,lean beef,"90% Lean Ground Beef, FAMILY PACK",1 Package Approx. 5.9 lb.,$2.99/lb,False,0.006591710758377425,wt
+171,lean beef,"93% Lean Ground Beef, FAMILY PACK",48 oz.,$17.67,False,0.012985008818342152,wt
+172,lean beef,"95% Lean Ground Beef, FAMILY PACK",1 Package Approx. 3.05 lb.,$5.49/lb,False,0.012103174603174604,wt
+173,italian sausage,Italian Sausage with Peppers and Onions,13 oz.,$7.00,False,0.01899335232668566,wt
+174,italian sausage,"Mild Italian Sausage, FAMILY PACK",1 Package Approx. 3 lb.,$3.19/lb,False,0.007032627865961199,wt
+175,italian sausage,"All Pork Hot Italian Sausage Link, FAMILY PACK",1 Package Approx. 3.25 lb.,$3.19/lb,False,0.007032627865961199,wt
+176,italian sausage,Mild Pork Italian Sausage,1 Package Approx. 1.3 lb.,$7.99/lb,False,0.01761463844797178,wt
+177,basil leaves,Organic Basil Leaves,0.55 oz.,$5.99,False,0.38415905082571744,wt
+178,basil leaves,Basil Leaves,0.62 oz.,$2.99,False,0.17010866473232064,wt
+179,basil leaves,Basil Leaves,0.75 oz.,$1.00,False,0.04703115814226925,wt
+180,chicken thighs,"Boneless & Skinless, Highly Trimmed Chicken Thigh Cutlets, FAMILY PACK",1 Package Approx. 4.7 lb.,$1.99/lb,False,0.004387125220458554,wt
+181,chicken thighs,"Bone-In Chicken Thighs, FAMILY PACK",1 Package Approx. 4.7 lb.,$0.99/lb,False,0.0021825396825396826,wt
+182,chicken thighs,Bone-In Chicken Thighs,1 Package Approx. 2.1 lb.,$3.99/lb,False,0.008796296296296297,wt
+183,chicken thighs,Boneless Skinless Chicken Thighs,1 Package Approx. 2.14 lb.,$5.89/lb,False,0.01298500881834215,wt
+184,spaghetti,Cod with Veggie Spaghetti,1 Package Approx. 1 lb.,$11.49/lb,False,0.02533068783068783,wt
+185,spaghetti,Spaghetti & Meatballs Pasta Bowl,12 oz.,$8.00,False,0.023515579071134624,wt
+186,spaghetti,Antibiotic Free Chicken Parmesan w/ Sauced Spaghetti & Green Beans,15 oz.,$11.00,False,0.02586713697824809,wt
+187,spaghetti,Shrimp Scampi with Spaghetti Pasta Bowl,12 oz.,$9.00,False,0.02645502645502645,wt
+188,large onion,"Packaged Fully Cooked Authentic Italian Large Pepperoni, Sausage, Onions & ...",39 oz.,$18.00,False,0.01628001628001628,wt
+189,green chiles,"Green Chiles, Diced, Mild",4 oz.,$1.99,False,0.017548500881834215,wt
+190,green chiles,"Refried Beans, with Green Chiles, Mild",15.4 oz.,$2.99,False,0.006848530658054468,wt
+191,green chiles,"Green Chiles, Mild, Chopped",4.5 oz.,$1.49,False,0.011679404271996863,wt
+192,green chiles,"Green Chiles, Diced, Fire Roasted, Mild",4 oz.,$1.49,False,0.013139329805996473,wt
+193,lemon juice,Lemon Ginger Cayenne Juice Blend,14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+194,lemon juice,Lemon Juice,64 fl. oz.,$25.99,False,0.01373330233344606,vol
+195,lemon juice,"100% Juice, Lemon",32 fl. oz.,$2.49,False,0.0026314677037538045,vol
+196,lemon juice,"Lemon Juice, Reconstituted",4.5 fl. oz.,2/$3.00,False,0.02254537256228159,vol
+197,lemon,Lemons,32 oz.,$3.99,False,0.004398148148148148,wt
+198,lemon,Lemons,2 lb.,$6.99,False,0.007705026455026455,wt
+199,lemon,Lemons & Limes,32 oz.,$4.99,False,0.005500440917107584,wt
+200,lemon,Salmon with Lemon Pepper Rub,5 oz.,$9.00,False,0.06349206349206349,wt
+201,green pepper,Long Hot Green Pepper,1 Each Approx. 0.15 lb.,$4.49/lb,False,0.009898589065255732,wt
+202,green pepper,Green Pepper Shooters,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+203,green pepper,Extra Large Green Peppers,1 Each Approx. 0.55 lb.,$1.79/lb,False,0.0039462081128747795,wt
+204,green pepper,Diced Green Peppers & Onions,7 oz.,2/$5.00,False,0.025195263290501382,wt
+205,garam masala,Garam Masala,7 oz.,$3.49,False,0.017586293776769967,wt
+206,garam masala,All Natural Garam Masala Blend,1.7 oz.,$5.99,False,0.12428675173773214,wt
+207,plum tomatoes,Organic Plum Tomatoes (Roma),1 Each Approx. 0.25 lb.,$3.99/lb,False,0.008796296296296297,wt
+208,plum tomatoes,Plum (Roma) Tomatoes,1 Each Approx. 0.22 lb.,$1.99/lb,False,0.004387125220458554,wt
+209,plum tomatoes,"Pizza Sauce, Organic, Plum Tomato Marinara",12 oz.,$4.99,False,0.014667842445620222,wt
+210,plum tomatoes,"Tomatoes, Plum, Whole Peeled",28 oz.,$2.29,False,0.0028848576467624086,wt
+211,coconut milk,Unsweetened Coconut Milk,13.5 fl. oz.,$1.99,False,0.004985032377660041,vol
+212,coconut milk,"Unsweetened Coconut Milk, Light",13.5 fl. oz.,$1.99,False,0.004985032377660041,vol
+213,coconut milk,"Coconut Milk, Unsweetened",64 fl. oz.,$3.49,False,0.0018441410213053773,vol
+214,coconut milk,"Coconut Milk Beverage, Organic, Unsweetened Vanilla",64 fl. oz.,$3.49,False,0.0018441410213053773,vol
+215,coarse salt,Coarse Crystals Sea Salt,14.5 oz.,$1.99,False,0.00484096576050599,wt
+216,coarse salt,"Kosher Salt, Coarse",3 lb.,$2.49,False,0.001829805996472663,wt
+217,coarse salt,Coarse Ground With Parsley Garlic Salt,6 oz.,$2.99,False,0.017577895355673133,wt
+218,heavy cream,Heavy Cream,8 fl. oz.,$1.99,False,0.008412242137301318,vol
+219,heavy cream,Heavy Whipped Cream,14 oz.,$3.49,False,0.008793146888384984,wt
+220,heavy cream,"Whipping Cream, Heavy",16 fl. oz.,$4.29,False,0.009067467027392627,vol
+221,heavy cream,"Whipping Cream, Heavy",8 fl. oz.,$2.49*,True,0.010525870815015218,vol
+222,zucchini,Organic Zucchini Noodles,1 Package Approx. 1 lb.,$8.49/lb,False,0.018716931216931215,wt
+223,zucchini,Green Squash (Zucchini),1 Each Approx. 0.55 lb.,$1.99/lb,False,0.004387125220458554,wt
+224,zucchini,Microwaveable Cleaned and Cut Triple Washed Baby Zucchini Squash,8 oz.,2/$5.00,False,0.02204585537918871,wt
+225,zucchini,Zucchini Noodles,1 Each Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+226,ground pepper,Pure Ground Black Pepper,3 oz.,$2.99,False,0.035155790711346266,wt
+227,ground pepper,"Black Pepper, Pure Ground",1.5 oz.,$1.69,False,0.03974132863021751,wt
+228,ground pepper,Pure Ground Black Pepper,6 oz.,$6.99,False,0.041093474426807754,wt
+229,ground pepper,"Red Pepper, Cayenne, Ground",6 oz.,$7.99,False,0.04697236919459141,wt
+230,chicken fat,Oven Roasted Chicken Breast,7 oz.,$6.49,False,0.0327034517510708,wt
+231,chicken fat,98% Fat Free Chicken Breast,1 lb.,$6.99,False,0.01541005291005291,wt
+232,chicken fat,98% Fat Free Chicken Breast,1 lb.,$6.99,False,0.01541005291005291,wt
+233,chicken fat,"Chicken Sausage, Sweet Apple",12 oz.,$6.59,False,0.019370958259847144,wt
+234,whole milk,Vitamin D Whole Milk,1 gal.,$2.09,False,0.0005521796565389695,vol
+235,whole milk,Vitamin D Whole Milk,1 gal.,$5.99,False,0.0015825627476882432,vol
+236,whole milk,Vitamin D Whole Milk,0.5 gal.,$3.49,False,0.0018441215323645973,vol
+237,whole milk,"Greek Yogurt, Whole Milk Plain",32 oz.,$3.99,False,0.004398148148148148,wt
+238,pork,Seasoned Pork Chops (Boneless),1 Package Approx. 0.75 lb.,$5.99/lb,False,0.013205467372134039,wt
+239,pork,"Center Cut Pork Spareribs, Spice-Rubbed Barbecue",1 Package Approx. 3.25 lb.,$5.29/lb,False,0.011662257495590828,wt
+240,pork,Garlic Herb Seasoned Boneless Pork Loin Roast,1 Package Approx. 2.25 lb.,$4.99/lb,False,0.011000881834215168,wt
+241,pork,"BBQ Pulled Pork, FAMILY PACK",32 oz.,$18.00,False,0.01984126984126984,wt
+242,ketchup,Tomato Ketchup,20 oz.,$1.99,False,0.003509700176366843,wt
+243,ketchup,Tomato Ketchup,32 oz.,$2.99,False,0.0032958553791887124,wt
+244,ketchup,Tomato Ketchup,64 oz.,$5.79,False,0.003191137566137566,wt
+245,ketchup,Tomato Ketchup,32 oz.,$1.29*,True,0.001421957671957672,wt
+246,spinach,"Baby Spinach, FAMILY PACK",11 oz.,$3.99,False,0.012794612794612794,wt
+247,spinach,Baby Spinach,5 oz.,$2.49,False,0.017566137566137566,wt
+248,spinach,Bulk Baby Spinach,1 Bag Approx. 0.5 lb.,$5.99/lb,False,0.013205467372134039,wt
+249,spinach,"Fresh Spinach, Cold Water Washed",9 oz.,$3.99,False,0.015637860082304528,wt
+250,white onion,White Onions,1 Each Approx. 0.75 lb.,$1.99/lb,False,0.004387125220458554,wt
+251,white onion,"Pearl Onions, White",14.4 oz.,$2.19,False,0.005364491475602587,wt
+252,white onion,"Veggie Rings, with White Beans & Onions, Cauliflower",12 oz.,$3.99,False,0.011728395061728394,wt
+253,salmon fillet,"Wild Caught Sockeye Salmon Fillets, FAMILY PACK",32 oz.,$24.98,False,0.0275352733686067,wt
+254,salmon fillet,EU Organic Atlantic Salmon Fillet,1 Package Approx. 0.8 lb.,$18.99/lb,False,0.04186507936507936,wt
+255,salmon fillet,Fresh Wild Alaska Sockeye Salmon Fillet,1 lb.,$19.99,False,0.04406966490299823,wt
+256,salmon fillet,Fresh Farm-Raised Boneless Atlantic Salmon Fillets,1 Fillet Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+257,lime,Limes,1 lb.,$3.99,False,0.008796296296296297,wt
+258,lime,Organic Limes,1 lb.,$3.99,False,0.008796296296296297,wt
+259,lime,Large Fresh Limes,1 ea.,3/$1.00,False,1.0,whole
+260,lime,Lime,16 fl. oz.,$1.49,False,0.00314930672979371,vol
+261,yellow onion,Yellow Onions,48 oz.,$3.99,False,0.0029320987654320985,wt
+262,yellow onion,Yellow Onions,2 lb.,$0.99,False,0.0010912698412698413,wt
+263,capers,Salmon with Tomatoes & Capers,15 oz.,$12.00,False,0.02821869488536155,wt
+264,capers,Nonpareil Capers,3 fl. oz.,$1.99,False,0.02243264569947018,vol
+265,capers,Capote Capers,3 fl. oz.,$1.99,False,0.02243264569947018,vol
+266,capers,Marinated Sun-Dried Tomatoes with Capers,10 oz.,$3.99,False,0.014074074074074076,wt
+267,greens,"Super Greens (Kale, Spinach, & Chard)",5 oz.,$2.49,False,0.017566137566137566,wt
+268,greens,"Super Greens (Kale, Spinach, & Chard), FAMILY PACK",11 oz.,$3.99,False,0.012794612794612794,wt
+269,greens,Greens with Pear Juice,14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+270,greens,"Carrots, Beets & Greens Juice",14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+271,red onion,Red Onions,48 oz.,$4.99,False,0.0036669606114050554,wt
+272,red onion,Red Onions,1 Each Approx. 0.45 lb.,$1.99/lb,False,0.004387125220458554,wt
+273,red onion,Red Onions,2 lb.,$2.99,False,0.0032958553791887124,wt
+274,red onion,Butternut Squash with Red Onions,1 Package Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+275,bread crumbs,White Panko Bread Crumbs,10 oz.,$1.99,False,0.007019400352733686,wt
+276,bread crumbs,Seasoned Bread Crumbs,10 oz.,$1.49,False,0.005255731922398589,wt
+277,bread crumbs,Unseasoned Bread Crumbs,10 oz.,$1.49,False,0.005255731922398589,wt
+278,bread crumbs,Whole Wheat Panko Bread Crumbs,10 oz.,$2.49,False,0.008783068783068783,wt
+279,mozzarella,"Low-Moisture Part-Skim Shredded Mozzarella, FAMILY PACK",80 oz.,$11.49,False,0.005066137566137567,wt
+280,mozzarella,Part-Skim Mozzarella Fancy Shredded Cheese,6 oz.,$3.99,False,0.023456790123456788,wt
+281,mozzarella,Shredded Whole Milk Mozzarella Cheese,16 oz.,$3.19,False,0.007032627865961199,wt
+282,mozzarella,Low-Moisture Whole Milk Mozzarella Shredded Cheese,8 oz.,$1.99,False,0.008774250440917107,wt
+283,beans,"Trimmed Green Beans, FAMILY PACK",32 oz.,$5.99,False,0.0066027336860670196,wt
+284,beans,Cleaned and Cut French Green Beans,24 oz.,$4.49,False,0.006599059376837154,wt
+285,beans,Green Beans,12 oz.,$3.99,False,0.011728395061728394,wt
+286,beans,"Green Beans, FAMILY PACK",24 oz.,$6.49,False,0.009538506760728982,wt
+287,potatoes,Premium Russet Baking Potatoes,5 lb.,$1.50*,True,0.0006613756613756613,wt
+288,potatoes,"Signature Whipped Potatoes, FAMILY PACK",32 oz.,$13.00,False,0.014329805996472662,wt
+289,potatoes,"White Potatoes, FAMILY PACK",5 lb.,$2.99,False,0.001318342151675485,wt
+290,potatoes,Salt Potatoes,5 lb.,$3.99,False,0.0017592592592592595,wt
+291,eggplant,Purple Eggplant,1 Each Approx. 0.75 lb.,$1.69/lb,False,0.003725749559082892,wt
+292,eggplant,"Eggplant, Graffiti",1 Each Approx. 0.5 lb.,$2.99/lb,False,0.006591710758377425,wt
+293,eggplant,Baby Eggplant,1 Each Approx. 0.25 lb.,$2.99/lb,False,0.006591710758377425,wt
+294,eggplant,White Eggplant,1 Each Approx. 0.5 lb.,$1.99/lb,False,0.004387125220458554,wt
+295,ground coriander,Organic Ground Coriander,1.25 oz.,$5.99,False,0.1690299823633157,wt
+296,ground coriander,Roasted Ground Coriander,1.25 oz.,$5.99,False,0.1690299823633157,wt
+297,tomato juice,Tomato Juice,46 fl. oz.,$1.99,False,0.0014629986325741424,vol
+298,tomato juice,Tomato Juice,64 fl. oz.,$3.19,False,0.0016856188704768345,vol
+299,tomato juice,Tomato Juice,33 fl. oz.,$2.79,False,0.0028591631567620743,vol
+300,tomato juice,Low Sodium Tomato Juice,64 fl. oz.,$3.19,False,0.0016856188704768345,vol
+301,peanut oil,Peanut Oil,32 fl. oz.,$4.99,False,0.005273503550896179,vol
+302,peanut oil,"Peanut Oil, Expeller Pressed, Roasted",12.7 fl. oz.,$7.99,False,0.021276085839287,vol
+303,peanut oil,"Natural Peanut Butter, and Omega-3 from Flax Oil, Extra Creamy",26 oz.,$5.49,False,0.0074481074481074485,wt
+304,baby spinach,"Baby Spinach, FAMILY PACK",11 oz.,$3.99,False,0.012794612794612794,wt
+305,baby spinach,Baby Spinach,5 oz.,$2.49,False,0.017566137566137566,wt
+306,baby spinach,Bulk Baby Spinach,1 Bag Approx. 0.5 lb.,$5.99/lb,False,0.013205467372134039,wt
+307,baby spinach,Fresh Baby Spinach,6 oz.,2/$3.00,False,0.01763668430335097,wt
+308,tortillas,"In-Store Made Fresh Tortilla Chips, FAMILY PACK",16 oz.,$6.00,False,0.013227513227513227,wt
+309,tortillas,Blue Corn Tortilla Chips,16 oz.,$2.50*,True,0.005511463844797178,wt
+310,tortillas,Fresh Tortilla Chips,3 oz.,$1.50,False,0.01763668430335097,wt
+311,tortillas,Chicken Tortilla Soup,16 oz.,$5.99,False,0.013205467372134039,wt
+312,breadcrumbs,"Breadcrumbs, Organic, Italian Herbs",15 oz.,$4.99,False,0.011734273956496179,wt
+313,breadcrumbs,"Breadcrumbs, Traditional, Garlic",15 oz.,$2.29,False,0.00538506760728983,wt
+314,hot sauce,"Buffalo Style Wing Sauce, Hot & Tangy",12 fl. oz.,$2.79,False,0.007862698681095704,vol
+315,hot sauce,Hot Buffalo Wings Sauce,12 fl. oz.,$2.79,False,0.007862698681095704,vol
+316,hot sauce,Original Cayenne Pepper Hot Sauce,23 fl. oz.,$4.99,False,0.007337048418638162,vol
+317,hot sauce,Hot Sauce,5 fl. oz.,$1.49,False,0.010077781535339872,vol
+318,penne,"Penne Rigate Mozzarella Salad, FAMILY PACK",30 oz.,$9.49,False,0.011158142269253381,wt
+319,penne,"Penne Alfredo with Chicken and Peas, FAMILY PACK",32 oz.,$16.00,False,0.01763668430335097,wt
+320,penne,"Penne with Seasoned Tomato Sauce and Mozzarella, FAMILY PACK",32 oz.,$13.00,False,0.014329805996472662,wt
+321,penne,Penne Alfredo with Chicken & Peas Pasta Bowl,12 oz.,$8.00,False,0.023515579071134624,wt
+322,scallions,Green Onions (Scallions),1 ea.,$0.99,False,0.99,whole
+323,jalapeno pepper,Jalapeno Pepper,1 Each Approx. 0.22 lb.,$3.99/lb,False,0.008796296296296297,wt
+324,jalapeno pepper,Delicatessen Cheddar Cheese with Jalapeno & Cayenne Pepper,1 lb.,$8.99,False,0.01981922398589065,wt
+325,jalapeno pepper,Sliced Jalapeno Pepper Rings,12 oz.,$1.99,False,0.005849500293944738,wt
+326,fish sauce,Gluten Free Premium Fish Sauce,6.76 fl. oz.,$2.99,False,0.014957987565359902,vol
+327,fish sauce,Fish Sauce,8.45 fl. oz.,$7.49,False,0.02997600718783831,vol
+328,fish sauce,Fish Sauce,24 fl. oz.,$5.99,False,0.00844042385300417,vol
+329,fish sauce,"Herring Fillets, in Tomato Sauce",7.05 oz.,$3.29,False,0.016460905349794237,wt
+330,jalapeno,"Jalapeno Cheddar Burgers, 2 Pack",1 Package Approx. 0.75 lb.,$7.99/lb,False,0.01761463844797178,wt
+331,jalapeno,Jalapeno Pepper,1 Each Approx. 0.22 lb.,$3.99/lb,False,0.008796296296296297,wt
+332,jalapeno,"Sliced Cheese, Montery Jack Cheese with Jalapeno Peppers, FAMILY PACK",32 oz.,$6.99,False,0.007705026455026455,wt
+333,jalapeno,Jalapeno Cheddar Tortillas,15 oz.,$2.99,False,0.007031158142269254,wt
+334,marinara sauce,"Marinara Sauce, Chunky",23.5 oz.,$2.49,False,0.00373747607790161,wt
+335,marinara sauce,Marinara Sauce,16 oz.,$4.79,False,0.010559964726631392,wt
+336,marinara sauce,Marinara Sauce,8 oz.,$2.99,False,0.01318342151675485,wt
+337,marinara sauce,"Sauce, Smooth Marinara",24 oz.,$0.99,False,0.0014550264550264548,wt
+338,cherry tomatoes,Cherry Tomatoes,1 pt.,$5.99,False,0.012659030390126379,vol
+339,cherry tomatoes,Flavor Bombs Cherry Tomatoes On The Vine,12 oz.,$5.99,False,0.01760728982951205,wt
+340,cherry tomatoes,Super Sweet Cherry Tomatoes,1 pt.,$3.99,False,0.008432309057863815,vol
+341,cherry tomatoes,"Pasta Sauce, Organic, Cherry Tomato with Basil",25 oz.,$7.99,False,0.011273368606701941,wt
+342,onion powder,Onion Powder,7.62 oz.,$5.99,False,0.027728015479546536,wt
+343,onion powder,Onion Powder,3 oz.,$5.99,False,0.0704291593180482,wt
+344,onion powder,Onion Powder,2.62 oz.,$1.49,False,0.020060045505338124,wt
+345,onion powder,Onion Powder,2.62 oz.,$4.99,False,0.06718095776619949,wt
+346,orange juice,100% Cold Pressured Orange Juice,32 fl. oz.,$7.00,False,0.007397700371998647,vol
+347,orange juice,100% Cold Pressured Orange Juice,64 fl. oz.,$12.00,False,0.006340886033141697,vol
+348,orange juice,100% Cold Pressured Orange Juice,16 fl. oz.,$4.00,False,0.008454514710855596,vol
+349,orange juice,"Premium Orange Juice, Original, Pulp Free",59 fl. oz.,$4.49,False,0.002573611596728246,vol
+350,beef broth,Beef Broth,32 fl. oz.,$1.99*,True,0.0021030605343253296,vol
+351,beef broth,Flavored Beef Broth,48 oz.,$1.99,False,0.0014623750734861845,wt
+352,beef broth,Beef Bone Broth,32 fl. oz.,$3.99,False,0.004216689212039229,vol
+353,beef broth,"Broth, Beef Flavored",14.5 oz.,$0.99,False,0.00240831964969896,wt
+354,flank steak,Feta & Pepper Stuffed Flank Steak,1 Package Approx. 0.7 lb.,$12.79/lb,False,0.02819664902998236,wt
+355,flank steak,Angus Beef Flank Steak,1 Package Approx. 1.5 lb.,$14.49/lb,False,0.03194444444444444,wt
+356,flank steak,Beef Flank Steaks,1 Package Approx. 1.8 lb.,$11.99/lb,False,0.026432980599647264,wt
+357,flank steak,Cheese & Herb Stuffed Flank Steak,1 Package Approx. 0.5 lb.,$12.79/lb,False,0.02819664902998236,wt
+358,pork tenderloin,"Pork Tenderloin, 4 pieces, FAMILY PACK",1 Package Approx. 4.6 lb.,$2.49/lb,False,0.005489417989417989,wt
+359,pork tenderloin,Greek Stuffed Pork Tenderloin (1/3 Cut),15 oz.,$7.00,False,0.01646090534979424,wt
+360,pork tenderloin,Pork Tenderloin,1 Package Approx. 1 lb.,$16.99/lb,False,0.03745590828924162,wt
+361,pork tenderloin,Brown Sugar BBQ Marinated Whole Pork Tenderloin,1 Package Approx. 1.5 lb.,$7.69/lb,False,0.01695326278659612,wt
+362,vegetable broth,Vegetable Broth,32 fl. oz.,$1.99*,True,0.0021030605343253296,vol
+363,vegetable broth,Vegetable Culinary Stock,32 fl. oz.,$2.39,False,0.0025257862698681095,vol
+364,vegetable broth,"Broth, Low Sodium, Vegetable",32 fl. oz.,$3.99,False,0.004216689212039229,vol
+365,vegetable broth,"Broth, Organic, Vegetable",32 fl. oz.,$3.99,False,0.004216689212039229,vol
+366,rice,"Vegetable Fried Rice, FAMILY PACK",32 oz.,$10.00,False,0.011022927689594356,wt
+367,rice,"Pork Fried Rice, FAMILY PACK",32 oz.,$10.00,False,0.011022927689594356,wt
+368,rice,"Microwaveable Steamables, Brown Rice, FAMILY PACK",30 oz.,$3.99,False,0.004691358024691358,wt
+369,rice,"Steamables Jasmine Rice, 3 Pack",24 oz.,$3.99,False,0.005864197530864197,wt
+370,kidney beans,Dark Red Kidney Beans,16 oz.,$2.99,False,0.006591710758377425,wt
+371,kidney beans,Dark Red Kidney Beans,15 oz.,$0.99,False,0.002328042328042328,wt
+372,kidney beans,"Kidney Beans, Light Red",15 oz.,$0.99,False,0.002328042328042328,wt
+373,kidney beans,Dark Red Kidney Beans,15.5 oz.,$0.49*,True,0.0011150935882118678,wt
+374,brown rice,"Microwaveable Steamables, Brown Rice, FAMILY PACK",30 oz.,$3.99,False,0.004691358024691358,wt
+375,brown rice,California Quinoa Brown Rice Roll,5 oz.,$5.49,False,0.03873015873015873,wt
+376,brown rice,Spicy Shrimp Quinoa Brown Rice Roll,5 oz.,$5.99,False,0.04225749559082893,wt
+377,brown rice,Spicy Tuna Roll with Brown Rice,5 oz.,$6.99,False,0.049312169312169314,wt
+378,green chilies,"Petite Diced Tomatoes with Green Chilies, Medium",10 oz.,$0.59,False,0.0020811287477954144,wt
+379,green chilies,Diced Green Chile Peppers,7 oz.,$2.49,False,0.01254724111866969,wt
+380,green chilies,"Petite Diced Tomatoes with Green Chilies, Mild",10 oz.,$0.59,False,0.0020811287477954144,wt
+381,green chilies,Green Chile Sauce,16 oz.,$3.99,False,0.008796296296296297,wt
+382,oyster sauce,Vegetarian Oyster Style Sauce,7.5 oz.,$2.99,False,0.014062316284538507,wt
+383,oyster sauce,Oyster Sauce,6.3 oz.,$2.29,False,0.012821589541166262,wt
+384,oyster sauce,Oyster Sauce,9.1 oz.,$3.49,False,0.013527918289823053,wt
+385,oyster sauce,Oyster Sauce,18 oz.,$4.29,False,0.008406819517930628,wt
+386,ground pork,Ground Pork,16 Package Approx. 1 oz.,$6.99/oz,False,0.24656084656084656,wt
+387,ground pork,Ground Pork,16 oz.,$5.49,False,0.012103174603174604,wt
+388,ground pork,"Ground Beef, Pork and Veal, Meatloaf Mix",1 Package Approx. 1.3 lb.,$4.79/lb,False,0.010559964726631392,wt
+389,ground pork,Fresh Ground Pork,1 Package Approx. 1 lb.,$4.99/lb,False,0.011000881834215168,wt
+390,meat,"Boneless & Skinless Chicken Breasts with Rib Meat, FAMILY PACK",1 Package Approx. 6 lb.,$1.79/lb*,True,0.0039462081128747795,wt
+391,meat,Ground Chicken,16 oz.,$6.49,False,0.014307760141093475,wt
+392,meat,Ground Pork,16 Package Approx. 1 oz.,$6.99/oz,False,0.24656084656084656,wt
+393,meat,Specialty Irradiated Bacon Cheddar Burgers,1 Package Approx. 0.7 lb.,$7.99/lb,False,0.01761463844797178,wt
+394,tomatillos,Crushed Tomatillos,26 oz.,$2.99,False,0.004056437389770723,wt
+395,ground turmeric,Ground Turmeric,5.87 oz.,$6.99,False,0.04200355137322769,wt
+396,ground turmeric,Ground Turmeric,0.95 oz.,$4.99,False,0.18527800983941334,wt
+397,ground turmeric,All Natural Ground Turmeric,1.37 oz.,$5.99,False,0.15422443646287926,wt
+398,ham,Bone-In Brown Sugar Cured Half Ham,1 Package Approx. 6.75 lb.,$2.69/lb,False,0.0059303350970017635,wt
+399,parmesan,Garlic Parmesan Chicken Breast,6 oz.,$7.00,False,0.04115226337448559,wt
+400,parmesan,Garlic Parmesan Tilapia,7 oz.,$6.50,False,0.032753842277651796,wt
+401,parmesan,Antibiotic-Free Chicken Parmesan FAMILY PACK,24 oz.,$20.00,False,0.02939447383891828,wt
+402,parmesan,Parmesan Grated Cheese,8 oz.,$2.99,False,0.01318342151675485,wt
+403,white sugar,"White Sugar, Granulated",4 lb.,$1.69,False,0.000931437389770723,wt
+404,white sugar,"Cane Sugar, Organic, White",24 oz.,$3.49,False,0.00512933568489124,wt
+405,white sugar,"Pudding & Pie Filling, Instant, Sugar Free, White Chocolate",1 oz.,$0.99,False,0.03492063492063492,wt
+406,white sugar,"Sprinkles, Sugar Pearls, White",5 oz.,$4.49,False,0.031675485008818345,wt
+407,frozen peas,Microwaveable Just Picked* and quickly frozen Peas & Carrots,12 oz.,$1.99,False,0.005849500293944738,wt
+408,frozen peas,"Sweet Peas, FAMILY PACK",64 oz.,$5.99,False,0.0033013668430335098,wt
+409,frozen peas,"Sweet Peas, FAMILY PACK",80 oz.,$3.99,False,0.0017592592592592595,wt
+410,frozen peas,Microwaveable Sweet Peas,12 oz.,$1.99,False,0.005849500293944738,wt
+411,white rice,Spicy Shrimp Roll with White Rice,5 oz.,$5.99,False,0.04225749559082893,wt
+412,white rice,Spicy Tuna Roll with White Rice,5 oz.,$6.99,False,0.049312169312169314,wt
+413,white rice,Avocado Cucumber Roll with White Rice,5 oz.,$5.49,False,0.03873015873015873,wt
+414,white rice,Coconut Shrimp Dragon Roll with White Rice,7 oz.,$7.99,False,0.04026203073822121,wt
+415,hot peppers,Long Hot Green Pepper,1 Each Approx. 0.15 lb.,$4.49/lb,False,0.009898589065255732,wt
+416,hot peppers,Banana/Hungarian Hot Peppers,1 Each Approx. 0.25 lb.,$4.49/lb,False,0.009898589065255732,wt
+417,hot peppers,Cherry Hot Peppers,1 Each Approx. 0.15 lb.,$4.49/lb,False,0.009898589065255732,wt
+418,hot peppers,Hot Banana Pepper Rings,16 fl. oz.,$1.99,False,0.004206121068650659,vol
+419,egg whites,Liquid Egg Whites,32 oz.,$4.99,False,0.005500440917107584,wt
+420,egg whites,Liquid Egg Whites,16 oz.,$2.99,False,0.006591710758377425,wt
+421,egg whites,"Egg Whites, Pasteurized, Liquid",16 oz.,$7.29,False,0.01607142857142857,wt
+422,egg whites,"100% Egg Whites, Liquid",32 oz.,$5.79,False,0.006382275132275132,wt
+423,lemon zest,"Fish Oil, Lemon Zest",16 oz.,$21.99,False,0.048478835978835975,wt
+424,lemon zest,"Honey, Organic, Lemon Ginger Zest",12 oz.,$6.99,False,0.020546737213403877,wt
+425,chickpeas,Citrus Chick Pea Salad,14.1 oz.,$5.99,False,0.014984927514478342,wt
+426,chickpeas,"Moroccan Lentil with Chick Pea Soup, Medium",16 oz.,$5.99,False,0.013205467372134039,wt
+427,chickpeas,Gluten-Free Chickpea Penne Pasta,8.8 oz.,$2.99,False,0.011984928651595316,wt
+428,chickpeas,Gluten-Free Chickpea Shells Pasta,8.8 oz.,$2.99,False,0.011984928651595316,wt
+429,pork shoulder,"Whole Bone-In Pork Shoulder Blade Roast, FAMILY PACK",1 Package Approx. 8.4 lb.,$1.69/lb,False,0.003725749559082892,wt
+430,pork shoulder,Boneless Pork Shoulder,1 Package Approx. 2.25 lb.,$9.99/lb,False,0.022023809523809522,wt
+431,pork shoulder,Large Brown Sugar BBQ Seasoned Boneless Pork Shoulder,1 Package Approx. 3.2 lb.,$5.99/lb,False,0.013205467372134039,wt
+432,pork shoulder,Bone-In Pork Shoulder Blade Steak,1 Package Approx. 1.25 lb.,$3.99/lb,False,0.008796296296296297,wt
+433,pizza dough,White Pizza Dough,28 oz.,$4.50,False,0.005668934240362812,wt
+434,pizza dough,White Pizza Dough,28 oz.,$2.50,False,0.003149407911312673,wt
+435,pizza dough,Pizza Dough made predominately with Whole Wheat,28 oz.,$2.50,False,0.003149407911312673,wt
+436,pizza dough,"Pizza Dough, Classic Crust",14.56 oz.,$4.99,False,0.012088881136500184,wt
+437,pork loin,Garlic Herb Seasoned Boneless Pork Loin Roast,1 Package Approx. 2.25 lb.,$4.99/lb,False,0.011000881834215168,wt
+438,pork loin,"Whole Boneless Center Cut Pork Loin Roast, FAMILY PACK",1 Package Approx. 8.5 lb.,$1.79/lb,False,0.0039462081128747795,wt
+439,pork loin,Pork Loin Chop,1 Package Approx. 1.25 lb.,$4.69/lb,False,0.010339506172839507,wt
+440,pork loin,Fire Roasted Pork Loin,1 lb.,$13.99,False,0.030842151675485006,wt
+441,pecorino cheese,Pecorino Romano Cheese -Grated,1 Each Approx. 0.33 lb.,$15.99/lb,False,0.03525132275132275,wt
+442,pecorino cheese,Pecorino Romano Cheese -Shredded,1 Each Approx. 0.33 lb.,$15.99/lb,False,0.03525132275132275,wt
+443,pecorino cheese,Pecorino Romano Cheese,1 Each Approx. 0.5 lb.,$13.99/lb,False,0.030842151675485006,wt
+444,pecorino cheese,Pecorino Romano Cheese- Shredded,1 Package Approx. 0.5 lb.,$17.99/lb,False,0.03966049382716049,wt
+445,fennel seeds,Organic Fennel Seed,1 oz.,$5.99,False,0.21128747795414463,wt
+446,fennel seeds,Fennel Seeds,1.9 oz.,$5.99,False,0.11120393576533927,wt
+447,fennel seeds,Fennel Seed,0.85 oz.,$4.99,False,0.20707542276169727,wt
+448,sirloin,"Boneless Sirloin Steaks, FAMILY PACK",1 Package Approx. 3.6 lb.,$6.99/lb,False,0.01541005291005291,wt
+449,sirloin,"Beef Perfect Portion Sirloin Steak, Grass Fed",1 Package Approx. 0.75 lb.,$15.29/lb,False,0.03370811287477954,wt
+450,sirloin,"Beef Half Sirloin Steak, Grass Fed",1 Package Approx. 0.5 lb.,$15.29/lb,False,0.03370811287477954,wt
+451,sirloin,Bourbon Beef Sirloin Kabob,1 lb.,$9.99,False,0.022023809523809522,wt
+452,asparagus,Asparagus,1 Bunch Approx. 1 lb.,$4.99/lb,False,0.011000881834215168,wt
+453,asparagus,Asparagus,1 Bunch Approx. 1 lb.,$2.99/lb,False,0.006591710758377425,wt
+454,asparagus,Microwaveable Cleaned and Cut Asparagus Tips,8 oz.,2/$5.00,False,0.02204585537918871,wt
+455,asparagus,Asparagus,1 Package Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+456,jalapeño pepper,Jalapeno Pepper,1 Each Approx. 0.22 lb.,$3.99/lb,False,0.008796296296296297,wt
+457,jalapeño pepper,Delicatessen Cheddar Cheese with Jalapeno & Cayenne Pepper,1 lb.,$8.99,False,0.01981922398589065,wt
+458,jalapeño pepper,Sliced Jalapeno Pepper Rings,12 oz.,$1.99,False,0.005849500293944738,wt
+459,chili sauce,Coconut Shrimp with Sweet Chili Sauce,6.5 oz.,$6.50,False,0.03527336860670194,wt
+460,chili sauce,"Chili Sauce, Sweet",14.5 oz.,$3.29,False,0.00800340570455513,wt
+461,chili sauce,Chili Sauce,12 oz.,$1.49,False,0.004379776601998823,wt
+462,chili sauce,Red Chile Sauce,16 oz.,$3.99,False,0.008796296296296297,wt
+463,hoisin sauce,"Duck Sauce, Sweet and Pungent",10 oz.,$2.49,False,0.008783068783068783,wt
+464,hoisin sauce,Hoisin Sauce,9.4 oz.,$3.49,False,0.013096176216743593,wt
+465,hoisin sauce,"Hoisin Sauce, Mandarin Style",7.5 oz.,$2.49,False,0.011710758377425044,wt
+466,hoisin sauce,Hoisin Sauce,15 oz.,$3.29,False,0.007736625514403292,wt
+467,sausage,Italian Sausage with Peppers and Onions,13 oz.,$7.00,False,0.01899335232668566,wt
+468,sausage,"Mild Italian Sausage, FAMILY PACK",1 Package Approx. 3 lb.,$3.19/lb,False,0.007032627865961199,wt
+469,sausage,"All Pork Hot Italian Sausage Link, FAMILY PACK",1 Package Approx. 3.25 lb.,$3.19/lb,False,0.007032627865961199,wt
+470,sausage,"Chicken Sausage, Sweet Apple",12 oz.,$6.59,False,0.019370958259847144,wt
+471,pinto beans,Vegetarian Refried Pinto Beans,15 oz.,$1.99,False,0.004679600235155791,wt
+472,pinto beans,Pinto Beans,15 oz.,$0.99,False,0.002328042328042328,wt
+473,pinto beans,Pinto Beans,15.5 oz.,$0.49*,True,0.0011150935882118678,wt
+474,pinto beans,Pinto Beans,15 oz.,$2.79,False,0.0065608465608465606,wt
+475,beef chuck,"Beef Chuck Roast, Grass Fed",1 Package Approx. 2.25 lb.,$9.29/lb,False,0.020480599647266312,wt
+476,beef chuck,Boneless Beef Chuck Eye of the Round Steak,1 Package Approx. 1.25 lb.,$6.49/lb,False,0.014307760141093475,wt
+477,beef chuck,"Angus Beef, Chuck Roast",1 Each Approx. 2.5 lb.,$11.49/lb,False,0.02533068783068783,wt
+478,beef chuck,"Burgers, Gluten Free, USDA Beef Chuck",32 oz.,$11.99,False,0.013216490299823632,wt
+479,shiitake mushrooms,Shiitake Mushrooms,3.5 oz.,$3.29,False,0.033156966490299825,wt
+480,shiitake mushrooms,"Gourmet Blend Crimini, Shiitake & Oyster Mushrooms",4 oz.,$2.99,False,0.0263668430335097,wt
+481,shiitake mushrooms,Sliced Shiitake Mushrooms,5 oz.,$3.99,False,0.02814814814814815,wt
+482,shiitake mushrooms,Shiitake Mushrooms,1 Bag Approx. 0.5 lb.,$6.99/lb,False,0.01541005291005291,wt
+483,black olives,Greek Black Ripe Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+484,black olives,Cerignola Black Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+485,black olives,Sliced Ripe Olives,2.25 oz.,$0.99*,True,0.015520282186948854,wt
+486,black olives,"Medium Ripe Olives, Pitted",6 oz.,$1.39,False,0.00817166372721928,wt
+487,mint,Fresh Mint,1 ea.,$1.99,False,1.99,whole
+488,mint,Watermelon Mint Juice,14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+489,mint,Mint Lemonade Kombucha,12 fl. oz.,$2.49,False,0.0070172472100101455,vol
+490,mint,"Mint Lemonade Kombucha, FAMILY PACK",72 fl. oz.,$11.99,False,0.005631646187953256,vol
+491,dark soy sauce,"Soy Sauce, Premium, Dark",16.9 fl. oz.,$3.99,False,0.007984263596760672,vol
+492,dark soy sauce,"Soy Sauce, Superior Dark, Mushroom Flavored",16.9 fl. oz.,$2.99,False,0.005983195026143962,vol
+493,red potatoes,Red Potatoes,5 lb.,$4.99,False,0.0022001763668430337,wt
+494,red potatoes,Red Potatoes,3 lb.,$5.99,False,0.004401822457378013,wt
+495,red potatoes,Red Potatoes,1 Each Approx. 0.5 lb.,$1.49/lb,False,0.003284832451499118,wt
+496,red potatoes,Baby Red Potatoes,24 oz.,$3.99,False,0.005864197530864197,wt
+497,chives,Fresh Chives,1 ea.,$1.99,False,1.99,whole
+498,chives,Chives,0.25 oz.,$1.29,False,0.182010582010582,wt
+499,chives,Bacon Chive Cheese Spread,1 Each Approx. 0.5 lb.,$8.99/lb,False,0.01981922398589065,wt
+500,chives,"Cream Cheese, Chive & Onion",8 oz.,$1.99,False,0.008774250440917107,wt
+501,vegetables,Veggie Tray with Ranch Dip,75 oz.,$14.99,False,0.007049970605526161,wt
+502,vegetables,Cleaned and Cut Minestrone Soup Vegetables,16 oz.,$3.99,False,0.008796296296296297,wt
+503,vegetables,Organic Zucchini Noodles,1 Package Approx. 1 lb.,$8.49/lb,False,0.018716931216931215,wt
+504,vegetables,Vegetable Medley,10 oz.,$2.99,False,0.01054673721340388,wt
+505,coarse kosher salt,"Kosher Salt, Coarse",3 lb.,$2.49,False,0.001829805996472663,wt
+506,arborio rice,Arborio Rice,35 oz.,$4.79,False,0.004827412446460066,wt
+507,arborio rice,"Rice, Arborio",32 oz.,$6.49,False,0.007153880070546737,wt
+508,arborio rice,"Arborio Rice, Risotto",17.6 oz.,$3.99,False,0.007996632996632995,wt
+509,arborio rice,"White Rice, Arborio",2 lb.,$5.99,False,0.0066027336860670196,wt
+510,orange,"California Navel Oranges, FAMILY PACK",8 lb.,$7.99,False,0.0022018298059964725,wt
+511,orange,"California Navel Oranges, FAMILY PACK",4 lb.,$5.99,False,0.0033013668430335098,wt
+512,orange,"Valencia Oranges, Organic",64 oz.,$6.49,False,0.0035769400352733687,wt
+513,orange,"Premium Orange Juice, Original, Pulp Free",59 fl. oz.,$4.49,False,0.002573611596728246,vol
+514,plain yogurt,"Plain Nonfat Greek Yogurt, FAMILY PACK",32 oz.,$3.79,False,0.0041776895943562604,wt
+515,plain yogurt,"Greek Yogurt, Plain",5.3 oz.,$1.00,False,0.006655352567302253,wt
+516,plain yogurt,"Greek Yogurt, Plain, FAMILY PACK",32 oz.,$5.99,False,0.0066027336860670196,wt
+517,plain yogurt,Plain Lowfat Yogurt,32 oz.,$1.99,False,0.002193562610229277,wt
+518,linguine,Italian Classics Linguine,16 oz.,$1.99,False,0.004387125220458554,wt
+519,linguine,Linguine Pasta,9 oz.,$2.99,False,0.01171859690378209,wt
+520,linguine,Italian Classics Whole Wheat Linguine,16 oz.,$1.99,False,0.004387125220458554,wt
+521,linguine,Linguine Pasta,16 oz.,$0.79,False,0.0017416225749559084,wt
+522,peanuts,Creamy Peanut Butter,16 oz.,$4.99,False,0.011000881834215168,wt
+523,peanuts,p.b. Creamy Peanut Butter Spread,16 oz.,$3.99,False,0.008796296296296297,wt
+524,peanuts,"Creamy Peanut Butter, FAMILY PACK",80 oz.,$5.09,False,0.0022442680776014108,wt
+525,peanuts,Crunchy Peanut Butter,16 oz.,$4.99,False,0.011000881834215168,wt
+526,white bread,"White Bread Made With Whole Grain, FAMILY PACK",42 oz.,$2.99,False,0.0025111279079533047,wt
+527,white bread,White Made With Oatmeal Sandwich Bread,20 oz.,$5.00,False,0.008818342151675485,wt
+528,white bread,"White Made With Oatmeal Sandwich Bread, Half Loaf",10 oz.,$3.00,False,0.010582010582010581,wt
+529,white bread,"Soft Made With Whole Wheat Honey Wheat Bread, FAMILY PACK",40 oz.,$2.99,False,0.00263668430335097,wt
+530,fettuccine,Fettuccini Pasta,9 oz.,$2.99,False,0.01171859690378209,wt
+531,fettuccine,Fettuccine Pasta,16 oz.,$0.79,False,0.0017416225749559084,wt
+532,fettuccine,Fettuccine,16 oz.,$1.79,False,0.0039462081128747795,wt
+533,fettuccine,"Pasta, Fettuccine",1 lb.,$1.49,False,0.003284832451499118,wt
+534,sweet italian sausage,"Sausage, Sweet Italian Patties",1 Package Approx. 1.5 lb.,$4.49/lb,False,0.009898589065255732,wt
+535,sweet italian sausage,"Links, Sweet Italian",1 Package Approx. 1.5 lb.,$4.49/lb,False,0.009898589065255732,wt
+536,sweet italian sausage,"Sausage, Cured Beef, Sweet Italian",12 oz.,$7.99,False,0.023486184597295706,wt
+537,firm tofu,Extra Firm Tofu,14 oz.,$1.79*,True,0.004509952128999748,wt
+538,firm tofu,Firm Tofu,14 oz.,$1.79*,True,0.004509952128999748,wt
+539,firm tofu,Tofu Extra Firm,13 oz.,$3.99,False,0.010826210826210826,wt
+540,firm tofu,"Tofu, Organic, Extra Firm",42 oz.,$5.99,False,0.005030654237003444,wt
+541,pork chops,Seasoned Pork Chops (Boneless),1 Package Approx. 0.75 lb.,$5.99/lb,False,0.013205467372134039,wt
+542,pork chops,"Boneless Center Cut Pork Chops, FAMILY PACK",1 Package Approx. 3.32 lb.,$1.99/lb,False,0.004387125220458554,wt
+543,pork chops,"Boneless Pork Chop, FAMILY PACK",1 Package Approx. 1.75 lb.,$11.79/lb,False,0.02599206349206349,wt
+544,pork chops,6 Thin Sliced Boneless Pork Chops,1 lb.,$11.99,False,0.026432980599647264,wt
+545,light brown sugar,Pure Cane Light Brown Sugar,24 oz.,$2.99,False,0.004394473838918283,wt
+546,light brown sugar,Light Brown Sugar,32 oz.,$1.49,False,0.001642416225749559,wt
+547,light brown sugar,Light Brown Sugar,2 lb.,$2.49,False,0.0027447089947089946,wt
+548,light brown sugar,"Brown Sugar, Light",1 lb.,$1.59,False,0.0035052910052910053,wt
+549,prosciutto,Prosciutto,4 oz.,$4.99,False,0.04400352733686067,wt
+550,prosciutto,"Prosciutto di Parma, Aged 18 Months",1 lb.,$21.99,False,0.048478835978835975,wt
+551,prosciutto,All Natural Prosciutto,16 oz.,$15.99,False,0.03525132275132275,wt
+552,prosciutto,Diced Prosciutto,4 oz.,$5.29,False,0.04664902998236331,wt
+553,smoked paprika,Smoked Paprika,1.41 oz.,$3.99,False,0.09981612818492251,wt
+554,smoked paprika,"Paprika, Smoked",2.72 oz.,$6.99,False,0.09064737005913476,wt
+555,smoked paprika,Organic Smoked Paprika,1.62 oz.,$5.99,False,0.13042436910749666,wt
+556,cilantro leaves,Cilantro Leaves,0.5 oz.,$4.99,False,0.3520282186948854,wt
+557,bell peppers,"Mixed Peppers, FAMILY PACK",2 lb.,$5.49,False,0.006051587301587302,wt
+558,bell peppers,"6 Pack Red Peppers, FAMILY PACK",2 lb.,$5.99,False,0.0066027336860670196,wt
+559,bell peppers,Yellow Peppers,1 ea.,$2.49,False,2.49,whole
+560,bell peppers,"Mini Sweet Peppers, FAMILY PACK",2 lb.,$5.99,False,0.0066027336860670196,wt
+561,queso fresco,Queso Fresco Cheese,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+562,queso fresco,Queso Fresco Cheese Crumbled,1 Each Approx. 0.5 lb.,$12.99/lb,False,0.028637566137566135,wt
+563,basmati rice,White Basmati Rice,32 oz.,$4.79,False,0.005279982363315696,wt
+564,basmati rice,Steamables Seasoned Basmati & Wild Rice,8.8 oz.,$1.79,False,0.007174923841590507,wt
+565,basmati rice,Basmati Rice,20 lb.,$19.99,False,0.0022034832451499117,wt
+566,basmati rice,Basmati Rice,9.9 oz.,$1.99,False,0.007090303386599682,wt
+567,kale,"Kale & Quinoa Cakes, FAMILY PACK",22 oz.,$16.00,False,0.02565335898669232,wt
+568,kale,"Super Greens (Kale, Spinach, & Chard)",5 oz.,$2.49,False,0.017566137566137566,wt
+569,kale,"Super Greens (Kale, Spinach, & Chard), FAMILY PACK",11 oz.,$3.99,False,0.012794612794612794,wt
+570,kale,Organic Kale,1 ea.,$1.99,False,1.99,whole
+571,pine nuts,"Special Blends Broccoli, Cauliflower & Pine Nuts",16 oz.,$3.99,False,0.008796296296296297,wt
+572,pine nuts,"Rice Mix, Pine Nuts",5.6 oz.,$2.19,False,0.01379440665154951,wt
+573,kalamata olives,Pitted Kalamata Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+574,kalamata olives,"Kalamata Olives, Pitted",5.6 oz.,$3.99,False,0.025132275132275134,wt
+575,kalamata olives,Olive Hummus Topped with Kalamata and Green Olives,10.5 oz.,$2.49,False,0.00836482741244646,wt
+576,kalamata olives,"Kalamata Olives, Whole",6.3 oz.,$3.99,False,0.0223398001175779,wt
+577,almonds,Cocoa Dusted Almonds,1 Each Approx. 0.5 lb.,$17.99/lb,False,0.03966049382716049,wt
+578,almonds,Sea Salt Marcona Almonds,1 Each Approx. 0.5 lb.,$17.99/lb,False,0.03966049382716049,wt
+579,almonds,"Raw Almonds, FAMILY PACK",36 oz.,$14.99,False,0.014687438761512836,wt
+580,almonds,"Salted Roasted Almonds, FAMILY PACK",36 oz.,$14.99,False,0.014687438761512836,wt
+581,hamburger buns,"Hamburger Rolls, 8 Pack",14 oz.,$0.69*,True,0.0017384731670445953,wt
+582,hamburger buns,"Wheat Hamburger Rolls, 8 Sliced Rolls",14 oz.,$2.99,False,0.007533383723859914,wt
+583,hamburger buns,"Hamburger Rolls made with Whole Grain, 8 Sliced Rolls",14 oz.,$2.99,False,0.007533383723859914,wt
+584,hamburger buns,Soft White Hamburger Buns,14.5 oz.,$2.99,False,0.00727361187131302,wt
+585,cream,"Half & Half, Grade A Pasteurized, Homogenized",16 fl. oz.,$1.99,False,0.004206121068650659,vol
+586,cream,Half & Half,1 qt.,$3.49,False,0.0036878533312199504,vol
+587,cream,Ultra Pasteurized Half & Half,1 pt.,$1.69,False,0.0035715795257618664,vol
+588,cream,Half & Half,16 fl. oz.,$1.19,False,0.00251521812647954,vol
+589,green beans,"Trimmed Green Beans, FAMILY PACK",32 oz.,$5.99,False,0.0066027336860670196,wt
+590,green beans,Cleaned and Cut French Green Beans,24 oz.,$4.49,False,0.006599059376837154,wt
+591,green beans,Green Beans,12 oz.,$3.99,False,0.011728395061728394,wt
+592,green beans,"Green Beans, FAMILY PACK",24 oz.,$6.49,False,0.009538506760728982,wt
+593,broccoli florets,"Broccoli Florets, FAMILY PACK",3 lb.,$4.99,False,0.0036669606114050554,wt
+594,broccoli florets,Microwaveable Broccoli Florets,10 oz.,$2.99,False,0.01054673721340388,wt
+595,broccoli florets,Microwaveable Cleaned and Cut Broccoli Florets,12 oz.,2/$5.00,False,0.01469723691945914,wt
+596,broccoli florets,Microwaveable Just Picked and Quickly Frozen Broccoli Florets,12 oz.,$2.29,False,0.0067313345091122865,wt
+597,pancetta,Diced Pancetta,4 oz.,$4.99,False,0.04400352733686067,wt
+598,ground nutmeg,"Nutmeg, Ground",2.3 oz.,$6.99,False,0.1072003680699333,wt
+599,ground nutmeg,"Nutmeg, Ground",1.1 oz.,$5.99,False,0.19207952541285872,wt
+600,ground nutmeg,Organic Ground Nutmeg,1.81 oz.,$6.99,False,0.13622146218831302,wt
+601,cucumber,"Mini Seedless Cucumbers, Family Pack",6 ea.,$2.99,False,0.49833333333333335,whole
+602,cucumber,"Seedless Cucumbers, 3 Count. FAMILY PACK",3 ea.,$3.99,False,1.33,whole
+603,cucumber,"Mini Cucumbers, FAMILY PACK",12 oz.,$3.99,False,0.011728395061728394,wt
+604,cucumber,"Seeded Cucumbers, FAMILY PACK",2 ea.,$3.49,False,1.745,whole
+605,button mushrooms,Fire Roasted Sliced Button Mushrooms,8 oz.,$3.29,False,0.014506172839506172,wt
+606,button mushrooms,Special Blends Rustic Potatoes & Button Mushrooms,16 oz.,$3.99,False,0.008796296296296297,wt
+607,ginger root,"Soda, Zero Calorie, Ginger Root Beer",72 fl. oz.,$4.99,False,0.0023437793559538574,vol
+608,ginger root,"Ginger Root, Certified 550 mg, Capsules",180 ct.,$9.49,False,0.052722222222222226,whole
+609,ginger root,"Ginger Brew, Caffeine Free",48 fl. oz.,$6.49,False,0.004572483372787735,vol
+610,crumbled feta,"Crumbled Feta Cheese -Plain, Family Pack",16 oz.,$6.49,False,0.014307760141093475,wt
+611,crumbled feta,Crumbled Feta Cheese- Plain,6 oz.,$5.49,False,0.03227513227513227,wt
+612,crumbled feta,Crumbled Feta Cheese- Plain,6 oz.,$3.49,False,0.02051734273956496,wt
+613,crumbled feta,Crumbled Feta Cheese -Mediterranean Herb,6 oz.,$3.99,False,0.023456790123456788,wt
+614,cooked rice,California Roll-White Rice,5 oz.,$5.49,False,0.03873015873015873,wt
+615,cooked rice,Spicy Shrimp Roll with White Rice,5 oz.,$5.99,False,0.04225749559082893,wt
+616,cooked rice,California Quinoa Brown Rice Roll,5 oz.,$5.49,False,0.03873015873015873,wt
+617,cooked rice,Spicy Shrimp Quinoa Brown Rice Roll,5 oz.,$5.99,False,0.04225749559082893,wt
+618,rice wine,"Rice Seasoning, Sweet Cooking, Manjo Aji-Mirin",10 fl. oz.,$4.49,False,0.015184308420696653,vol
+619,rice wine,"Rice Seasoning, Sweet Cooking, Manjo Aji-Mirin",33.8 fl. oz.,$8.49,False,0.008494536082267932,vol
+620,barbecue sauce,BBQ Sauce Original,18 oz.,$1.99*,True,0.0038996668626298256,wt
+621,barbecue sauce,"Memphis Style BBQ Sauce, FAMILY PACK",77 oz.,$4.99,False,0.0022858975239927618,wt
+622,barbecue sauce,"Pulled Pork with BBQ Sauce, Seasoned Green Beans and Macaroni & Cheese",16 oz.,$9.00,False,0.01984126984126984,wt
+623,barbecue sauce,Brown Sugar BBQ Sauce,19 oz.,$1.99*,True,0.0036944212382808875,wt
+624,pepper sauce,Cajun Salmon and Garlic Pepper Sauce,14 oz.,$12.00,False,0.03023431594860166,wt
+625,pepper sauce,Roasted Sweet Red Pepper Sauce,4 oz.,$2.49,False,0.021957671957671957,wt
+626,pepper sauce,Original Cayenne Pepper Sauce,12 fl. oz.,$2.79,False,0.007862698681095704,vol
+627,pepper sauce,Original Cayenne Pepper Hot Sauce,23 fl. oz.,$4.99,False,0.007337048418638162,vol
+628,cashews,"Salted Roasted Whole Cashews, FAMILY PACK",34 oz.,$15.99,False,0.01658885776532835,wt
+629,cashews,"Whole Unsalted Roasted Cashews, FAMILY PACK",34 oz.,$15.99,False,0.01658885776532835,wt
+630,cashews,"Raw Whole Cashews, FAMILY PACK",34 oz.,$17.49,False,0.018145035792094612,wt
+631,cashews,Salted Dry Roasted Whole Cashews,12 oz.,$8.99,False,0.026425631981187536,wt
+632,green peas,Microwaveable Cleaned and Cut Shelled Green Peas,8 oz.,2/$5.00,False,0.02204585537918871,wt
+633,green peas,Green Split Peas,16 oz.,$2.29,False,0.005048500881834215,wt
+634,green peas,"Everyday Dal, Organic, Green Split Peas + Spinach + Coconut",10 oz.,$3.49,False,0.012310405643738977,wt
+635,green peas,"Fruit & Veggie Blend, Organic Peas & Green Beans + Super Chia, 4 (Tots & Tykes)",4.22 oz.,$1.39,False,0.011618479233013197,wt
+636,veal,Veal Top Round Cutlets,1 Package Approx. 0.4 lb.,$20.99/lb,False,0.046274250440917104,wt
+637,veal,Veal Loin Chop,1 Package Approx. 0.7 lb.,$17.99/lb,False,0.03966049382716049,wt
+638,veal,Veal Center Cut Shanks,1 Each Approx. 1.4 lb.,$11.99/lb,False,0.026432980599647264,wt
+639,veal,Veal Stew,1 Package Approx. 1 lb.,$12.99/lb,False,0.028637566137566135,wt
+640,half and half,"Half & Half, Grade A Pasteurized, Homogenized",16 fl. oz.,$1.99,False,0.004206121068650659,vol
+641,half and half,Half & Half,1 qt.,$3.49,False,0.0036878533312199504,vol
+642,half and half,Ultra Pasteurized Half & Half,1 pt.,$1.69,False,0.0035715795257618664,vol
+643,half and half,Half & Half,16 fl. oz.,$1.19,False,0.00251521812647954,vol
+644,cold water,"Cold Water Lobster Tails, FAMILY PACK",16 oz.,$35.00,False,0.07716049382716049,wt
+645,cold water,"Fresh Spinach, Cold Water Washed",9 oz.,$3.99,False,0.015637860082304528,wt
+646,cold water,"Wild Lobster Tail, Cold Water (5-6 oz size)",4 oz.,$10.00,False,0.08818342151675485,wt
+647,chile powder,Chili Powder,2.89 oz.,$5.99,False,0.07310985396337183,wt
+648,chile powder,"Chili Powder, Dark",7.5 oz.,$4.99,False,0.023468547912992358,wt
+649,chile powder,Organic Chili Powder,1.75 oz.,$5.99,False,0.12073570168808263,wt
+650,chile powder,Ancho Chili Powder,2.85 oz.,$6.99,False,0.0865125777406479,wt
+651,cream cheese,"Original Cream Cheese, FAMILY PACK",32 oz.,$4.49,False,0.004949294532627866,wt
+652,cream cheese,Cream Cheese,8 oz.,$2.69*,True,0.011860670194003527,wt
+653,cream cheese,Whipped Cream Cheese Spread,12 oz.,$2.79,False,0.0082010582010582,wt
+654,cream cheese,Cream Cheese with Garden Vegetables,8 oz.,$1.99,False,0.008774250440917107,wt
+655,turkey breast,"Antibiotic-Free Honey-Brined Roasted Turkey Breast , FAMILY PACK",16 oz.,$16.00,False,0.03527336860670194,wt
+656,turkey breast,Oven Roasted Turkey Breast,1 lb.,$10.99,False,0.024228395061728393,wt
+657,turkey breast,Honey Roasted Turkey Breast,1 lb.,$10.99,False,0.024228395061728393,wt
+658,turkey breast,Hickory Smoked Turkey Breast,1 lb.,$10.99,False,0.024228395061728393,wt
+659,margarine,Margarine,1 lb.,$1.19,False,0.0026234567901234564,wt
+660,margarine,"Vegetable Oil Spread, 53%",1 lb.,$1.19,False,0.0026234567901234564,wt
+661,margarine,"Vegetable Oil Spread, 79%, Original",1 lb.,$2.99,False,0.006591710758377425,wt
+662,margarine,Margarine,15 oz.,$2.49,False,0.005855379188712522,wt
+663,ricotta,Part Skim Ricotta,15 oz.,$2.29,False,0.00538506760728983,wt
+664,ricotta,Whole Milk Ricotta,32 oz.,$3.99,False,0.004398148148148148,wt
+665,ricotta,Part Skim Ricotta,32 oz.,$3.99,False,0.004398148148148148,wt
+666,ricotta,Whole Milk Ricotta,15 oz.,$2.29,False,0.00538506760728983,wt
+667,poblano peppers,Poblano Peppers,1 Each Approx. 0.25 lb.,$4.49/lb,False,0.009898589065255732,wt
+668,poblano peppers,Sliced Poblano Peppers,7 oz.,$1.99,False,0.01002771478961955,wt
+669,poblano peppers,Fire Roasted Poblano Peppers,12 oz.,$3.29,False,0.009670781893004113,wt
+670,egg noodles,"Egg Noodles, Wide",12 oz.,$1.79,False,0.005261610817166372,wt
+671,egg noodles,"Egg Noodles, Extra Wide",12 oz.,$1.79,False,0.005261610817166372,wt
+672,egg noodles,"Egg Noodles, Medium",12 oz.,$1.79,False,0.005261610817166372,wt
+673,egg noodles,"Egg Noodles, Enriched, Extra Wide",12 oz.,$2.29,False,0.0067313345091122865,wt
+674,apple cider vinegar,Apple Cider Vinegar with The Mother,16.9 fl. oz.,$3.49,False,0.006983729311452316,vol
+675,apple cider vinegar,Apple Cider Vinegar with The Mother,33.8 fl. oz.,$4.99,False,0.00499266608368869,vol
+676,apple cider vinegar,Apple Cider Vinegar,32 fl. oz.,$1.59,False,0.00168033479878255,vol
+677,apple cider vinegar,Apple Cider Vinegar,16 fl. oz.,$0.99,False,0.00209249239093676,vol
+678,artichoke hearts,Quartered Artichoke Hearts in Brine,14 oz.,$2.79,False,0.007029478458049886,wt
+679,artichoke hearts,"Imported Artichoke Hearts, in Brine",14 oz.,$2.79,False,0.007029478458049886,wt
+680,artichoke hearts,Baby Artichoke Hearts in Oil,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+681,artichoke hearts,Halves & Quarters Artichoke Hearts,12 oz.,$3.69,False,0.010846560846560846,wt
+682,sea scallops,Wild Caught Sea Scallops,12 oz.,$14.99,False,0.0440623162845385,wt
+683,sea scallops,Fresh Sea Scallops 15-20 per pound,1 Package Approx. 0.75 lb.,$16.99/lb,False,0.03745590828924162,wt
+684,yukon gold potatoes,Yukon Gold Mashed Potatoes,24 oz.,$3.19,False,0.0046884185773074655,wt
+685,yukon gold potatoes,"Black Angus Beef with Yukon Gold Potatoes, Portobello Mushrooms and Toasted ...",15.5 oz.,$3.49,False,0.007942197189509018,wt
+686,beef stock,Beef Broth,32 fl. oz.,$1.99*,True,0.0021030605343253296,vol
+687,beef stock,No Salt Added* Beef Culinary Stock,32 fl. oz.,$2.39,False,0.0025257862698681095,vol
+688,beef stock,Beef Culinary Stock,32 fl. oz.,$2.39,False,0.0025257862698681095,vol
+689,beef stock,Flavored Beef Broth,48 oz.,$1.99,False,0.0014623750734861845,wt
+690,rice noodles,Brown Rice Noodles,7.7 oz.,$2.99,False,0.013697061316108936,wt
+691,rice noodles,White Rice Noodles,7.7 oz.,$2.99,False,0.013697061316108936,wt
+692,rice noodles,"Noodles, Pad Thai, Organic, Brown Rice",8 oz.,$2.99,False,0.01318342151675485,wt
+693,rice noodles,"Noodles, Organic, Black Rice",8.8 oz.,$2.99,False,0.011984928651595316,wt
+694,ground cloves,Ground Cloves,2.82 oz.,$6.99,False,0.08743292431235694,wt
+695,ground cloves,Organic Ground Cloves,1.75 oz.,$8.99,False,0.18120433358528595,wt
+696,ground cloves,Ground Cloves,0.9 oz.,$4.99,False,0.19557123260826964,wt
+697,olives,Pitted Kalamata Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+698,olives,Castelvetrano Pitted Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+699,olives,Feta Stuffed Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+700,olives,Gorgonzola Stuffed Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+701,broccoli,"Broccoli Florets, FAMILY PACK",3 lb.,$4.99,False,0.0036669606114050554,wt
+702,broccoli,Microwaveable Broccoli Florets,10 oz.,$2.99,False,0.01054673721340388,wt
+703,broccoli,Broccoli Slaw,10 oz.,$2.99,False,0.01054673721340388,wt
+704,broccoli,Microwaveable Cleaned and Cut Broccoli Florets,12 oz.,2/$5.00,False,0.01469723691945914,wt
+705,fine sea salt,Fine Crystals Sea Salt,14.5 oz.,$1.99,False,0.00484096576050599,wt
+706,fine sea salt,"Sea Salt, Fine",24 oz.,$3.49,False,0.00512933568489124,wt
+707,fine sea salt,"Crackers, Almond Flour, Fine Ground Sea Salt",4.25 oz.,$4.49,False,0.037265276480962756,wt
+708,quinoa,"Kale & Quinoa Cakes, FAMILY PACK",22 oz.,$16.00,False,0.02565335898669232,wt
+709,quinoa,Tri-Color Quinoa Blend,8 oz.,$2.99,False,0.01318342151675485,wt
+710,quinoa,Quinoa Tri Color,1 lb.,$5.49,False,0.012103174603174604,wt
+711,quinoa,Organic Quinoa Grain,1 lb.,$5.49,False,0.012103174603174604,wt
+712,goat cheese,Fresh Crumbled Goat Cheese,4 oz.,$4.99,False,0.04400352733686067,wt
+713,goat cheese,Fresh Goat Cheese Mild,4 oz.,$3.99,False,0.03518518518518519,wt
+714,goat cheese,"Fresh Goat Cheese Mild, FAMILY PACK",8 oz.,$6.99,False,0.03082010582010582,wt
+715,goat cheese,Sweet 16 Goat Cheese,5.5 oz.,$11.99,False,0.07689594356261023,wt
+716,romaine lettuce,Romaine Lettuce,1 ea.,$1.99,False,1.99,whole
+717,romaine lettuce,Romaine Hearts,22 oz.,$2.49,False,0.0039923039923039924,wt
+718,romaine lettuce,Romaine Hearts,12 oz.,$3.99,False,0.011728395061728394,wt
+719,romaine lettuce,"Romaine Salad, FAMILY PACK",20 oz.,$3.49,False,0.0061552028218694885,wt
+720,portobello mushrooms,"Black Angus Beef with Yukon Gold Potatoes, Portobello Mushrooms and Toasted ...",15.5 oz.,$3.49,False,0.007942197189509018,wt
+721,lemon peel,California Lemon Peel,1.5 oz.,$6.99,False,0.16437389770723101,wt
+722,whole cloves,All Natural Whole Cloves,1.25 oz.,$8.99,False,0.2536860670194004,wt
+723,whole cloves,"Cloves, Whole",0.62 oz.,$6.99,False,0.39767878477555896,wt
+724,lettuce,Triple Washed Sweet Baby Lettuce,5 oz.,$2.49,False,0.017566137566137566,wt
+725,lettuce,Green Butterhead Lettuce,1 ea.,$2.99,False,2.99,whole
+726,lettuce,Organic Green Leaf Lettuce,1 ea.,$1.99,False,1.99,whole
+727,lettuce,Organic Red Leaf Lettuce,1 ea.,$1.99,False,1.99,whole
+728,sweet potatoes,White Sweet Potatoes,1 Each Approx. 0.45 lb.,$2.29/lb,False,0.005048500881834215,wt
+729,sweet potatoes,Cleaned and Cut Sweet Potato Cuts,16 oz.,$3.49,False,0.00769400352733686,wt
+730,sweet potatoes,Sweet Potato Sticks,1 Package Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+731,sweet potatoes,Sweet Potato Noodles,1 Package Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+732,lamb,Ground Lamb,16 oz.,$7.49,False,0.016512345679012344,wt
+733,lamb,Lamb Loin Chop,1 Package Approx. 1 lb.,$14.99/lb,False,0.03304673721340388,wt
+734,lamb,Lamb Rib Chop,1 Package Approx. 2 lb.,$19.99/lb,False,0.04406966490299823,wt
+735,lamb,Lamb Shoulder Chop,1 Package Approx. 2 lb.,$9.49/lb,False,0.020921516754850086,wt
+736,lettuce leaves,Green Lettuce Leaves,7 oz.,$3.99,False,0.020105820105820106,wt
+737,pesto,Scallops with Garlic Pesto Sauce,12 oz.,$10.00,False,0.02939447383891828,wt
+738,pesto,Salmon with Pesto Sauce,6 oz.,$9.00,False,0.0529100529100529,wt
+739,pesto,Chicken with Pesto Sauce,13 oz.,$9.00,False,0.02442002442002442,wt
+740,pesto,Basil Pesto,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+741,coconut,Coconut Shrimp with Sweet Chili Sauce,6.5 oz.,$6.50,False,0.03527336860670194,wt
+742,coconut,Unsweetened Coconut Milk,13.5 fl. oz.,$1.99,False,0.004985032377660041,vol
+743,coconut,"Unsweetened Coconut Milk, Light",13.5 fl. oz.,$1.99,False,0.004985032377660041,vol
+744,coconut,"Extra Virgin Coconut Oil, Unrefined",14 fl. oz.,$4.99,False,0.012053722402048408,vol
+745,chuck,"Chuck Roast, FAMILY PACK",1 Package Approx. 5 lb.,$3.99/lb,False,0.008796296296296297,wt
+746,chuck,"Beef Chuck Roast, Grass Fed",1 Package Approx. 2.25 lb.,$9.29/lb,False,0.020480599647266312,wt
+747,chuck,Boneless Beef Chuck Eye of the Round Steak,1 Package Approx. 1.25 lb.,$6.49/lb,False,0.014307760141093475,wt
+748,chuck,"Angus Beef, Chuck Roast",1 Each Approx. 2.5 lb.,$11.49/lb,False,0.02533068783068783,wt
+749,fish,Seasoned Bronzini,1 Each Approx. 1 lb.,$14.99/lb,False,0.03304673721340388,wt
+750,fish,Whole Seasoned Rainbow Trout,1 lb.,$10.99,False,0.024228395061728393,wt
+751,fish,"Fresh Tilapia Fillet, FAMILY PACK",1 Package Approx. 2 lb.,$4.99/lb,False,0.011000881834215168,wt
+752,fish,"Wild Caught Swordfish, FAMILY PACK",32 oz.,$19.98,False,0.022023809523809522,wt
+753,dill,Fresh Dill,1 ea.,$1.99,False,1.99,whole
+754,dill,Dill,0.25 oz.,$1.29,False,0.182010582010582,wt
+755,dill,Dill Dip,12 oz.,$0.99*,True,0.0029100529100529095,wt
+756,dill,Lemon Dill Hummus,8 oz.,$1.99,False,0.008774250440917107,wt
+757,cauliflower,Organic Cauliflower,1 ea.,$4.99,False,4.99,whole
+758,cauliflower,Cauliflower,1 ea.,$1.99,False,1.99,whole
+759,cauliflower,Cleaned and Cut Cauliflower Florets,12 oz.,2/$5.00,False,0.01469723691945914,wt
+760,cauliflower,Cauliflower Rice,1 Package Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+761,cabbage,Green Cabbage,1 Head Approx. 1.5 lb.,$0.99/lb,False,0.0021825396825396826,wt
+762,cabbage,Shredded Red Cabbage,10 oz.,2/$3.00,False,0.010582010582010581,wt
+763,cabbage,Green Cabbage,1 Head Approx. 3 lb.,$0.79/lb,False,0.0017416225749559084,wt
+764,cabbage,Red Cabbage,1 Each Approx. 3 lb.,$0.79/lb,False,0.0017416225749559084,wt
+765,chilies,Vegetarian Chili,16 oz.,$5.99,False,0.013205467372134039,wt
+766,chilies,"Beef & Bean Chili, FAMILY PACK",48 oz.,$12.99,False,0.00954585537918871,wt
+767,chilies,"Turkey & Bean Chili, FAMILY PACK",48 oz.,$12.99,False,0.00954585537918871,wt
+768,chilies,Coconut Shrimp with Sweet Chili Sauce,6.5 oz.,$6.50,False,0.03527336860670194,wt
+769,butternut squash,Butternut Squash,1 Each Approx. 3 lb.,$1.49/lb,False,0.003284832451499118,wt
+770,butternut squash,Butternut Squash Noodles,1 Package Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+771,butternut squash,Butternut Squash Sticks,1 Package Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+772,butternut squash,Butternut Squash with Red Onions,1 Package Approx. 1 lb.,$7.49/lb,False,0.016512345679012344,wt
+773,polenta,"Polenta, Original Flavor",16 oz.,$3.99,False,0.008796296296296297,wt
+774,polenta,"Polenta, Organic, Traditional Italian",18 oz.,$3.79,False,0.0074270037233000194,wt
+775,polenta,"Corn Grits, Organic, Polenta",24 oz.,$3.99,False,0.005864197530864197,wt
+776,polenta,Instant Polenta,9.2 oz.,$2.99,False,0.011463844797178132,wt
+777,fontina cheese,Shreded Fontina,1 Each Approx. 0.5 lb.,$11.99/lb,False,0.026432980599647264,wt
+778,fontina cheese,Fontina Cheese,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+779,fontina cheese,Fontina Snacking Cheese,18 oz.,$9.99,False,0.019576719576719578,wt
+780,fontina cheese,Fontina Valle D'Aosta,1 Each Approx. 0.5 lb.,$17.99/lb,False,0.03966049382716049,wt
+781,dark brown sugar,"Dark Brown Sugar, Pure Cane",32 oz.,$1.49,False,0.001642416225749559,wt
+782,dark brown sugar,Dark Brown Sugar,2 lb.,$2.49,False,0.0027447089947089946,wt
+783,dark brown sugar,"Sugar, Dark Brown",1 lb.,$1.59,False,0.0035052910052910053,wt
+784,apple cider,Apple Cider,64 fl. oz.,$3.99,False,0.0021083446060196145,vol
+785,apple cider,Apple Cider,128 fl. oz.,$5.49,False,0.0014504776800811634,vol
+786,apple cider,Apple Cider Vinegar with The Mother,16.9 fl. oz.,$3.49,False,0.006983729311452316,vol
+787,apple cider,Apple Cider Vinegar with The Mother,33.8 fl. oz.,$4.99,False,0.00499266608368869,vol
+788,olive oil spray,Olive Oil Cooking Spray,5 oz.,$2.99,False,0.02109347442680776,wt
+789,olive oil spray,Extra Virgin Olive Oil Spray,8.4 fl. oz.,$4.99,False,0.020089537336747346,vol
+790,olive oil spray,Olive Oil Cooking Spray,5 oz.,$2.29,False,0.01615520282186949,wt
+791,olive oil spray,"Cooking Spray, No-Stick, Olive Oil",5 oz.,$3.29,False,0.023209876543209877,wt
+792,italian tomatoes,Tomato Paste,7 oz.,$1.99,False,0.01002771478961955,wt
+793,italian tomatoes,Italian Style Diced Tomatoes,14.5 oz.,$0.69,False,0.0016785258164568506,wt
+794,italian tomatoes,"Packaged Fully Cooked Authentic Italian Medium Pesto, Tomato and Spinach Pizza",16 oz.,$12.00,False,0.026455026455026454,wt
+795,italian tomatoes,"San Marzano Tomato of Agro Sarnese-Nocerino Area, FAMILY PACK",90 oz.,$8.99,False,0.0035234175974916716,wt
+796,jalapeño,"Jalapeno Cheddar Burgers, 2 Pack",1 Package Approx. 0.75 lb.,$7.99/lb,False,0.01761463844797178,wt
+797,jalapeño,Jalapeno Pepper,1 Each Approx. 0.22 lb.,$3.99/lb,False,0.008796296296296297,wt
+798,jalapeño,"Sliced Cheese, Montery Jack Cheese with Jalapeno Peppers, FAMILY PACK",32 oz.,$6.99,False,0.007705026455026455,wt
+799,jalapeño,Jalapeno Cheddar Tortillas,15 oz.,$2.99,False,0.007031158142269254,wt
+800,bean sprouts,Bean Sprouts,8 oz.,$2.99,False,0.01318342151675485,wt
+801,bean sprouts,Bean Sprouts,14.4 oz.,$1.79,False,0.004384675680971977,wt
+802,bean sprouts,Bean Sprouts,15 oz.,$2.79,False,0.0065608465608465606,wt
+803,horseradish,Prepared Horseradish,8.5 oz.,$2.29,False,0.00950306048345264,wt
+804,horseradish,Horseradish Root,1 Each Approx. 0.5 lb.,$5.99/lb,False,0.013205467372134039,wt
+805,horseradish,Ready To Cook Salmon with Horseradish,5 oz.,$9.00,False,0.06349206349206349,wt
+806,horseradish,Horseradish Mustard,9 oz.,$1.49,False,0.005839702135998432,wt
+807,salmon,Cedar Plank Fresh Farm-Raised E.U. Organic Atlantic Salmon,6 oz.,$12.00,False,0.07054673721340388,wt
+808,salmon,Salmon Burgers,1 Package Approx. 0.75 lb.,$10.99/lb,False,0.024228395061728393,wt
+809,salmon,Salmon with Lemon Pepper Rub,5 oz.,$9.00,False,0.06349206349206349,wt
+810,salmon,Salmon Topped with Lobster,7 oz.,$10.00,False,0.050390526581002765,wt
+811,white beans,White Bean and Kale Hummus,10.5 oz.,$2.49,False,0.00836482741244646,wt
+812,white beans,"Blends Mango & Pineapple, White Bean, Butternut Squash, Oats Tots Pouch",3.75 oz.,$1.39,False,0.013074661963550852,wt
+813,white beans,"Kale & Millet Soup, Organic, White Bean",17 oz.,$4.99,False,0.010353771138084862,wt
+814,white beans,"Baby Food, Organic, Sweet Pea Carrot Corn and White Bean, 3 (8 Months & Up)",4 oz.,$1.49,False,0.013139329805996473,wt
+815,cannellini beans,Cannellini Beans,15 oz.,$0.99,False,0.002328042328042328,wt
+816,cannellini beans,"Cannellini Beans, FAMILY PACK",93 oz.,$2.99,False,0.0011340577648821376,wt
+817,cannellini beans,"Cannellini Beans, FAMILY PACK",60 oz.,$3.69,False,0.0021693121693121694,wt
+818,cannellini beans,Cannellini Beans,15.5 oz.,$0.49*,True,0.0011150935882118678,wt
+819,peaches,Peaches,2 lb.,$2.99,False,0.0032958553791887124,wt
+820,peaches,Select Peaches,1 Each Approx. 0.6 lb.,$2.99/lb,False,0.006591710758377425,wt
+821,peaches,White Flat-Out Peaches,1 lb.,$4.69,False,0.010339506172839507,wt
+822,peaches,Locally Grown Peaches,1 lb.,$2.49,False,0.005489417989417989,wt
+823,mustard seeds,"Mustard Seed, Yellow",1.4 oz.,$4.99,False,0.12572436381960192,wt
+824,mustard seeds,Mustard Seeds,7 oz.,$1.49,False,0.007508188460569412,wt
+825,snow peas,"Cleaned and Cut Triple Washed Snow Peas, FAMILY PACK",24 oz.,$4.49,False,0.006599059376837154,wt
+826,snow peas,Fresh Snow Peas,1 Bag Approx. 0.5 lb.,$4.99/lb,False,0.011000881834215168,wt
+827,snow peas,Microwaveable Cleaned and Cut Triple Washed Snow Peas,8 oz.,2/$5.00,False,0.02204585537918871,wt
+828,cinnamon,Cinnamon Adjustable Grinder,0.88 oz.,$5.99,False,0.24009940676607344,wt
+829,cinnamon,Cinnamon Grinder Refill,0.88 oz.,$3.99,False,0.15993265993265993,wt
+830,cinnamon,Dark Chocolate with Cinnamon Glazed Pecans,3 oz.,$1.99,False,0.023398001175778952,wt
+831,cinnamon,Cinnamon,2.45 oz.,$5.99,False,0.08623978692005901,wt
+832,marjoram,Oregano,1 ea.,$1.99,False,1.99,whole
+833,marjoram,Oregano,0.25 oz.,$1.29,False,0.182010582010582,wt
+834,marjoram,Marjoram,0.25 oz.,$1.29,False,0.182010582010582,wt
+835,marjoram,Oregano,0.75 oz.,$5.99,False,0.2817166372721928,wt
+836,roma tomatoes,"Tomatoes Roma, FAMILY PACK",1.5 lb.,$2.99,False,0.004394473838918283,wt
+837,roma tomatoes,Organic Plum Tomatoes (Roma),1 Each Approx. 0.25 lb.,$3.99/lb,False,0.008796296296296297,wt
+838,roma tomatoes,Plum (Roma) Tomatoes,1 Each Approx. 0.22 lb.,$1.99/lb,False,0.004387125220458554,wt
+839,roma tomatoes,Italian-Style Roma Whole Steam Peeled Tomatoes with Garlic and Basil,28 oz.,$1.49,False,0.001877047115142353,wt
+840,peanut butter,"Creamy Peanut Butter, FAMILY PACK",80 oz.,$5.09,False,0.0022442680776014108,wt
+841,peanut butter,Creamy Peanut Butter,16 oz.,$4.99,False,0.011000881834215168,wt
+842,peanut butter,p.b. Creamy Peanut Butter Spread,16 oz.,$3.99,False,0.008796296296296297,wt
+843,peanut butter,Crunchy Peanut Butter,16 oz.,$4.99,False,0.011000881834215168,wt
+844,cottage cheese,"Lowfat Small Curd Cottage Cheese, 1% Milkfat, FAMILY PACK",48 oz.,$3.79,False,0.002785126396237507,wt
+845,cottage cheese,"2% Milkfat Cottage Cheese, Small Curd",16 oz.,$3.49,False,0.00769400352733686,wt
+846,cottage cheese,"4% Milkfat Minimum Cottage Cheese, Small Curd",16 oz.,$3.49,False,0.00769400352733686,wt
+847,cottage cheese,Small Curd Cottage Cheese,24 oz.,$2.19,False,0.0032186948853615517,wt
+848,grapes,Seedless Red Grapes,2 lb.,$5.99,False,0.0066027336860670196,wt
+849,grapes,Seedless Green Grapes,2 lb.,$5.99,False,0.0066027336860670196,wt
+850,grapes,Cotton Candy Grapes,1 Bulb Approx. 1.5 lb.,$4.99/lb,False,0.011000881834215168,wt
+851,grapes,Jellyberry Grapes,1 Package Approx. 1.3 lb.,$3.99/lb,False,0.008796296296296297,wt
+852,french bread,French Bread Olive Oil Crostini,4 oz.,$5.00,False,0.04409171075837742,wt
+853,french bread,"French Bread Pizza, Pepperoni, FAMILY PACK",50.85 oz.,$11.49,False,0.007970324587827047,wt
+854,french bread,French Vanilla Loaf Bread,16 oz.,$5.50,False,0.012125220458553791,wt
+855,french bread,Batard,8 oz.,$3.00,False,0.013227513227513227,wt
+856,anchovy fillets,"Filet of Anchovies, Olive Oil and Salt",4.25 oz.,$4.99,False,0.04141508455233945,wt
+857,anchovy fillets,"Anchovies, Flat Fillets",2 oz.,$1.99,False,0.03509700176366843,wt
+858,anchovy fillets,"Anchovies, Flat Fillets in Olive Oil",2 oz.,$2.29,False,0.04038800705467372,wt
+859,red chile,Spicy Red Lentil Chili,16 oz.,$5.99,False,0.013205467372134039,wt
+860,red chile,Red Chile Beef Quesadilla,12 oz.,$7.00,False,0.020576131687242795,wt
+861,red chile,Red Fresno Pepper,1 Each Approx. 0.2 lb.,$4.49/lb,False,0.009898589065255732,wt
+862,red chile,Red Chile Sauce,16 oz.,$3.99,False,0.008796296296296297,wt
+863,green olives,Mt. Athos Green Olives Stuffed with Almonds,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+864,green olives,Mt. Athos Green Olives Stuffed with Garlic,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+865,green olives,Cerignola Green Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+866,green olives,Olive Hummus Topped with Kalamata and Green Olives,10.5 oz.,$2.49,False,0.00836482741244646,wt
+867,mussels,"Mussels, 2 lb. bag",32 oz.,$7.00,False,0.007716049382716049,wt
+868,radishes,Radish Bunch,1 ea.,$2.69,False,2.69,whole
+869,radishes,Cleaned and Cut Radishes,16 oz.,$1.99,False,0.004387125220458554,wt
+870,radishes,Bunch Radishes,1 ea.,$1.99,False,1.99,whole
+871,radishes,Black Radish,1 Each Approx. 0.25 lb.,$4.99/lb,False,0.011000881834215168,wt
+872,plain greek yogurt,"Plain Nonfat Greek Yogurt, FAMILY PACK",32 oz.,$3.79,False,0.0041776895943562604,wt
+873,plain greek yogurt,"Greek Yogurt, Plain",5.3 oz.,$1.00,False,0.006655352567302253,wt
+874,plain greek yogurt,Whole Milk Plain Greek Yogurt,32 oz.,$6.49,False,0.007153880070546737,wt
+875,plain greek yogurt,"Greek Yogurt, Plain, FAMILY PACK",32 oz.,$5.99,False,0.0066027336860670196,wt
+876,cinnamon stick,Cinnamon Sticks,1.13 oz.,$5.99,False,0.1869800689859687,wt
+877,cinnamon stick,Cinnamon Sticks,1.8 oz.,$1.99,False,0.038996668626298255,wt
+878,cinnamon stick,Cinnamon Sticks,3 oz.,$1.99,False,0.023398001175778952,wt
+879,cinnamon stick,Organic Saigon Cinnamon Sticks,0.75 oz.,$6.99,False,0.32874779541446203,wt
+880,grated parmesan,Parmesan Grated Cheese,8 oz.,$2.99,False,0.01318342151675485,wt
+881,grated parmesan,Parmesan Grated Cheese,16 oz.,$5.29,False,0.011662257495590828,wt
+882,grated parmesan,Parmesan & Romano Grated Cheese,8 oz.,$2.99,False,0.01318342151675485,wt
+883,grated parmesan,Parmesan & Romano Grated Cheese,16 oz.,$5.29,False,0.011662257495590828,wt
+884,crabmeat,Portabella Mushroom with Crab Stuffing,1 Package Approx. 0.3 lb.,$13.99/lb,False,0.030842151675485006,wt
+885,crabmeat,Soft Shell Crab Tempura,5 oz.,$11.00,False,0.07760141093474426,wt
+886,crabmeat,Fully Cooked Butterfly Split King Crab Legs & Claws,32 oz.,$52.99,False,0.058410493827160494,wt
+887,crabmeat,Signature Crab Cakes,8 oz.,$18.00,False,0.07936507936507936,wt
+888,herbs,Spring Mix with Herbs,5 oz.,$2.49,False,0.017566137566137566,wt
+889,herbs,Fresh Herbs - Assorted,1 ea.,$1.99,False,1.99,whole
+890,herbs,Fresh Herbs Soothing & Hydrating Hand Wash,8 fl. oz.,$6.99,False,0.029548528914440313,vol
+891,herbs,"Spreadable Cheese, Soft, Garlic & Herbs",6.5 oz.,$4.49,False,0.024365757699091033,wt
+892,green chili,"Petite Diced Tomatoes with Green Chilies, Medium",10 oz.,$0.59,False,0.0020811287477954144,wt
+893,green chili,Diced Green Chile Peppers,7 oz.,$2.49,False,0.01254724111866969,wt
+894,green chili,"Petite Diced Tomatoes with Green Chilies, Mild",10 oz.,$0.59,False,0.0020811287477954144,wt
+895,green chili,Green Chile Sauce,16 oz.,$3.99,False,0.008796296296296297,wt
+896,yellow squash,Yellow Squash,1 ea.,$1.49,False,1.49,whole
+897,yellow squash,Yellow Squash (Goldbar),1 Each Approx. 0.55 lb.,$1.99/lb,False,0.004387125220458554,wt
+898,apples,Organic Honeycrisp Apples,1 Each Approx. 0.4 lb.,$3.79/lb,False,0.008355379188712521,wt
+899,apples,"Gala Apples, FAMILY PACK",3 lb.,$5.99,False,0.004401822457378013,wt
+900,apples,"Honeycrisp Apples, FAMILY PACK",3 lb.,$9.99,False,0.00734126984126984,wt
+901,apples,Organic Mini Fuji Apples,1 ea.,$0.25,False,0.25,whole
+902,skirt steak,Angus Beef Skirt Steak,1 Package Approx. 0.75 lb.,$19.99/lb,False,0.04406966490299823,wt
+903,skirt steak,Skirt Steak,1 Package Approx. 0.75 lb.,$15.99/lb,False,0.03525132275132275,wt
+904,baby carrots,"Baby Cut Carrots, FAMILY PACK",48 oz.,$2.79,False,0.00205026455026455,wt
+905,baby carrots,Baby Cut Carrots,16 oz.,$0.99,False,0.0021825396825396826,wt
+906,baby carrots,Microwaveable Cleaned and Cut Triple Washed Peeled Baby Carrots,8 oz.,2/$5.00,False,0.02204585537918871,wt
+907,baby carrots,"Carrots, Baby, Rainbow",12 oz.,$1.29,False,0.003791887125220458,wt
+908,bok choy,Fresh Bok Choy,1 Head Approx. 1.5 lb.,$1.99/lb,False,0.004387125220458554,wt
+909,bok choy,Shanghai Bok Choy,1 Head Approx. 0.25 lb.,$2.99/lb,False,0.006591710758377425,wt
+910,bok choy,Baby Bok Choy,1 Head Approx. 0.5 lb.,$2.49/lb,False,0.005489417989417989,wt
+911,pineapple juice,Pineapple Orange Juice,64 fl. oz.,$2.29,False,0.0012100524179912073,vol
+912,pineapple juice,Fresh Orange Pineapple Juice,32 fl. oz.,$8.00,False,0.008454514710855596,vol
+913,pineapple juice,Sliced Pineapple in Pineapple Juice,20 oz.,$1.49,False,0.0026278659611992947,wt
+914,pineapple juice,Crushed Pineapple in Pineapple Juice,8 oz.,$0.99,False,0.004365079365079365,wt
+915,cardamom pods,All Natural Whole Cardamom Pods,0.95 oz.,$8.99,False,0.33379745660447413,wt
+916,chili paste,Gochujang Fermented Spicy Red Chili Paste,10.58 oz.,$3.99,False,0.013302527480221241,wt
+917,chili paste,Chili Pepper Stir-in Paste,4 oz.,$4.99,False,0.04400352733686067,wt
+918,chili paste,"Chili Paste, Ground Fresh, Sambal Oelek",8 oz.,$1.99,False,0.008774250440917107,wt
+919,sweet onion,Vidalia Sweet Onions,1 Each Approx. 0.65 lb.,$1.49/lb,False,0.003284832451499118,wt
+920,sweet onion,Fresh Spanish Onions (Sweet),1 Each Approx. 0.85 lb.,$1.49/lb,False,0.003284832451499118,wt
+921,sweet onion,"Onions, Sweet",3 lb.,$2.99,False,0.0021972369194591416,wt
+922,sweet onion,Sweet Onion Salsa,16 oz.,$3.79,False,0.008355379188712521,wt
+923,molasses,Molasses Mini Cookies,14 oz.,$3.75,False,0.009448223733938018,wt
+924,molasses,"Molasses, Unsulphured, Original",12 fl. oz.,$3.49,False,0.009835418780295344,vol
+925,molasses,"Molasses, Blackstrap, Unsulphured",15 fl. oz.,$4.49,False,0.010122872280464434,vol
+926,molasses,"Molasses, Unsulphured, Robust",12 fl. oz.,$3.49,False,0.009835418780295344,vol
+927,cooking oil,Extra Virgin Olive Oil,16.9 fl. oz.,$7.99,False,0.01598853787922751,vol
+928,cooking oil,Vegetable Oil,128 fl. oz.,$5.49,False,0.0014504776800811634,vol
+929,cooking oil,"100% Mediterranean Blend Olive Oil, Extra Virgin, FAMILY PACK",101 fl. oz.,$18.99,False,0.006358464727094961,vol
+930,cooking oil,Extra Virgin Olive Oil,33.8 fl. oz.,$12.99,False,0.012996940366155528,vol
+931,pearl onions,Pearl Onions,1 Bulb Approx. 0.75 lb.,$3.99/lb,False,0.008796296296296297,wt
+932,pearl onions,Peas & Pearl Onions,16 oz.,$1.99,False,0.004387125220458554,wt
+933,pearl onions,"Onions, Red Pearl",8 oz.,2/$5.00,False,0.02204585537918871,wt
+934,pearl onions,"Pearl Onions, White",14.4 oz.,$2.19,False,0.005364491475602587,wt
+935,leg of lamb,Leg of Lamb Butterflied Boneless,1 Package Approx. 2 lb.,$13.79/lb,False,0.030401234567901232,wt
+936,leg of lamb,Boneless Leg of Lamb,1 Package Approx. 3.5 lb.,$6.99/lb,False,0.01541005291005291,wt
+937,leg of lamb,Easy Carve Semi-Boneless Leg of Lamb,1 Package Approx. 2 lb.,$6.49/lb,False,0.014307760141093475,wt
+938,napa cabbage,"Dumplings, Pork & Napa Cabbage",21 oz.,$5.99,False,0.010061308474006887,wt
+939,napa cabbage,"Cabbage, Napa, House",16 fl. oz.,$7.99,False,0.016887893134934055,vol
+940,napa cabbage,"Cabbage, Napa, Table Cut",16 fl. oz.,$7.99,False,0.016887893134934055,vol
+941,napa cabbage,"Cabbage, Napa, White",16 fl. oz.,$7.99,False,0.016887893134934055,vol
+942,sriracha,Sriracha Ranch Chopped Salad Kit,1 ea.,$4.99,False,4.99,whole
+943,sriracha,"Spicy Green Sriracha Sauce, Medium",16 fl. oz.,$3.49,False,0.007376564085221509,vol
+944,sriracha,"Sriracha Chicken Potstickers, FAMILY PACK",24 oz.,$8.99,False,0.013212815990593768,wt
+945,sriracha,"Chickpea Puffs, Organic, Sriracha Sunshine",4 oz.,$2.99,False,0.0263668430335097,wt
+946,sweet paprika,"Paprika, Sweet Hungarian Style",5 oz.,$3.49,False,0.024620811287477954,wt
+947,baby arugula,Triple Washed Baby Arugula,5 oz.,$2.49,False,0.017566137566137566,wt
+948,baby arugula,"Baby Arugula, FAMILY PACK",11 oz.,$3.99,False,0.012794612794612794,wt
+949,baby arugula,Fresh Baby Arugula,5 oz.,$1.99,False,0.014038800705467373,wt
+950,baby arugula,Fresh Baby Arugula Blend,5 oz.,2/$3.00,False,0.021164021164021163,wt
+951,swiss chard,Organic Red Swiss Chard,1 ea.,$2.99,False,2.99,whole
+952,swiss chard,"Super Greens (Kale, Spinach, & Chard)",5 oz.,$2.49,False,0.017566137566137566,wt
+953,swiss chard,"Super Greens (Kale, Spinach, & Chard), FAMILY PACK",11 oz.,$3.99,False,0.012794612794612794,wt
+954,swiss chard,Red Swiss Chard,1 ea.,$2.99,False,2.99,whole
+955,peas,"Cleaned and Cut Sugar Snap Peas, FAMILY PACK",24 oz.,$4.49,False,0.006599059376837154,wt
+956,peas,Microwaveable Cleaned and Cut Sugar Snap Peas,10 oz.,$4.99,False,0.01760141093474427,wt
+957,peas,"Cleaned and Cut Triple Washed Snow Peas, FAMILY PACK",24 oz.,$4.49,False,0.006599059376837154,wt
+958,peas,Microwaveable Cleaned and Cut Triple Washed Sugar Snap Peas,8 oz.,2/$5.00,False,0.02204585537918871,wt
+959,blue cheese,Milky Mild Blue Cheese Crumbles,5 oz.,$3.49,False,0.024620811287477954,wt
+960,blue cheese,Specialty Iradiated Blue Cheese Burgers,1 Package Approx. 0.75 lb.,$7.99/lb,False,0.01761463844797178,wt
+961,blue cheese,Milky Mild Blue Cheese,1 Each Approx. 0.5 lb.,$12.99/lb,False,0.028637566137566135,wt
+962,blue cheese,Traditional Blue Stilton Cheese,1 Each Approx. 0.5 lb.,$19.99/lb,False,0.04406966490299823,wt
+963,russet potatoes,Premium Russet Baking Potatoes,5 lb.,$1.50*,True,0.0006613756613756613,wt
+964,russet potatoes,Russet Potatoes,3 lb.,$4.99,False,0.0036669606114050554,wt
+965,russet potatoes,Russet Potatoes,1 Each Approx. 0.75 lb.,$0.99/lb,False,0.0021825396825396826,wt
+966,russet potatoes,"Potato, Russet, Pre-Washed",6 oz.,$0.99,False,0.005820105820105819,wt
+967,swiss cheese,"Sliced Cheese, Swiss Cheese, FAMILY PACK",32 oz.,$6.99,False,0.007705026455026455,wt
+968,swiss cheese,Aged 5 Months Le Gruyere Cheese -Medium,1 Each Approx. 0.5 lb.,$16.99/lb,False,0.03745590828924162,wt
+969,swiss cheese,Aged 4-6 Months Gruyere Cheese- Mild,1 Each Approx. 0.5 lb.,$10.99/lb,False,0.024228395061728393,wt
+970,swiss cheese,Extra Thin Sliced Swiss Cheese,6.84 oz.,$1.99,False,0.01026228121744691,wt
+971,water chestnuts,"Water Chestnut, Sliced",8 oz.,$1.29,False,0.005687830687830688,wt
+972,water chestnuts,"Water Chestnuts, Sliced",8 oz.,$1.29,False,0.005687830687830688,wt
+973,water chestnuts,"Water Chestnut, Diced",8 oz.,$1.29,False,0.005687830687830688,wt
+974,water chestnuts,"Water Chestnuts, Diced",8 oz.,$1.29,False,0.005687830687830688,wt
+975,white mushrooms,"Sliced White Mushrooms, FAMILY PACK",20 oz.,$3.99,False,0.007037037037037038,wt
+976,white mushrooms,Sliced White Mushrooms,8 oz.,$2.99,False,0.01318342151675485,wt
+977,white mushrooms,Whole White Mushrooms,8 oz.,$2.99,False,0.01318342151675485,wt
+978,white mushrooms,"Mushrooms, Whole White",24 oz.,$3.99,False,0.005864197530864197,wt
+979,parsnips,Parsnips,1 Each Approx. 0.3 lb.,$1.99/lb,False,0.004387125220458554,wt
+980,jalapeños,Stuffed Jalapenos,8 oz.,$2.99,False,0.01318342151675485,wt
+981,jalapeños,"Sausage, Chicken, Spicy Jalapeno, with Jalapenos and Roasted Red Peppers",12 oz.,$5.49,False,0.016137566137566135,wt
+982,jalapeños,TGI Fridays Poppers Cheddar Cheese Stuffed Jalapenos 32 oz Box,32 oz.,$7.99,False,0.00880731922398589,wt
+983,jalapeños,"Jalapenos, Hot, Diced",4 oz.,$0.99,False,0.00873015873015873,wt
+984,green tomatoes,Green Tomatoes,1 lb.,$2.99,False,0.006591710758377425,wt
+985,green tomatoes,"Petite Diced Tomatoes with Green Chilies, Medium",10 oz.,$0.59,False,0.0020811287477954144,wt
+986,green tomatoes,"Petite Diced Tomatoes with Green Chilies, Mild",10 oz.,$0.59,False,0.0020811287477954144,wt
+987,green tomatoes,"Diced Tomatoes & Green Chilies, Original",10 oz.,$1.19,False,0.004197530864197531,wt
+988,clam juice,"Clams, In Clam Juice, Chopped",6.5 oz.,$1.99,False,0.010799077465744131,wt
+989,clam juice,"Clams, in Clam Juice, Minced",6.5 oz.,$1.99,False,0.010799077465744131,wt
+990,clam juice,Clam Juice,8 fl. oz.,$1.99,False,0.008412242137301318,vol
+991,clam juice,Clam Juice,8 fl. oz.,$2.29,False,0.009680419343929658,vol
+992,asian sesame oil,Sesame Oil,6.2 fl. oz.,$4.49,False,0.024490820033381697,vol
+993,asian sesame oil,Pure Sesame Oil,5.5 fl. oz.,$3.99,False,0.02453346450641006,vol
+994,asian sesame oil,"Sesame Oil, Pure",11 fl. oz.,$5.99,False,0.018415470224736375,vol
+995,asian sesame oil,Pure Sesame Oil,22.1 fl. oz.,$9.99,False,0.01528698678035247,vol
+996,raisins,Raisins,6 oz.,$2.99,False,0.017577895355673133,wt
+997,raisins,Raisins,12 oz.,$4.29,False,0.012610229276895943,wt
+998,raisins,"Seedless Raisins, FAMILY PACK",48 oz.,$7.99,False,0.0058715461493239265,wt
+999,raisins,Organic Thompson Raisins,1 lb.,$4.49,False,0.009898589065255732,wt
+1000,star anise,Star Anise,1.34 oz.,$3.99,False,0.10503040353786622,wt
+1001,star anise,"Spring Roll Wrapper, Vietnamese Brown Rice",8 oz.,$3.49,False,0.01538800705467372,wt
+1002,couscous,Pearled Couscous,8 oz.,$2.99,False,0.01318342151675485,wt
+1003,couscous,Golden Couscous,8 oz.,$2.99,False,0.01318342151675485,wt
+1004,couscous,Whole Wheat Couscous,8 oz.,$2.99,False,0.01318342151675485,wt
+1005,couscous,"Couscous Mix, Pearled, Roasted Garlic & Olive Oil",4.7 oz.,$2.49,False,0.01868738038950805,wt
+1006,pie crust,Double Crust Apple Pie Slice,5 oz.,$3.50,False,0.024691358024691357,wt
+1007,pie crust,"Fill & Bake Pie Crusts, 9 Inch",15 oz.,$1.99,False,0.004679600235155791,wt
+1008,pie crust,Pie Crusts,14.1 oz.,$3.19,False,0.007980286940097815,wt
+1009,pie crust,"Pie Crusts, 9 Inch Pie",15 oz.,$3.99,False,0.009382716049382716,wt
+1010,mint leaves,"Mint Sauce, with Egyptian Mint Leaves",5 fl. oz.,$2.99,False,0.02022319918836659,vol
+1011,golden raisins,Golden Raisins,1 lb.,$4.49,False,0.009898589065255732,wt
+1012,golden raisins,"Raisins, Golden",10 oz.,$3.99,False,0.014074074074074076,wt
+1013,golden raisins,"Raisins, California Golden",15 oz.,$3.99,False,0.009382716049382716,wt
+1014,evaporated milk,Evaporated Milk,12 fl. oz.,$2.99,False,0.008426332995152745,vol
+1015,evaporated milk,Evaporated Milk,12 fl. oz.,$0.99,False,0.002789989854582347,vol
+1016,evaporated milk,"Evaporated Milk, Fat Free",12 fl. oz.,$0.99,False,0.002789989854582347,vol
+1017,evaporated milk,Evaporated Milk,12 fl. oz.,$1.49,False,0.004199075639724946,vol
+1018,evaporated milk,"Milk, Lowfat 2%, Evaporated",12 fl. oz.,$1.49,False,0.004199075639724946,vol
+1019,evaporated milk,"Goat Milk, Evaporated",12 fl. oz.,$3.49,False,0.009835418780295344,vol
+1020,evaporated milk,"Coconut Milk, Evaporated",12.2 fl. oz.,$3.49,False,0.009674182406847882,vol
+1021,crème fraîche,"Creme Fraiche, French-Style",8 oz.,$5.99,False,0.026410934744268078,wt
+1022,pears,"D'Anjou Pears, FAMILY PACK",3 lb.,$3.99,False,0.0029320987654320985,wt
+1023,pears,Organic Bartlett Pears,1 Each Approx. 0.45 lb.,$2.69/lb,False,0.0059303350970017635,wt
+1024,pears,Organic Bosc Pears,1 Each Approx. 0.5 lb.,$2.69/lb,False,0.0059303350970017635,wt
+1025,pears,D' Anjou Pears,3 lb.,$4.99,False,0.0036669606114050554,wt
+1026,puff pastry,Ready To Use Mini Phyllo Pastry Shells,1.75 oz.,$1.99,False,0.0401108591584782,wt
+1027,puff pastry,Ready to Use Phyllo Pastry Sheets,16 oz.,$2.99,False,0.006591710758377425,wt
+1028,puff pastry,Ready To Use Phyllo Pastry Sheets,16 oz.,$2.99,False,0.006591710758377425,wt
+1029,puff pastry,Fruit Strip Puff Pastry,11 oz.,$12.00,False,0.038480038480038475,wt
+1030,red lentils,Spicy Red Lentil Chili,16 oz.,$5.99,False,0.013205467372134039,wt
+1031,red lentils,Gluten-Free Red Lentil Spaghetti,8.8 oz.,$2.99,False,0.011984928651595316,wt
+1032,red lentils,Spicy Red Lentil Hummus,8 oz.,$1.99,False,0.008774250440917107,wt
+1033,red lentils,"Everyday Dal, Organic, Red Lentil + Butternut Squash + Coconut",10 oz.,$3.49,False,0.012310405643738977,wt
+1034,sweet red pepper,Roasted Sweet Red Pepper Sauce,4 oz.,$2.49,False,0.021957671957671957,wt
+1035,sweet red pepper,Roasted Sweet Red Pepper Dressing,16 fl. oz.,$0.99*,True,0.00209249239093676,vol
+1036,sweet red pepper,"Relish, Red Pepper, Original Recipe, Sweet",12 oz.,$5.99,False,0.01760728982951205,wt
+1037,fish fillets,"Fresh Tilapia Fillet, FAMILY PACK",1 Package Approx. 2 lb.,$4.99/lb,False,0.011000881834215168,wt
+1038,fish fillets,"Fresh Catfish Fillets, FAMILY PACK",1 Package Approx. 2.25 lb.,$7.49/lb,False,0.016512345679012344,wt
+1039,fish fillets,Fresh Tilapia Fillet,1 Fillet Approx. 0.4 lb.,$6.99/lb,False,0.01541005291005291,wt
+1040,fish fillets,Fresh Farmed Rainbow Trout Fillet,1 Fillet Approx. 1 lb.,$11.99/lb,False,0.026432980599647264,wt
+1041,greek yogurt,"Plain Nonfat Greek Yogurt, FAMILY PACK",32 oz.,$3.79,False,0.0041776895943562604,wt
+1042,greek yogurt,"Vanilla Nonfat Greek Yogurt, FAMILY PACK",32 oz.,$3.79,False,0.0041776895943562604,wt
+1043,greek yogurt,"Greek Yogurt, Plain",5.3 oz.,$1.00,False,0.006655352567302253,wt
+1044,greek yogurt,"Greek Yogurt, Whole Milk Plain",32 oz.,$3.99,False,0.004398148148148148,wt
+1045,jumbo shrimp,"Jumbo Raw Peeled & Deveined Shrimp, 26-30 Count",16 oz.,$15.99,False,0.03525132275132275,wt
+1046,jumbo shrimp,"Jumbo Cooked Shrimp, FAMILY PACK,",32 oz.,$24.98,False,0.0275352733686067,wt
+1047,jumbo shrimp,Jumbo Cooked Peeled & Deveined Shrimp,16 oz.,$17.99,False,0.03966049382716049,wt
+1048,jumbo shrimp,Fresh Cooked Jumbo Shrimp,1 Each Approx. 1 lb.,$24.99/lb,False,0.05509259259259259,wt
+1049,chili pepper,Chile Pepper,0.25 oz.,$1.29,False,0.182010582010582,wt
+1050,chili pepper,Red Fresno Pepper,1 Each Approx. 0.2 lb.,$4.49/lb,False,0.009898589065255732,wt
+1051,chili pepper,Lightly Dried Chili Pepper,0.78 oz.,$3.99,False,0.18043684710351376,wt
+1052,chili pepper,Italian Cayenne Chili Pepper Adjustable Grinder,0.9 oz.,$5.99,False,0.23476386439349403,wt
+1053,ground cardamom,Organic Ground Cardamom,1.75 oz.,$8.99,False,0.18120433358528595,wt
+1054,lentils,Spicy Red Lentil Chili,16 oz.,$5.99,False,0.013205467372134039,wt
+1055,lentils,"Moroccan Lentil with Chick Pea Soup, Medium",16 oz.,$5.99,False,0.013205467372134039,wt
+1056,lentils,Gluten-Free Red Lentil Spaghetti,8.8 oz.,$2.99,False,0.011984928651595316,wt
+1057,lentils,Spicy Red Lentil Hummus,8 oz.,$1.99,False,0.008774250440917107,wt
+1058,farfalle,Italian Classics Farfalle,16 oz.,$1.99,False,0.004387125220458554,wt
+1059,farfalle,Whole Wheat Farfalle Pasta,16 oz.,$1.99,False,0.004387125220458554,wt
+1060,farfalle,Farfalle Pasta,16 oz.,$0.79,False,0.0017416225749559084,wt
+1061,farfalle,"Chicken Florentine & Farfalle, Family Size",36 oz.,$8.99,False,0.008808543993729179,wt
+1062,okra,Fancy Okra,12 oz.,$3.29,False,0.009670781893004113,wt
+1063,okra,Cut Okra,16 oz.,$1.49*,True,0.003284832451499118,wt
+1064,okra,Cut Okra,16 oz.,$2.29,False,0.005048500881834215,wt
+1065,okra,Okra,16 fl. oz.,$7.49,False,0.015831078796077105,vol
+1066,parmigiano reggiano,Parmigiano Reggiano Love Bites,1 Each Approx. 0.5 lb.,$25.99/lb,False,0.05729717813051146,wt
+1067,parmigiano reggiano,Roasted Cauliflower with Parmigiano Reggiano Cheese,1 Each Approx. 1 lb.,$12.99/lb,False,0.028637566137566135,wt
+1068,parmigiano reggiano,Parmigiano Reggiano Love Bites,1 Package Approx. 0.5 lb.,$21.99/lb,False,0.048478835978835975,wt
+1069,parmigiano reggiano,Parmigiano Reggiano Cheese- Grated,1 Package Approx. 0.5 lb.,$20.99/lb,False,0.046274250440917104,wt
+1070,smoked bacon,"Uncured Bacon, Apple Wood Smoked",12 oz.,$7.99*,True,0.023486184597295706,wt
+1071,smoked bacon,"Center Cut Uncured Bacon Maple Smoked, Thick Sliced FAMILY PACK",48 oz.,$14.99,False,0.011015579071134625,wt
+1072,smoked bacon,Cherrywood Smoked Uncured Bacon,12 oz.,$7.99*,True,0.023486184597295706,wt
+1073,smoked bacon,"Uncured Bacon, Applewood Smoked",12 oz.,$7.29,False,0.021428571428571425,wt
+1074,sweet corn,Sweet Corn,1 ea.,5/$2.00,False,2.0,whole
+1075,sweet corn,Microwaveable Super Sweet Corn,12 oz.,$1.99,False,0.005849500293944738,wt
+1076,sweet corn,"Whole Kernal Crisp'N Sweet Corn, FAMILY PACK",91.5 oz.,$2.79,False,0.001075548616532223,wt
+1077,sweet corn,"Whole Kernel Crisp'N Sweet Corn, No Salt Added, FAMILY PACK",91.5 oz.,$2.79,False,0.001075548616532223,wt
+1078,pecorino romano,Pecorino Romano Cheese -Grated,1 Each Approx. 0.33 lb.,$15.99/lb,False,0.03525132275132275,wt
+1079,pecorino romano,Pecorino Romano Cheese -Shredded,1 Each Approx. 0.33 lb.,$15.99/lb,False,0.03525132275132275,wt
+1080,pecorino romano,Pecorino Romano Cheese,1 Each Approx. 0.5 lb.,$13.99/lb,False,0.030842151675485006,wt
+1081,pecorino romano,Pecorino Romano Cheese- Shredded,1 Package Approx. 0.5 lb.,$17.99/lb,False,0.03966049382716049,wt
+1082,bread flour,Marathon Bread made with Organic Flour,18 oz.,$5.00,False,0.009798157946306094,wt
+1083,bread flour,"Marathon Bread made with Organic Flour, Half Loaf",8 oz.,$3.00,False,0.013227513227513227,wt
+1084,bread flour,Marco Polo Bread made with Organic Flour,22 oz.,$5.00,False,0.00801667468334135,wt
+1085,bread flour,Enriched Unbleached Bread Flour,5 lb.,$2.99,False,0.001318342151675485,wt
+1086,pecans,Pecan Crusted Tilapia,5 oz.,$6.50,False,0.04585537918871252,wt
+1087,pecans,Caramelized Pecans,1 Each Approx. 0.5 lb.,$19.99/lb,False,0.04406966490299823,wt
+1088,pecans,Raw Halves Pecans,12 oz.,$13.99,False,0.041122868900646675,wt
+1089,pecans,Shelled Pecans,10 oz.,$7.99,False,0.02818342151675485,wt
+1090,iceberg lettuce,Shredded Iceberg Lettuce,10 oz.,2/$3.00,False,0.010582010582010581,wt
+1091,iceberg lettuce,Iceberg Lettuce,1 ea.,$0.99,False,0.99,whole
+1092,iceberg lettuce,"Iceberg Lettuce, Organic",1 ea.,$2.99,False,2.99,whole
+1093,chorizo,Fully Cooked Chorizo with Pork Sausage,12 oz.,$4.99,False,0.014667842445620222,wt
+1094,chorizo,Chorizo Pork Sausage,1 Package Approx. 1.25 lb.,$5.29/lb,False,0.011662257495590828,wt
+1095,chorizo,Smoked Chorizo Sausage,16 oz.,$6.99,False,0.01541005291005291,wt
+1096,chorizo,Iberico Chorizo,1 lb.,$15.99,False,0.03525132275132275,wt
+1097,anchovy,Anchovies,7 oz.,$7.99,False,0.04026203073822121,wt
+1098,anchovy,"Anchovies, Flat Fillets",2 oz.,$1.99,False,0.03509700176366843,wt
+1099,anchovy,"Anchovies, Flat Fillets in Olive Oil",2 oz.,$2.29,False,0.04038800705467372,wt
+1100,anchovy,"Anchovy Paste, with Olive Oil",2 oz.,$2.49,False,0.043915343915343914,wt
+1101,coarse sea salt,Coarse Crystals Sea Salt,14.5 oz.,$1.99,False,0.00484096576050599,wt
+1102,cornish hens,Frozen Cornish Hens,1 Package Approx. 3.9 lb.,$2.49/lb,False,0.005489417989417989,wt
+1103,cornish hens,Whole Cornish Hen,1 Package Approx. 1.75 lb.,$2.99/lb,False,0.006591710758377425,wt
+1104,fusilli,Italian Classics Whole Wheat Fusilli,16 oz.,$1.99,False,0.004387125220458554,wt
+1105,fusilli,Gluten-Free Green Pea Fusilli Pasta,8.8 oz.,$2.99,False,0.011984928651595316,wt
+1106,fusilli,Gluten Free Brown Rice and Quinoa Fusilli Pasta,16 oz.,$2.29,False,0.005048500881834215,wt
+1107,fusilli,Gluten Free Brown Rice Fusilli Pasta,16 oz.,$1.99,False,0.004387125220458554,wt
+1108,yeast,"Yeast, Original",0.75 oz.,$1.59,False,0.0747795414462081,wt
+1109,yeast,"Yeast, Instant, Fast-Acting",0.75 oz.,$1.59,False,0.0747795414462081,wt
+1110,yeast,"Yeast, Active Dry, Original",4 oz.,$4.69,False,0.04135802469135803,wt
+1111,yeast,"Yeast, Pizza Crust",0.75 oz.,$1.59,False,0.0747795414462081,wt
+1112,sherry vinegar,"Vinegar, Sherry",12.7 fl. oz.,$9.99,False,0.026601764397306275,vol
+1113,lobsters,Lobster Mac and Cheese,15 oz.,$10.50,False,0.024691358024691357,wt
+1114,lobsters,Lobster Stuffed Portabella Mushroom,1 lb.,$13.99,False,0.030842151675485006,wt
+1115,lobsters,Ready-To-Cook Lobster Tails,4 oz.,$12.00,False,0.10582010582010581,wt
+1116,lobsters,Lobster & Shrimp Steam Pot,32 oz.,$32.00,False,0.03527336860670194,wt
+1117,ham hocks,Pork Hocks,1 Package Approx. 2 lb.,$1.79/lb,False,0.0039462081128747795,wt
+1118,bass,"Beer, Pale Ale",144 fl. oz.,$13.99,False,0.0032855183556908278,vol
+1119,bass,Pale Ale,72 fl. oz.,$8.99,False,0.0042225604028106566,vol
+1120,chorizo sausage,Fully Cooked Chorizo with Pork Sausage,12 oz.,$4.99,False,0.014667842445620222,wt
+1121,chorizo sausage,Chorizo Pork Sausage,1 Package Approx. 1.25 lb.,$5.29/lb,False,0.011662257495590828,wt
+1122,chorizo sausage,Smoked Chorizo Sausage,16 oz.,$6.99,False,0.01541005291005291,wt
+1123,chorizo sausage,"Sausages, Chorizo, Meatless",12 oz.,$4.99,False,0.014667842445620222,wt
+1124,potato starch,"Potato Starch, Unmodified",22 oz.,$3.99,False,0.006397306397306397,wt
+1125,potato starch,Potato Starch Flour,12 oz.,$2.99,False,0.008788947677836566,wt
+1126,gruyère cheese,Aged 5 Months Le Gruyere Cheese -Medium,1 Each Approx. 0.5 lb.,$16.99/lb,False,0.03745590828924162,wt
+1127,gruyère cheese,Aged 4-6 Months Gruyere Cheese- Mild,1 Each Approx. 0.5 lb.,$10.99/lb,False,0.024228395061728393,wt
+1128,gruyère cheese,Mild Gruyere- Shredded,1 Each Approx. 0.5 lb.,$12.99/lb,False,0.028637566137566135,wt
+1129,gruyère cheese,Cave-Aged 12 Months Le Gruyere -Intense,1 Each Approx. 0.5 lb.,$19.99/lb,False,0.04406966490299823,wt
+1130,green cabbage,Green Cabbage,1 Head Approx. 1.5 lb.,$0.99/lb,False,0.0021825396825396826,wt
+1131,green cabbage,Green Cabbage,1 Head Approx. 3 lb.,$0.79/lb,False,0.0017416225749559084,wt
+1132,red chili pepper,Red Fresno Pepper,1 Each Approx. 0.2 lb.,$4.49/lb,False,0.009898589065255732,wt
+1133,red chili pepper,"Green Chiles, Mild, Chopped",4.5 oz.,$1.49,False,0.011679404271996863,wt
+1134,red chili pepper,"Green Chiles, Diced, Fire Roasted, Mild",4 oz.,$1.49,False,0.013139329805996473,wt
+1135,red chili pepper,"Red Chillies, Whole",7 oz.,$3.79,False,0.019098009574200048,wt
+1136,sugar snap peas,"Cleaned and Cut Sugar Snap Peas, FAMILY PACK",24 oz.,$4.49,False,0.006599059376837154,wt
+1137,sugar snap peas,Microwaveable Cleaned and Cut Sugar Snap Peas,10 oz.,$4.99,False,0.01760141093474427,wt
+1138,sugar snap peas,Microwaveable Cleaned and Cut Triple Washed Sugar Snap Peas,8 oz.,2/$5.00,False,0.02204585537918871,wt
+1139,sugar snap peas,Sugar Snap Peas,1 Bag Approx. 0.5 lb.,$4.99/lb,False,0.011000881834215168,wt
+1140,baguette,Organic Multigrain Baguette,15 oz.,$3.75,False,0.008818342151675485,wt
+1141,baguette,Vive Baguette,10 oz.,$2.75,False,0.009700176366843033,wt
+1142,baguette,Ciabatta Baguette,8 oz.,$3.50,False,0.015432098765432098,wt
+1143,baguette,"Baguette, Artisan Style",12.3 oz.,$6.99,False,0.020045597281369638,wt
+1144,poultry seasoning,Montreal Chicken Seasoning,2.75 oz.,$1.99,False,0.025525092191758858,wt
+1145,poultry seasoning,Rotisserie Chicken Seasoning,3.12 oz.,$2.99,False,0.03380364491475602,wt
+1146,poultry seasoning,Poultry Seasoning,0.65 oz.,$4.99,False,0.27079093745760413,wt
+1147,poultry seasoning,25% Less Sodium Montreal Chicken Seasoning,2.87 oz.,$1.99,False,0.024457840950291587,wt
+1148,lima beans,Canned Lima Beans,15 oz.,$0.79,False,0.0018577307466196356,wt
+1149,lima beans,Baby Lima Beans,16 oz.,$1.99,False,0.004387125220458554,wt
+1150,lima beans,"Lima Beans, Large",16 oz.,$2.99,False,0.006591710758377425,wt
+1151,lima beans,"Lima Beans, Baby",16 oz.,$1.99,False,0.004387125220458554,wt
+1152,lima beans,Green Lima Beans,15 oz.,$1.69,False,0.003974132863021752,wt
+1153,lima beans,"Soup Mix, Lima Bean with Barley",6 oz.,$1.99,False,0.011699000587889476,wt
+1154,pumpkin seeds,Raw Pumpkin Seeds,1 lb.,$7.99,False,0.01761463844797178,wt
+1155,pumpkin seeds,Organic Pumpkin Seeds with Tamari Seasoning,1 lb.,$9.49,False,0.020921516754850086,wt
+1156,pumpkin seeds,"Pumpkin Seeds, Raw",1 lb.,$3.49,False,0.00769400352733686,wt
+1157,pumpkin seeds,Pumpkin Seeds,13.5 oz.,$6.99,False,0.01826376641191456,wt
+1158,plums,Black Plums,1 lb.,$2.49,False,0.005489417989417989,wt
+1159,plums,Black Plums,1 Each Approx. 0.5 lb.,$2.99/lb,False,0.006591710758377425,wt
+1160,plums,Organic Plum Tomatoes (Roma),1 Each Approx. 0.25 lb.,$3.99/lb,False,0.008796296296296297,wt
+1161,plums,Plum (Roma) Tomatoes,1 Each Approx. 0.22 lb.,$1.99/lb,False,0.004387125220458554,wt
+1162,apple juice,Apple Juice,64 fl. oz.,$2.99,False,0.0015799374365911398,vol
+1163,apple juice,"100% Juice, Apple with Calcium",128 fl. oz.,$2.49,False,0.0006578669259384511,vol
+1164,apple juice,"100% Juice, Apple",128 fl. oz.,$4.79,False,0.001265535170781197,vol
+1165,apple juice,"100% Juice, Apple, Frozen Concentrated",48 fl. oz.,$1.69,False,0.0011906774884454965,vol
+1166,clams,Stuffed Clams,10 oz.,$8.00,False,0.02821869488536155,wt
+1167,clams,Live Farm-Raised Littleneck Clams,1 ea.,$89.00,False,89.0,whole
+1168,clams,Live Farm-Raised Littleneck Clams - 50 Ct.,1 ea.,$22.00,False,22.0,whole
+1169,clams,Cherrystone Clams,1 ea.,$0.60,False,0.6,whole
+1170,halibut,Wild Caught Alaskan Halibut,12 oz.,$19.99,False,0.05875955320399764,wt
+1171,celery salt,Celery Salt,4 oz.,$4.99,False,0.04400352733686067,wt
+1172,celery salt,All Natural Celery Salt,2.5 oz.,$5.99,False,0.08451499118165785,wt
+1173,beef short ribs,Boneless Beef Short Ribs,1 Package Approx. 1.25 lb.,$9.99/lb,False,0.022023809523809522,wt
+1174,beef short ribs,Beef Short Ribs,1 Package Approx. 1 lb.,$9.49/lb,False,0.020921516754850086,wt
+1175,beef short ribs,Angus Beef Boneless Short Ribs,1 Package Approx. 1 lb.,$10.99/lb,False,0.024228395061728393,wt
+1176,sea salt and pepper,Sea Salt & Pepper Large Cut Croutons,5 oz.,$1.99,False,0.014038800705467373,wt
+1177,sea salt and pepper,Sea Salt & Cracked Pepper Flavored Kettle Cooked Potato Chips,8.5 oz.,$2.19,False,0.00908807967631497,wt
+1178,sea salt and pepper,Fresh Petite Potatoes with Sea Salt & Black Pepper,1 lb.,$2.49,False,0.005489417989417989,wt
+1179,sea salt and pepper,"Venison Bar, Sea Salt + Pepper",18 oz.,$19.99*,True,0.03917303546933176,wt
+1180,orecchiette,Orecchiette,17.6 oz.,$3.99,False,0.007996632996632995,wt
+1181,orecchiette,"Orecchiette, No. 91",1 lb.,$2.29,False,0.005048500881834215,wt
+1182,orecchiette,"Orecchiette, Collezione",12 oz.,$2.49,False,0.007319223985890652,wt
+1183,trout,Whole Seasoned Rainbow Trout,1 lb.,$10.99,False,0.024228395061728393,wt
+1184,trout,Fresh Farmed Rainbow Trout Fillet,1 Fillet Approx. 1 lb.,$11.99/lb,False,0.026432980599647264,wt
+1185,trout,"Cat Food, Premium, Trout Entree, Pate",3 oz.,$0.40*,True,0.004703115814226925,wt
+1186,trout,"Trout, Smoked, Fillet",8 oz.,$9.99,False,0.044047619047619044,wt
+1187,juice,Lemon Ginger Cayenne Juice Blend,14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+1188,juice,Greens with Pear Juice,14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+1189,juice,"Carrots, Beets & Greens Juice",14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+1190,juice,"Orange, Carrot, Turmeric Juice",14.5 fl. oz.,$6.00,False,0.01399367952141616,vol
+1191,walnuts,"Raw, Halves & Pieces Walnuts",12 oz.,$12.99,False,0.03818342151675484,wt
+1192,walnuts,"Shelled Walnuts Halves & Pieces, FAMILY PACK",48 oz.,$10.99,False,0.008076131687242798,wt
+1193,walnuts,Caramelized Walnuts,1 Each Approx. 0.5 lb.,$17.99/lb,False,0.03966049382716049,wt
+1194,walnuts,Chopped Walnuts,1 lb.,$7.49,False,0.016512345679012344,wt
+1195,orzo,Tomato Basil with Orzo Soup,16 oz.,$4.99,False,0.011000881834215168,wt
+1196,orzo,Tomato Basil with Orzo Soup,32 oz.,$9.49,False,0.010460758377425043,wt
+1197,orzo,Whole Wheat Orzo Pasta,16 oz.,$1.99,False,0.004387125220458554,wt
+1198,orzo,Orzo,16 oz.,$1.79,False,0.0039462081128747795,wt
+1199,yogurt,"Plain Nonfat Greek Yogurt, FAMILY PACK",32 oz.,$3.79,False,0.0041776895943562604,wt
+1200,yogurt,"Vanilla Nonfat Greek Yogurt, FAMILY PACK",32 oz.,$3.79,False,0.0041776895943562604,wt
+1201,yogurt,Vanilla Lowfat Yogurt,32 oz.,$1.99,False,0.002193562610229277,wt
+1202,yogurt,"Greek Yogurt, Plain",5.3 oz.,$1.00,False,0.006655352567302253,wt
+1203,swordfish,"Wild Caught Swordfish, FAMILY PACK",32 oz.,$19.98,False,0.022023809523809522,wt
+1204,swordfish,Fresh Swordfish Steak,1 Each Approx. 1 lb.,$19.99/lb,False,0.04406966490299823,wt
+1205,swordfish,Chef Cut Swordfish Steaks,1 Each Approx. 1 lb.,$24.99/lb,False,0.05509259259259259,wt
+0,thai fish sauce,Gluten Free Premium Fish Sauce,6.76 fl. oz.,$2.99,False,0.014957987565359902,vol
+1,bay,Old Bay Seasoned Shrimp Skewer,8 oz.,$10.00,False,0.04409171075837742,wt
+2,bay,"Peruvian Bay Scallops, FAMILY PACK",32 oz.,$21.98,False,0.024228395061728393,wt
+3,bay,Bay Leaves,0.25 oz.,$1.29,False,0.182010582010582,wt
+4,bay,Bay Leaf,0.14 oz.,$5.99,False,1.5091962711010327,wt
+5,lamb shoulder,Lamb Shoulder Chop,1 Package Approx. 2 lb.,$9.49/lb,False,0.020921516754850086,wt
+6,whipped cream,Whipped Cream Cheese Spread,12 oz.,$2.79,False,0.0082010582010582,wt
+7,whipped cream,Plain Whipped Cream Cheese,6.5 oz.,$3.49,False,0.018939085605752273,wt
+8,whipped cream,Light Whipped Cream,14 oz.,$3.49,False,0.008793146888384984,wt
+9,whipped cream,Heavy Whipped Cream,14 oz.,$3.49,False,0.008793146888384984,wt
+10,pistachios,"Roasted Pistachios, Salted",1 lb.,$11.99,False,0.026432980599647264,wt
+11,pistachios,"Roasted Pistachios, Unsalted",1 lb.,$11.99,False,0.026432980599647264,wt
+12,pistachios,Roasted and Salted Pistachios,1 lb.,$9.99,False,0.022023809523809522,wt
+13,pistachios,Roasted and Unsalted Pistachios,1 lb.,$9.99,False,0.022023809523809522,wt
+14,corn oil,Canola Oil,128 fl. oz.,$5.49,False,0.0014504776800811634,vol
+15,corn oil,Canola Oil,48 fl. oz.,$2.19,False,0.0015429489347311461,vol
+16,corn oil,Canola Oil,32 fl. oz.,$1.99,False,0.0021030605343253296,vol
+17,corn oil,Corn Oil,48 fl. oz.,$3.79,False,0.0026702175628452256,vol
+18,lemon grass,Lemon Grass,0.25 oz.,$1.29,False,0.182010582010582,wt
+19,orange peel,Orange Peel Adjustable Grinder,0.77 oz.,$5.99,False,0.2743993220183696,wt
+20,orange peel,Orange Peel Grinder Refill,0.77 oz.,$3.99,False,0.18278018278018276,wt
+21,orange peel,"Dark Chocolate, Orange Peel",3.2 oz.,$2.99,False,0.03295855379188712,wt
+22,orange peel,"Body Wash, Moisturizing, Sweet Honeysuckle & Orange Peel",18 fl. oz.,$2.99,False,0.00561755533010183,vol
+23,pumpkin,"100% Pumpkin, Solid Pack",15 oz.,$1.99,False,0.004679600235155791,wt
+24,pumpkin,Raw Pumpkin Seeds,1 lb.,$7.99,False,0.01761463844797178,wt
+25,pumpkin,Organic Pumpkin Seeds with Tamari Seasoning,1 lb.,$9.49,False,0.020921516754850086,wt
+26,pumpkin,"100% Pumpkin, Solid Pack",15 oz.,$1.29,False,0.0030335097001763667,wt
+27,littleneck clams,Live Farm-Raised Littleneck Clams,1 ea.,$89.00,False,89.0,whole
+28,littleneck clams,Live Farm-Raised Littleneck Clams - 50 Ct.,1 ea.,$22.00,False,22.0,whole
+29,littleneck clams,Fresh Farm-Raised Genuine Littleneck Clam,1 ea.,$0.48,False,0.48,whole
+30,lemongrass,Lemongrass,1 ea.,$3.49,False,3.49,whole
+31,lemongrass,Coconut Lemongrass Triple Milled Soap,5 oz.,$2.49*,True,0.017566137566137566,wt
+32,lemongrass,Coconut Lemongrass Ultra Rich & Fast Absorbing Hand Cream,3 fl. oz.,$4.99,False,0.05625070454289257,vol
+33,lemongrass,Coconut Lemongrass Soothing & Moisturizing Body Lotion,8 fl. oz.,$7.99,False,0.03377578626986811,vol
+34,vegetable stock,Vegetable Culinary Stock,32 fl. oz.,$2.39,False,0.0025257862698681095,vol
+35,country bread,Food You Feel Good About Country Potato Bread,20 oz.,$2.99,False,0.00527336860670194,wt
+36,country bread,Country White Bread,19 oz.,$2.99,False,0.005550914322844148,wt
+37,country bread,Country 100% Whole Wheat Bread,24 oz.,$2.99,False,0.004394473838918283,wt
+38,country bread,Dutch Country 100% Whole Wheat Bread,24 oz.,$2.99,False,0.004394473838918283,wt
+39,red chili,Spicy Red Lentil Chili,16 oz.,$5.99,False,0.013205467372134039,wt
+40,red chili,Red Chile Beef Quesadilla,12 oz.,$7.00,False,0.020576131687242795,wt
+41,red chili,Red Fresno Pepper,1 Each Approx. 0.2 lb.,$4.49/lb,False,0.009898589065255732,wt
+42,red chili,Red Chile Sauce,16 oz.,$3.99,False,0.008796296296296297,wt
+43,crabs,Portabella Mushroom with Crab Stuffing,1 Package Approx. 0.3 lb.,$13.99/lb,False,0.030842151675485006,wt
+44,crabs,Soft Shell Crab Tempura,5 oz.,$11.00,False,0.07760141093474426,wt
+45,crabs,Fully Cooked Butterfly Split King Crab Legs & Claws,32 oz.,$52.99,False,0.058410493827160494,wt
+46,crabs,Signature Crab Cakes,8 oz.,$18.00,False,0.07936507936507936,wt
+47,collard greens,"Super Greens (Kale, Spinach, & Chard)",5 oz.,$2.49,False,0.017566137566137566,wt
+48,collard greens,"Super Greens (Kale, Spinach, & Chard), FAMILY PACK",11 oz.,$3.99,False,0.012794612794612794,wt
+49,collard greens,Collard Greens,1 ea.,$2.99,False,2.99,whole
+50,collard greens,Cleaned and Cut Collard Greens,16 oz.,$2.99,False,0.006591710758377425,wt
+51,oysters,"King Oyster Mushrooms, Sliced",7 oz.,$4.99,False,0.02514487276392038,wt
+52,oysters,Oyster,1 ea.,$1.00,False,1.0,whole
+53,oysters,Barrier Island Oysters in the shell,1 ea.,$1.00,False,1.0,whole
+54,oysters,Standard Chesapeake Oysters,8 oz.,$9.99,False,0.044047619047619044,wt
+55,oats,Steel Cut Oats,24 oz.,$3.79,False,0.005570252792475014,wt
+56,oats,Organic Oats Rolled,1 lb.,$2.49,False,0.005489417989417989,wt
+57,oats,"Oats, Old Fashioned",18 oz.,$1.99,False,0.0038996668626298256,wt
+58,oats,Just Oats Instant Oatmeal,11.29 oz.,$2.99,False,0.009341662722235501,wt
+59,currants,"Zante Currants, California Sun-Dried",8 oz.,$3.99,False,0.017592592592592594,wt
+60,apricots,Large Sweet Fresh Apricots,1 Each Approx. 0.35 lb.,$3.99/lb,False,0.008796296296296297,wt
+61,apricots,"Lowfat Yogurt, Apricot Mango",6 oz.,$0.50,False,0.002939447383891828,wt
+62,apricots,Dried Apricots,6 oz.,$3.99,False,0.023456790123456788,wt
+63,apricots,Unpeeled Apricot Halves in 100% Juice,15 oz.,$1.69,False,0.003974132863021752,wt
+64,salted butter,Salted Butter Sweet Cream,1 lb.,$3.49*,True,0.00769400352733686,wt
+65,salted butter,Salted Butter Sweet Cream,1 lb.,$2.99,False,0.006591710758377425,wt
+66,salted butter,Whipped Sweet Cream Salted Butter,8 oz.,$2.39,False,0.010537918871252204,wt
+67,salted butter,"Salted Butter, Sweet Cream, Quarter",1 ea.,$1.10,False,1.1,whole
+68,tuna,"Solid White Albacore Tuna in Water, 8 Pack, FAMILY PACK",48 oz.,$11.99,False,0.008810993533215754,wt
+69,tuna,"Chunk Light Yellowfin Tuna in Water, FAMILY PACK",48 oz.,$9.99,False,0.00734126984126984,wt
+70,tuna,"Pole & Line Caught Albacore Tuna, FAMILY PACK",20 oz.,$10.99,False,0.019382716049382718,wt
+71,tuna,Fresh Yellow Fin Tuna Steak,1 Each Approx. 1 lb.,$24.99/lb,False,0.05509259259259259,wt
+72,boston lettuce,Hydro Boston Lettuce,1 ea.,2/$5.00,False,5.0,whole
+73,boston lettuce,Boston Lettuce,1 ea.,$1.99,False,1.99,whole
+74,cherries,Sweet Cherries,1 Bag Approx. 2 lb.,$3.99/lb,False,0.008796296296296297,wt
+75,cherries,Golden Cherries,1 lb.,$6.99,False,0.01541005291005291,wt
+76,cherries,"Dark Sweet Cherries, FAMILY PACK",48 oz.,$10.49,False,0.007708700764256319,wt
+77,cherries,Maraschino Cherries without Stems,16 oz.,$2.79,False,0.006150793650793651,wt
+78,herbes de provence,Herbes de Provence,1 oz.,$5.99,False,0.21128747795414463,wt
+79,herbes de provence,"Quinoa Puffs, Herbes de Provence",3 oz.,$2.99,False,0.035155790711346266,wt
+80,herbes de provence,Organic Herbes De Provence,0.65 oz.,$5.99,False,0.3250576583909917,wt
+81,anchovy paste,"Anchovy Paste, with Olive Oil",2 oz.,$2.49,False,0.043915343915343914,wt
+82,anchovy paste,Anchovy Paste,2.12 oz.,$2.69,False,0.044757246015107645,wt
+83,navy beans,"Navy Beans, No Salt Added",15 oz.,$2.79,False,0.0065608465608465606,wt
+84,navy beans,"Navy Beans, Premium",15.5 oz.,$0.99,False,0.0022529441884280594,wt
+85,navy beans,Navy Beans,16 oz.,$1.79,False,0.0039462081128747795,wt
+86,vegetable shortening,"Shortening, All Vegetable, Organic",24 oz.,$6.49,False,0.009538506760728982,wt
+87,grapefruit,Grapefruit,4 lb.,$6.99,False,0.0038525132275132276,wt
+88,grapefruit,Red Grapefruit,1 ea.,$1.29,False,1.29,whole
+89,grapefruit,"Grapefruit Sparkling Water, 12 Pack",144 fl. oz.,$2.50*,True,0.0005871190771427497,vol
+90,grapefruit,"Grapefruit, Star Ruby",5 lb.,$5.99,False,0.002641093474426808,wt
+91,asparagus spears,Microwaveable Asparagus Spears,8 oz.,$2.99,False,0.01318342151675485,wt
+92,asparagus spears,Cut Asparagus Spears & Tips,14.5 oz.,$1.69,False,0.0041111719272638805,wt
+93,asparagus spears,"Asparagus Spears, Extra Long",15 oz.,$3.49,False,0.008206937095825985,wt
+94,asparagus spears,Asparagus Spears,8 oz.,$3.79,False,0.016710758377425042,wt
+95,wild mushrooms,Chanterelle Dried Wild Mushrooms,0.5 oz.,$5.49,False,0.3873015873015873,wt
+96,wild mushrooms,"Mushrooms, Dried Wild, Morel",0.5 oz.,$8.99,False,0.6342151675485008,wt
+97,baking potatoes,Premium Russet Baking Potatoes,5 lb.,$1.50*,True,0.0006613756613756613,wt
+98,soba noodles,Soba Buckwheat Noodles,9.5 oz.,$2.99,False,0.011101828645688296,wt
+99,soba noodles,"Noodles, Organic, 100% Buckwheat",8.8 oz.,$2.99,False,0.011984928651595316,wt
+100,soba noodles,"Noodles, Organic, Black Rice",8.8 oz.,$2.99,False,0.011984928651595316,wt
+101,soba noodles,"Curly Noodles, Chuka Soba",5 oz.,$3.49,False,0.024620811287477954,wt
+102,live lobsters,Live Lobster,1 Each Approx. 3.75 lb.,$12.99/lb,False,0.028637566137566135,wt
+103,live lobsters,Live Lobster,1 Each Approx. 1.5 lb.,$10.99/lb,False,0.024228395061728393,wt
+104,red chilies,Spicy Red Lentil Chili,16 oz.,$5.99,False,0.013205467372134039,wt
+105,red chilies,Red Fresno Pepper,1 Each Approx. 0.2 lb.,$4.49/lb,False,0.009898589065255732,wt
+106,red chilies,Red Chile Beef Quesadilla,12 oz.,$7.00,False,0.020576131687242795,wt
+107,red chilies,Red Chile Sauce,16 oz.,$3.99,False,0.008796296296296297,wt
+108,chestnuts,"Water Chestnut, Sliced",8 oz.,$1.29,False,0.005687830687830688,wt
+109,chestnuts,"Water Chestnuts, Sliced",8 oz.,$1.29,False,0.005687830687830688,wt
+110,chestnuts,"Water Chestnut, Diced",8 oz.,$1.29,False,0.005687830687830688,wt
+111,chestnuts,"Chestnuts, Organic, Roasted",3.5 oz.,$1.99,False,0.0200554295792391,wt
+112,orange marmalade,Sicilian Blood Orange Marmalade,7.85 oz.,$12.99,False,0.058369561554274925,wt
+113,orange marmalade,"Marmalade, Sweet Orange",18 oz.,$2.79,False,0.005467372134038801,wt
+114,orange marmalade,"Marmalade, Orange Cranberry",13 oz.,$6.99,False,0.018966218966218966,wt
+115,orange marmalade,"Marmalade, Medium Cut, Orange",12 oz.,$6.49,False,0.019077013521457964,wt
+116,duck,"Duck, Roast Half",14 oz.,$11.99,False,0.03020912068531116,wt
+117,duck,"Cat Food, Premium, Duck Entree, Pate",3 oz.,$0.40*,True,0.004703115814226925,wt
+118,duck,"Duck Breast, Boneless",7.5 oz.,$7.69,False,0.036166960611405057,wt
+119,duck,"Duck Fat, Rendered",7 oz.,$5.99,False,0.03018392542202066,wt
+120,italian plum tomatoes,"Tomatoes, Peeled Plum, Italian Style",28 oz.,$1.59,False,0.00200302343159486,wt
+121,italian plum tomatoes,"Tomatoes, Peeled Plum, No Salt Added, Italian Style",28 oz.,$1.59,False,0.00200302343159486,wt
+122,italian plum tomatoes,"Marinara, Delicate, Italian Plum Tomato",16.25 oz.,$4.29,False,0.009312169312169312,wt
+123,agave nectar,"Agave Nectar, Organic",18.5 oz.,$5.29,False,0.01008627675294342,wt
+124,agave nectar,Agave Nectar,12.7 fl. oz.,$4.99,False,0.01328756800225809,vol
+125,hazelnuts,"Coffee, Flavored Specialty, Ground, Light Roast, Hazelnut",10 oz.,$7.99,False,0.02818342151675485,wt
+126,hazelnuts,"Coffee, Flavored Specialty, Ground, Light Roast, Hazelnut, Decaffeinated",10 oz.,$7.99,False,0.02818342151675485,wt
+127,hazelnuts,"Coffee, Flavored Specialty, Ground, Light Roast, Cinnamon Hazelnut",10 oz.,$7.99,False,0.02818342151675485,wt
+128,hazelnuts,"Hazelnut Light Roast Single Serve Coffee Capsules, FAMILY PACK",72 ct.,$22.49,False,0.3123611111111111,whole
+129,brussels sprouts,"Brussels Sprouts, FAMILY PACK",2 lb.,$3.99,False,0.004398148148148148,wt
+130,brussels sprouts,Brussels Sprouts,10 oz.,$3.49,False,0.012310405643738977,wt
+131,brussels sprouts,Brussels Sprouts,1 Bag Approx. 1 lb.,$2.99/lb,False,0.006591710758377425,wt
+132,brussels sprouts,Cleaned and Cut Shaved Brussels Sprouts,14 oz.,$3.99,False,0.010052910052910053,wt
+133,italian parsley,Organic Italian Parsley,1 ea.,$1.49,False,1.49,whole
+134,italian parsley,Italian Parsley,1 ea.,$1.49,False,1.49,whole
+135,italian parsley,Italian Parsley,0.25 oz.,$1.29,False,0.182010582010582,wt
+136,italian parsley,"Parsley, Italian",1 ea.,$2.99,False,2.99,whole
+137,apricot preserves,"Preserves, Apricot",18 oz.,$2.79,False,0.005467372134038801,wt
+138,apricot preserves,"Preserves, Apricot",13 oz.,$3.99,False,0.010826210826210826,wt
+139,apricot preserves,"Jam, Apricot",12.5 oz.,$6.99,False,0.019724867724867725,wt
+140,apricot preserves,"Spreadable Fruit, Peach Apricot",9 oz.,$4.69,False,0.018381344307270234,wt
+141,seasoned rice vinegar,Seasoned Rice Vinegar,12.7 fl. oz.,$2.39,False,0.006364185876833033,vol
+142,seasoned rice vinegar,"Vinegar, Rice, Seasoned, Original",12 fl. oz.,$2.49,False,0.0070172472100101455,vol
+143,seasoned rice vinegar,"Rice Vinegar, Seasoned Gourmet",24 fl. oz.,$3.99,False,0.005622252282718972,vol
+144,seasoned rice vinegar,"Vinegar, Rice, Seasoned Gourmet",12 fl. oz.,$2.99,False,0.008426332995152745,vol
+145,leaves,"Cleaned and Cut Romaine Heart Leaves, FAMILY PACK",2 lb.,$4.99,False,0.005500440917107584,wt
+146,leaves,Triple Washed Romaine Heart Leaves,7 oz.,$3.99,False,0.020105820105820106,wt
+147,leaves,Green Lettuce Leaves,7 oz.,$3.99,False,0.020105820105820106,wt
+148,leaves,Bay Leaves,0.25 oz.,$1.29,False,0.182010582010582,wt
+149,port,"Cheese, Port Wine Spreadable Cheddar",8 oz.,$3.49,False,0.01538800705467372,wt
+150,port,Port Salut Cheese,1 Each Approx. 0.5 lb.,$14.99/lb,False,0.03304673721340388,wt
+151,port,Duck Liver & Pork Mousse with Port Wine,5.5 oz.,$6.99,False,0.04482924482924483,wt
+152,port,Port Wine Cheese,1 Each Approx. 0.5 lb.,$7.99/lb,False,0.01761463844797178,wt
+153,creme fraiche,"Creme Fraiche, French-Style",8 oz.,$5.99,False,0.026410934744268078,wt
+154,apricot jam,"Preserves, Apricot",18 oz.,$2.79,False,0.005467372134038801,wt
+155,apricot jam,"Preserves, Apricot",13 oz.,$3.99,False,0.010826210826210826,wt
+156,apricot jam,"Jam, Apricot",12.5 oz.,$6.99,False,0.019724867724867725,wt
+157,apricot jam,"Spreadable Fruit, Peach Apricot",9 oz.,$4.69,False,0.018381344307270234,wt
+158,orange zest,"Cold, Effervescent Tablets, Orange Zest",20 ct.,$4.79,False,0.2395,whole
+159,juniper berries,Juniper Berries,1.5 oz.,2/$6.00,False,0.14109347442680775,wt
+160,juniper berries,Juniper Berries,0.92 oz.,$3.49,False,0.1338087569971628,wt
+161,navel oranges,"California Navel Oranges, FAMILY PACK",8 lb.,$7.99,False,0.0022018298059964725,wt
+162,navel oranges,"California Navel Oranges, FAMILY PACK",4 lb.,$5.99,False,0.0033013668430335098,wt
+163,navel oranges,Navel Oranges,1 ea.,$0.99,False,0.99,whole
+164,navel oranges,Sweet Navel Oranges,3 lb.,$5.99,False,0.004401822457378013,wt
+165,saffron,"Chickpeas, Crunchy, Sea Salt",6 oz.,$3.69*,True,0.02169312169312169,wt
+166,saffron,"Yellow Rice, Saffron",5 oz.,$0.99,False,0.006984126984126984,wt
+167,saffron,"Yellow Rice, Saffron, Family Size",16 oz.,$2.29,False,0.005048500881834215,wt
+168,saffron,"Yellow Rice, Low Sodium, Saffron",8 oz.,$1.49,False,0.006569664902998236,wt
+169,blackberries,"Blackberries, FAMILY PACK",12 oz.,$6.99,False,0.020546737213403877,wt
+170,blackberries,"Blackberries, FAMILY PACK",12 oz.,$6.99,False,0.020546737213403877,wt
+171,blackberries,Blackberries,6 oz.,$3.99,False,0.023456790123456788,wt
+172,blackberries,Blackberries,6 oz.,$3.99,False,0.023456790123456788,wt
+173,orange rind,"Tea, Flavored with Rind of Oranges and Sweet Spice",20 ct.,$2.99,False,0.14950000000000002,whole
+174,figs,Pajarero Figs,1 Each Approx. 0.5 lb.,$8.99/lb,False,0.01981922398589065,wt
+175,figs,Dried Black Mission Figs,6 oz.,$3.99,False,0.023456790123456788,wt
+176,figs,Golden Figs,9 oz.,$6.49,False,0.025436018028610622,wt
+177,figs,Sierra Figs,16 oz.,$8.49,False,0.018716931216931215,wt
+178,wine vinegar,Red Wine Vinegar with The Mother,16.9 fl. oz.,$3.99,False,0.007984263596760672,vol
+179,wine vinegar,White Wine Vinegar with The Mother,16.9 fl. oz.,$3.99,False,0.007984263596760672,vol
+180,wine vinegar,Red Wine Vinegar,16 fl. oz.,$1.39,False,0.0029379438620223196,vol
+181,wine vinegar,Fat Free Red Wine Vinegar Dressing,16 fl. oz.,$0.99*,True,0.00209249239093676,vol
+182,duck fat,"Duck Fat, Rendered",7 oz.,$5.99,False,0.03018392542202066,wt
+183,cardamom seeds,"Cashew Butter, Gourmet, with Cardamom & Chia Seeds",12 oz.,$10.99,False,0.03230452674897119,wt
+184,jicama,Jicama,1 Each Approx. 0.75 lb.,$2.49/lb,False,0.005489417989417989,wt
+185,jicama,"Jamaican Jerk Chicken with Chipotle Corn Cake, Asparagus, Jicama, Corn & Red ...",1 oz.,$9.00,False,0.31746031746031744,wt
+186,jicama,"Asparagus, Jicama, Corn & Red Peppers Veggie Bowl",1 Each Approx. 1 lb.,$9.99/lb,False,0.022023809523809522,wt
+187,sherry,Sherry Cooking Wine,12.7 fl. oz.,$2.99,False,0.007961889444238816,vol
+188,sherry,"Vinegar, Sherry",12.7 fl. oz.,$9.99,False,0.026601764397306275,vol
+189,beets,Organic Beets,1 ea.,$2.99,False,2.99,whole
+190,beets,Beets,1 ea.,$2.99,False,2.99,whole
+191,beets,"Beets, Red",17.6 oz.,$1.69,False,0.0033870450537117195,wt
+192,baby artichokes,Baby Artichoke Hearts in Oil,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+193,mirin,Kotteri Mirin,10 fl. oz.,$1.99,False,0.006729793709841055,vol
+194,marsala,Chicken with Mushroom Marsala Sauce,12 oz.,$9.00,False,0.02645502645502645,wt
+195,marsala,Mushroom Marsala Simmer Sauce,16 oz.,$3.99,False,0.008796296296296297,wt
+196,marsala,"Chicken Marsala, Grilled, With Mushrooms",9.9 oz.,$2.79*,True,0.009940676607343274,wt
+197,marsala,Chicken Marsala Seasoning Mix,1.25 oz.,$1.99,False,0.05615520282186949,wt
+198,rice flour,"White Rice Flour, Gluten, Free, Organic",24 oz.,$3.99,False,0.005864197530864197,wt
+199,rice flour,"Brown Rice Flour, Gluten Free, Organic",24 oz.,$3.99,False,0.005864197530864197,wt
+200,rice flour,"Rice Flour, Sweet, Mochiko, Blue Star Brand",16 oz.,$1.99,False,0.004387125220458554,wt
+201,rice flour,"Brown Rice Flour, Whole Grain, Stone Ground",24 oz.,$3.49,False,0.00512933568489124,wt
+202,feta cheese,"Crumbled Feta Cheese -Plain, Family Pack",16 oz.,$6.49,False,0.014307760141093475,wt
+203,feta cheese,Crumbled Feta Cheese- Plain,6 oz.,$5.49,False,0.03227513227513227,wt
+204,feta cheese,Crumbled Feta Cheese- Plain,6 oz.,$3.49,False,0.02051734273956496,wt
+205,feta cheese,In Brine Feta Cheese- Plain,8 oz.,$3.49,False,0.01538800705467372,wt
+206,hot red pepper,Original Cayenne Pepper Hot Sauce,23 fl. oz.,$4.99,False,0.007337048418638162,vol
+207,hot red pepper,Original Cayenne Pepper Sauce,12 fl. oz.,$2.79,False,0.007862698681095704,vol
+208,hot red pepper,"Red Hot Pepper, Paste",7.5 oz.,$2.99,False,0.014062316284538507,wt
+209,tabasco,"Pepper Sauce, Original Flavor",2 fl. oz.,$1.79,False,0.030267162664863036,vol
+210,tabasco,"Pepper Sauce, Green, Milder-Jalapeno",2 fl. oz.,$1.79,False,0.030267162664863036,vol
+211,tabasco,"Pepper Sauce, Chipotle",5 fl. oz.,$3.79,False,0.025634088603314172,vol
+212,tabasco,"Sauce, Habanero, Hot!",2 fl. oz.,$2.49,False,0.04210348326006087,vol
+213,semolina flour,"Flour, Semolina",24 oz.,$3.49,False,0.00512933568489124,wt
+214,semolina flour,"Flour, Semolina, Durum Wheat",17.6 oz.,$2.99,False,0.005992464325797658,wt
+215,semolina flour,"Semolina, Durum Wheat",2.2 lb.,$3.49,False,0.0034972743306076635,wt
+216,crab meat,Chicken Breast with Crab Stuffing,8 oz.,$8.00,False,0.03527336860670194,wt
+217,crab meat,"Crab Meat, Premium, Crab Cake Combo",16 oz.,$29.99,False,0.06611552028218694,wt
+218,crab meat,"Crab Meat, Lump",16 oz.,$29.99,False,0.06611552028218694,wt
+219,crab meat,"Crab Meat, Lump",8 oz.,$15.99,False,0.0705026455026455,wt
+220,tarragon leaves,Tarragon Leaves,0.2 oz.,$3.99,False,0.7037037037037036,wt
+221,celery seeds,Organic Celery Seed,1.62 oz.,$5.99,False,0.13042436910749666,wt
+222,celery seeds,Whole Celery Seed,0.95 oz.,$4.99,False,0.18527800983941334,wt
+223,grapeseed oil,Grapeseed Oil,17 fl. oz.,$3.49,False,0.006942648550796714,vol
+224,grapeseed oil,"Skin Care Oil, Harmonizing Grapeseed",16 fl. oz.,$10.99,False,0.023228779168075753,vol
+225,grapeseed oil,"Shampoo, Technician Color Care, Grapeseed Oil",8 fl. oz.,$19.49,False,0.08238924585728778,vol
+226,grapeseed oil,"Conditioner, Technician Color Care, Grapeseed Oil",8 fl. oz.,$19.49,False,0.08238924585728778,vol
+227,radicchio,Radicchio Lettuce,1 Head Approx. 0.45 lb.,$5.49/lb,False,0.012103174603174604,wt
+228,flounder,"Wild Caught Flounder, FAMILY PACK",32 oz.,$10.98,False,0.012103174603174604,wt
+229,flounder,Fresh Flounder Fillet,1 Fillet Approx. 0.75 lb.,$15.99/lb,False,0.03525132275132275,wt
+230,bay scallops,"Peruvian Bay Scallops, FAMILY PACK",32 oz.,$21.98,False,0.024228395061728393,wt
+231,cod,Breaded Cod,1 Package Approx. 1 lb.,$10.49/lb,False,0.023126102292768957,wt
+232,cod,Mediterranean Style Cod,14 oz.,$12.00,False,0.03023431594860166,wt
+233,cod,"Wild Caught Cod, FAMILY PACK",32 oz.,$16.49,False,0.018176807760141092,wt
+234,cod,"Atlantic Cod Fillets, FAMILY PACK",1 Package Approx. 2.1 lb.,$7.99/lb,False,0.01761463844797178,wt
+235,pecorino,Pecorino Romano Cheese -Grated,1 Each Approx. 0.33 lb.,$15.99/lb,False,0.03525132275132275,wt
+236,pecorino,Pecorino Romano Cheese -Shredded,1 Each Approx. 0.33 lb.,$15.99/lb,False,0.03525132275132275,wt
+237,pecorino,Pecorino Romano Cheese,1 Each Approx. 0.5 lb.,$13.99/lb,False,0.030842151675485006,wt
+238,pecorino,Pecorino Romano Cheese- Shredded,1 Package Approx. 0.5 lb.,$17.99/lb,False,0.03966049382716049,wt
+239,fava beans,Fava Beans,1 Bag Approx. 0.5 lb.,$5.49/lb,False,0.012103174603174604,wt
+240,fava beans,Fava Beans,19 oz.,$1.99,False,0.0036944212382808875,wt
+241,fava beans,Fava Beans,28 oz.,$4.39,False,0.005530360292265053,wt
+242,instant yeast,"Yeast, Instant, Fast-Acting",0.75 oz.,$1.59,False,0.0747795414462081,wt
+243,instant yeast,"Yeast, Instant, Bread Machine",4 oz.,$4.69,False,0.04135802469135803,wt
+244,chocolate,"Semi-Sweet Chocolate Morsels, FAMILY PACK",36 oz.,$5.49,False,0.005379188712522046,wt
+245,chocolate,Semi-Sweet Chocolate Morsels,10 oz.,$2.99,False,0.01054673721340388,wt
+246,chocolate,"Dark Chocolate, 72% Cacao",3 oz.,$1.99,False,0.023398001175778952,wt
+247,chocolate,Dark Chocolate with Sea Salt Toffee,3 oz.,$1.99,False,0.023398001175778952,wt
+248,sauerkraut,Sauerkraut,16 oz.,$2.79,False,0.006150793650793651,wt
+249,sauerkraut,Sauerkraut,14.4 oz.,$0.99,False,0.0024250440917107582,wt
+250,sauerkraut,"Sauerkraut, Barrel Cured",32 oz.,$2.99,False,0.0032958553791887124,wt
+251,sauerkraut,"Sauerkraut, Organic",18 oz.,$3.49,False,0.006839114246521654,wt
+252,chicken wings,Cut Chicken Wings,1 Package Approx. 1.25 lb.,$4.69/lb,False,0.010339506172839507,wt
+253,chicken wings,"Chicken Wings, FAMILY PACK",1 Package Approx. 4.2 lb.,$2.79/lb,False,0.006150793650793651,wt
+254,chicken wings,"Packaged Buffalo Chicken Wings, FAMILY PACK",32 oz.,$19.00,False,0.020943562610229276,wt
+255,chicken wings,Fully Cooked Smoked Chicken Wings,16 oz.,$8.99,False,0.01981922398589065,wt
+256,smoked salmon,"Smoked Sockeye Salmon, FAMILY PACK",12 oz.,$24.99,False,0.07345679012345678,wt
+257,smoked salmon,"New York Style Smoked Nova Salmon, FAMILY PACK",12 oz.,$19.99,False,0.05875955320399764,wt
+258,smoked salmon,"Smoked Scottish Style Salmon, FAMILY PACK",12 oz.,$19.99,False,0.05875955320399764,wt
+259,smoked salmon,Smoked Sockeye Salmon,4 oz.,$9.99,False,0.08809523809523809,wt
+260,spring onions,"Noodle Soup, Vegan, Spring Onion",1.9 oz.,$2.19,False,0.04065719855193539,wt
+261,sichuan peppercorns,Sichuan Peppercorn,0.75 oz.,$3.99,False,0.1876543209876543,wt
+262,light cream,Light Cream Cheese,12 oz.,$2.79,False,0.0082010582010582,wt
+263,light cream,Light Sour Cream,16 oz.,$1.39*,True,0.0030643738977072306,wt
+264,light cream,Light Sour Cream,8 oz.,$0.99,False,0.004365079365079365,wt
+265,light cream,"Cream Cheese, Light",8 oz.,$1.99,False,0.008774250440917107,wt
+266,gruyère,Mild Gruyere- Shredded,1 Each Approx. 0.5 lb.,$12.99/lb,False,0.028637566137566135,wt
+267,gruyère,Aged 5 Months Le Gruyere Cheese -Medium,1 Each Approx. 0.5 lb.,$16.99/lb,False,0.03745590828924162,wt
+268,gruyère,Aged 4-6 Months Gruyere Cheese- Mild,1 Each Approx. 0.5 lb.,$10.99/lb,False,0.024228395061728393,wt
+269,gruyère,Cave-Aged 12 Months Le Gruyere -Intense,1 Each Approx. 0.5 lb.,$19.99/lb,False,0.04406966490299823,wt
+270,spaghetti squash,Spaghetti Squash,1 Each Approx. 4 lb.,$1.49/lb,False,0.003284832451499118,wt
+271,rolled oats,Organic Oats Rolled,1 lb.,$2.49,False,0.005489417989417989,wt
+272,rolled oats,Rolled Oats,8 oz.,$2.99,False,0.01318342151675485,wt
+273,rolled oats,Rolled Oats,1 lb.,$1.99,False,0.004387125220458554,wt
+274,rolled oats,"Rolled Oats, Organic, Whole Grain, Old Fashioned",16 oz.,$2.99,False,0.006591710758377425,wt
+275,rolled oats,"Rolled Oats, Old Fashioned, Whole Grain",32 oz.,$6.49,False,0.007153880070546737,wt
+276,rolled oats,"Rolled Oats, Quick Cooking, Gluten Free, Whole Grain",28 oz.,$6.49,False,0.0081758629377677,wt
+277,rolled oats,"Oatmeal, Irish, Quick Cooking Rolled Oats",16 oz.,$4.49,False,0.009898589065255732,wt
+278,calamata olives,Pitted Kalamata Olives,1 Each Approx. 0.5 lb.,$9.99/lb,False,0.022023809523809522,wt
+279,calamata olives,"Kalamata Olives, Pitted",5.6 oz.,$3.99,False,0.025132275132275134,wt
+280,calamata olives,Olive Hummus Topped with Kalamata and Green Olives,10.5 oz.,$2.49,False,0.00836482741244646,wt
+281,calamata olives,"Kalamata Olives, Whole",6.3 oz.,$3.99,False,0.0223398001175779,wt
+282,pearl barley,Pearl Barley,30 oz.,$2.99,False,0.003515579071134627,wt
+283,mascarpone cheese,"Cheese, Mascarpone",8 oz.,$3.99,False,0.017592592592592594,wt
+284,mascarpone cheese,"Cheese, Mascarpone",8.8 oz.,$5.99,False,0.02400994067660734,wt
+285,haricots verts,Large Sweet Fresh Apricots,1 Each Approx. 0.35 lb.,$3.99/lb,False,0.008796296296296297,wt
+286,haricots verts,"Lowfat Yogurt, Apricot Mango",6 oz.,$0.50,False,0.002939447383891828,wt
+287,haricots verts,Dried Apricots,6 oz.,$3.99,False,0.023456790123456788,wt
+288,haricots verts,Unpeeled Apricot Halves in 100% Juice,15 oz.,$1.69,False,0.003974132863021752,wt
+289,sour cherries,"Cherries, Sour, Pitted",24 oz.,$4.99,False,0.007333921222810111,wt
+290,acorn squash,Acorn Squash,1 Each Approx. 2 lb.,$1.49/lb,False,0.003284832451499118,wt

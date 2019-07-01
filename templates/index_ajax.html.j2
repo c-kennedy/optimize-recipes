@@ -10,9 +10,16 @@
 			} else {
 			var value = $("#recipe_search2").val();
 			}
-		$.post("/search", {
-			text: value
-		}).done(function(response) {
+		var stores = [];
+		$(".store").each(function () {
+			if ($(this).prop("checked")) {
+				stores.push($(this).attr('id'));
+				}
+			})
+		$.post("/search", JSON.stringify({
+			text: value,
+			stores: stores
+		})).done(function(response) {
 			while (container.hasChildNodes()) {
 				container.removeChild(container.lastChild);
 			}
@@ -48,7 +55,13 @@
 	function generateShoppingList(container) {
 		var selectors = $(".selector");
 		var n_servings = $("#servings").val();
-		var recipes = {servings:n_servings};
+		var stores = [];
+		$(".store").each(function () {
+			if ($(this).prop("checked")) {
+				stores.push($(this).attr('id'));
+				}
+			})
+		var recipes = {servings:n_servings, stores:stores};
 		selectors.each(function () {
 			recipes[$(this).attr('id')] = $(this).val();
 			})
@@ -123,15 +136,15 @@
 <ol>
     <li>Choose nearby grocery stores that you might want to shop at.</li>
     <li>Specify how many servings you want to make.</li>
-    <li>Search for recipes, then choose from the list which recipes you're interested in. Note that for now, just main dishes are included</li>
-    <li>Click "Generate Recipes" below to see an optimal recipe similar to what you chose.</li>
+    <li>Search for recipes, then choose from the list which recipe(s) you're interested in. Note that for now, just main dishes are included.</li>
+    <li>Click "Generate Recipes" to see an optimal recipe similar to what you chose, and which grocery store to buy all the ingredients from.</li>
 </ol>
 
 <div><h3>Grocery Stores:</h3></div>
 <div>
 	<form name="stores" action="/" method="POST" id="stores">
 	{% for store in stores %}
-		<input type="checkbox" name="{{store}}" id="{{store}}" /> {{store}} <br />
+		<input type="checkbox" name="{{store}}" id="{{store}}" class="store" checked/> {{store}} <br />
 	{% endfor %}
 	</form>
 </div>
@@ -206,24 +219,6 @@ servings of this recipe.
 
 <br />
 <br />
-
-{% if similar_recipes|length != 0 %}
-<!--	<table>
-    <tr>
-        {% for header in headers %}
-            <th>{{ header }}</th>
-        {% endfor %}
-    </tr>
-    {% for row in similar_recipes.transpose() %}
-        <tr>
-            {% for header in headers %}
-                <td> {{ similar_recipes.loc[header] }} </td>
-            {% endfor %}
-        </tr>
-    {% endfor %} -->
-    {{similar_recipes.transpose()|safe}}
-{% endif %}
-
 
 
 
